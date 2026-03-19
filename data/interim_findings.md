@@ -83,8 +83,10 @@ Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N 
 
 **Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant.
 
-### The Lou Migration
+### The Lou Migration — and Mediation Role
 **New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
+
+**Lou as diplomat:** Per Ada, Lou is the most important Clendenon girl because she's actively helping Ada's group communicate with Alicia — "she's the one who starts to work with us to tell Alicia how we feel, and she's also helping us test out some new strategies." Lou has become a mediator in the Alicia conflict, which is notable: she's the newest member of the Core Five and she's already taking on a diplomatic role. This may explain why Ada's style is quiet disengagement — she outsources the confrontation.
 
 ### The Alice–Lyla Breakup
 **New (Ada debrief).** Alice and Lyla were best friends but "broke up." Ada reports both sides: Alice says she was trying to be nice and still wanted Lyla as a friend. Lyla says Alice was "being kind of mean and getting mad over little things" — the example given is that Alice got mad when Lyla said she liked her family more than her. (A classic fourth-grade loyalty test gone wrong.) Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
@@ -130,7 +132,7 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 
 | Girl | Why |
 |---|---|
-| **Lou** | Now in the Core Five. Ada says Indian girls "discluded" her. Get Lou's own version — does she see it the same way? How is she fitting in with Ada's group? |
+| **Lou** | **PRIORITY.** Now in Core Five AND mediating the Alicia conflict. Get Lou's version of: (1) what happened with the Indian girls, (2) what "strategies" she's helping test with Alicia, (3) how she sees the dispute from a newcomer's perspective. |
 | **Alice** | Ada reports Alice says she was trying to be nice to Lyla. Get Alice's direct account — what does she think happened? How did she end up with Alicia? |
 | **Lyla** | Ada reports Lyla says Alice was "mean over little things." Get Lyla's direct account. Is the Anjolie friendship solid or transitional? |
 | **Mallorie** | Natalia's #1 — is this reciprocal? What is Mallorie's social world? |
@@ -147,8 +149,8 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 
 ### Structural unknowns
 - **Gryser homeroom** is the only one where boys and girls reportedly talk to each other. Does this affect the girls' social dynamics? Milan and Ellie are here — do they interact with boys more than girls in other homerooms?
-- **Bareres homeroom** — Olivia Q is the only student we've placed there. Are there others?
-- **Clendenon** — Four girls (Kiara, Sanvi, Leela, Lou) but zero interviews. This homeroom is a blind spot.
+- ~~**Bareres homeroom** — Olivia Q is the only student we've placed there. Are there others?~~ **DEPRIORITIZED:** Per Ada, the Bareres girls "aren't really involved" — "just people who are at recess."
+- **Clendenon** — Four girls (Kiara, Sanvi, Leela, Lou). Lou is now the key figure (Core Five member and Alicia-conflict mediator). Kiara, Sanvi, and Leela still uninterviewed.
 
 ---
 

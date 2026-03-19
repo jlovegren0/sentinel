@@ -6,7 +6,7 @@
       "id": "core_four",
       "members": ["Mia", "Natalia", "Olivia N", "Ada", "Lou"],
       "status": "active",
-      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined — per Ada, the Indian girls 'discluded her a little' (not outright meanness). Lou's joining was gradual: Ada and Mia would run around saying hi to her when bored, and 'eventually we just formed a group somehow.' Now effectively a Core Five."
+      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined — per Ada, the Indian girls 'discluded her a little' (not outright meanness). Lou's joining was gradual: Ada and Mia would run around saying hi to her when bored, and 'eventually we just formed a group somehow.' Now effectively a Core Five. Lou has taken on a mediator/diplomat role — she's helping Ada's group tell Alicia 'how we feel' and 'helping us test out some new strategies.'"
     },
     {
       "id": "chinese_girls",
@@ -95,6 +95,10 @@
     {
       "girl": "Alicia",
       "description": "Bridges Bell homeroom (Natalia, Olivia) and Babu homeroom (Navya, Anyeshka). Also now in Madeline/Sanvi group after falling out with Mia/Ada."
+    },
+    {
+      "girl": "Lou",
+      "description": "Mediator/diplomat between Core Five and Alicia. Helping Ada's group communicate their feelings to Alicia and 'test out new strategies.' Also bridges Clendenon into the Bell-centered Core Five."
     }
   ],
   "ethnic_dynamics": {
