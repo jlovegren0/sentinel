@@ -1,0 +1,53 @@
+{
+  "study": {
+    "description": "Social network of fourth grade girls",
+    "school_year": "2025-2026",
+    "data_source": "handwritten notes on LRB 5 March 2026"
+  },
+  "homerooms": {
+    "Bell": {
+      "code": "B",
+      "notes": "Nicest teacher according to the girls"
+    },
+    "Johnson": {
+      "code": "J"
+    },
+    "Babu": {
+      "code": "Ba",
+      "aliases": ["Ra"]
+    },
+    "Clendenon": {
+      "code": null,
+      "notes": "Not listed in original grid"
+    },
+    "Gryser": {
+      "code": null,
+      "notes": "Strictest teacher according to the girls. No students listed yet."
+    }
+  },
+  "subjects": [
+    {"name": "Ada", "abbrev": "AD", "homeroom": "Bell"},
+    {"name": "Mia", "abbrev": "MI", "homeroom": "Bell"},
+    {"name": "Olivia N", "abbrev": "OL", "homeroom": "Bell"},
+    {"name": "Alicia", "abbrev": "AL", "homeroom": "Bell"},
+    {"name": "Natalia", "abbrev": "NAT", "homeroom": "Bell"},
+    {"name": "Annie", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Julia", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Alice", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Lyla", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Ashley", "abbrev": "AS", "homeroom": "Johnson"},
+    {"name": "Madeline H", "abbrev": "MAD", "homeroom": "Johnson"},
+    {"name": "Jane", "abbrev": null, "homeroom": "Johnson"},
+    {"name": "Anyeshka", "abbrev": "ANE", "homeroom": "Babu"},
+    {"name": "Anjolie", "abbrev": "AN", "homeroom": "Babu"},
+    {"name": "Navya", "abbrev": "NAV", "homeroom": "Babu"},
+    {"name": "Mallorie", "abbrev": null, "homeroom": "Babu"},
+    {"name": "Kiara", "abbrev": null, "homeroom": "Clendenon"},
+    {"name": "Sanvi", "abbrev": null, "homeroom": "Clendenon"},
+    {"name": "Leela", "abbrev": null, "homeroom": "Clendenon"}
+  ],
+  "unplaced_names": [
+    "Nazza", "Augusta", "Eline", "Clover", "Katia", "Ellis", "Clara"
+  ],
+  "notes": "~25 girls total. Some names from diagram not yet matched to homerooms. Gryser homeroom students unknown."
+}
