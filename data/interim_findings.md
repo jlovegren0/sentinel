@@ -75,7 +75,7 @@ The most active conflict. We now have both sides.
 
 **Alicia's side:** Mia and Ada are "stealing friends and telling secrets."
 
-**Ada's side:** Things were "kind of nice" with Alicia at first, but two grievances emerged: (1) Alicia didn't share snacks, and (2) Alicia monopolized Natalia. Specifically, in music class Alicia would always grab Natalia as her partner because she sat closest — Ada and Mia always worked together but wanted to work with Natalia too. Ada also says Alicia "doesn't really like—" (sentence cut off).
+**Ada's side:** Things were "kind of nice" with Alicia at first, but four grievances accumulated: (1) Alicia didn't share snacks, (2) Alicia monopolized Natalia in music class (sat closest, would grab her as partner every time), (3) Alicia "doesn't really like [Ada/Mia] too much," and (4) Alicia "got a little bossy" and "started to become the leader of our group." Then as weeks went on, Alicia "started to kind of separate from our group" — and that's how the Ada/Mia/Natalia trio formed. In Ada's telling, the separation was gradual and partly Alicia's own doing, not a sudden expulsion.
 
 **The Natalia question:** Both sides' complaints converge on Natalia. Alicia says Ada/Mia are "stealing friends" (i.e., Natalia). Ada says Alicia hoarded Natalia (partner-grabbing in music). Natalia herself ranks Mallorie #1 and doesn't rank any Core Four member above #3 — she may be the most sought-after girl in the group while being the least invested in it.
 
