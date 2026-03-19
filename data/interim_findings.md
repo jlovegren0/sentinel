@@ -95,7 +95,7 @@ Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N 
 **New (Ada debrief).** Ada and Madeline were best friends. Ada says the breakup was "kind of similar to Alicia" — Madeline got oversensitive, mad about little things, and bossy. The details are vivid:
 - Madeline put notes in Ada's mailbox threatening to end the friendship if Ada didn't comply with demands.
 - They wasted recesses having repetitive talks about the same issues.
-- Madeline got angry when others didn't play exclusively with her — e.g., when Alice went to play football, Madeline complained to Ada: "It's no fair, why is Alice not playing with me? She is supposed to play with me."
+- Madeline got angry when others didn't play exclusively with her — e.g., when a girl named Alice (a DIFFERENT Alice from third grade, now at a different school — NOT the current Bell homeroom Alice) went to play football, Madeline complained to Ada: "It's no fair, why is Alice not playing with me? She is supposed to play with me."
 - When Ada tried to explain it was fine, Madeline responded with a non-sequitur: "Well, I bet you don't know how to survive in the wild," and walked away angrily.
 - At playdates, Madeline got bossy and pulled Ada away from activities.
 - Pool incident: Madeline counted down from 10, ordering Ada and Arlo (likely a sibling) to get out of the pool.
@@ -104,7 +104,7 @@ Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't
 
 **The bossiness pattern:** Ada describes both Alicia and Madeline with nearly identical complaints — bossiness, controlling behavior, getting mad over little things, wanting to dictate what others do. Ada's response in both cases is quiet disengagement rather than confrontation. This may be Ada's signature move: she doesn't fight, she just leaves.
 
-**Alice connection:** Alice appears in the Madeline story (playing football at recess), meaning Ada, Madeline, and Alice were all connected before the breakups reshuffled everyone. The current map — Ada in the Core Five, Madeline with Sanvi/Alicia, Alice with Alicia — is partly the debris field of Ada's former friendships.
+**Note:** The "Alice" in the Madeline story is a different girl from third grade who has since moved schools — not the current Bell homeroom Alice who broke up with Lyla. The Ada/Madeline friendship predates the current fourth-grade social map.
 
 ### The Ethnic Partition
 Chinese and Indian girls "don't really care for each other." This is pervasive enough that the consultant marked it with stars on the diagram. The separation tracks homeroom lines (Johnson = Chinese, Babu = Indian) but persists even in mixed settings. **Exceptions:** Mia (Chinese, but cordial with Indian girls), Ada (friends with Anjolie specifically, friendly with Indian girls generally), Lou (was embedded in the Indian girls group before the rupture), and now Lyla (best friends with Anjolie). The exceptions are accumulating — the partition may be less rigid than initially observed.
