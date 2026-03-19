@@ -10,9 +10,9 @@
     },
     {
       "id": "chinese_girls",
-      "members": ["Mia", "Ashley", "Olivia Q"],
+      "members": ["Mia", "Ashley", "Olivia Q", "Milan", "Ellie"],
       "status": "active",
-      "notes": "Mia bridges into this group. Olivia Q and others (from a separate note) are the 'Chinese girls' Ashley references as her #1. Additional members TBD. This group does not tend to interact with the Indian girls."
+      "notes": "Mia bridges into this group. Olivia Q (Bareres), Milan, and Ellie (Gryser) are the 'random Chinese girls' Ashley references as her #1. This group does not tend to interact with the Indian girls."
     },
     {
       "id": "alicia_cross_group",
@@ -74,10 +74,12 @@
     "chinese_group": "Centered in Johnson homeroom. Includes Ashley, Olivia Q, and others TBD.",
     "indian_group": "Centered in Babu homeroom. Includes Navya, Anyeshka, Anjolie, and others TBD."
   },
+  "diagram_labels_resolved": [
+    {"label": "Random", "meaning": "'Random Chinese Girls' = Olivia Q, Milan, Ellie — the Chinese girls in Ashley's friend group"},
+    {"label": "NEVER DANCES", "meaning": "Misread — actually 'Alicia never shared snacks' (about Alicia)"}
+  ],
   "diagram_labels_unresolved": [
-    "Random",
     "Clover Cats",
-    "NEVER DANCES",
     "Other labels at bottom of page 30 — need user clarification"
   ]
 }
