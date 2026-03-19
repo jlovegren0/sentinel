@@ -96,6 +96,25 @@ These are not peace-making gestures — they're reconnaissance operations design
 
 **Analytical note:** Ada frames Lou's value in instrumental terms ("she's useful to have") — useful because of what she knows about Alicia, not just because of friendship. This suggests a strategic dimension to the Core Five's recruitment of Lou, whether conscious or not.
 
+### The Steam Day Incident (observed conflict in action)
+**New (Ada debrief).** Ada's most detailed account of the Alicia conflict playing out in real time. The sequence:
+
+1. **Setup:** Ada's group goes under the playscape to play "who's most likely to" — per Ada, "not directly about Alicia, not directly about Madeline, we were just minding our own business."
+2. **Madeline as enforcer, round 1:** They come out to see Ashley. Madeline approaches: "Alicia's back, and also Ada, why are you glaring at me?" When Ada denies glaring, Madeline walks away looking mad.
+3. **Madeline as enforcer, round 2:** Returns with the accusation: "Why are you guys stealing Alicia's friends?" When Ada says Alicia is the one doing it, Madeline relays: "Well, Alicia says you guys were." Then: "You guys just leave us alone." Ada's group says they're just playing tag. Madeline: "We'll just stay away because we're having a private talk."
+4. **The Lou test in action:** After Madeline leaves, Ada and Mia play tag near Alicia's area — the proximity test. Conclusion: "Yeah, she's definitely talking about us."
+5. **Kaisha as social shield:** They decide to "get gossip we needed" by going to hang out with Kaisha, who was with Alicia. The logic: "Alicia couldn't just kick us out away from Kaisha" because Ada and Mia are also friends with Kaisha. They use their legitimate friendship with Kaisha as a pretext to get close.
+6. **Alicia's deflection (raw onions):** When Ada and Mia approach via Kaisha, Alicia walks away, returns with "a handful of raw onions" and yells "Who wants raw onions?" Everyone says "Me!" — Ada and Mia think this is gross. Alicia uses the onions as a social distraction/barrier.
+7. **Denouement:** Ada and Mia chat with Kaisha about "random stuff like 'sup, how are you?'" until recess ends.
+
+**Analytical notes:**
+
+- **Madeline as Alicia's proxy:** Madeline is doing Alicia's confrontation for her — she's the one who approaches, accuses, and delivers ultimatums. Alicia stays back. This mirrors Ada's own pattern of outsourcing confrontation to Lou. Both sides have a designated confronter.
+- **Competing "friend-stealing" narratives:** Both sides accuse the other of stealing friends. Ada says Alicia is stealing friends; Alicia (via Madeline) says Ada and Mia are. The truth is probably that friends are choosing to move, and each side reads it as theft by the other.
+- **Kaisha as contested territory:** Ada explicitly uses Kaisha as a social shield — a legitimate friendship that grants access to Alicia's space. Kaisha is friends with both sides, which makes her valuable but also puts her in an impossible position. This is the first evidence that Kaisha is being instrumentalized by both factions.
+- **The raw onion gambit:** Alicia's response to being cornered (Ada approaching via Kaisha) is bizarre but effective — she creates a social event (raw onions!) that draws everyone's attention and resets the social space. She doesn't confront, she redirects. This is actually quite sophisticated for a fourth-grader.
+- **Ada's self-presentation:** Note Ada's framing throughout: "just minding our own business," "just playing tag," "just chatted about random stuff." Every action is presented as innocent, even as Ada narrates the strategic intent behind each move. She's aware of the strategy but presents it as accidental.
+
 ### The Alice–Lyla Breakup
 **New (Ada debrief).** Alice and Lyla were best friends but "broke up." Ada reports both sides: Alice says she was trying to be nice and still wanted Lyla as a friend. Lyla says Alice was "being kind of mean and getting mad over little things" — the example given is that Alice got mad when Lyla said she liked her family more than her. (A classic fourth-grade loyalty test gone wrong.) Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
 
@@ -146,7 +165,8 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 | **Mallorie** | Natalia's #1 — is this reciprocal? What is Mallorie's social world? |
 | **Kiara** | Olivia N's #1 — same questions. |
 | **Jane** | Central to the Barack crush subplot; Natalia's #2. Johnson homeroom is undersampled. |
-| **Kaisha** | Ada admires her. Paired with Navya. What's her perspective on the Indian girls group and Lou's departure? |
+| **Kaisha** | **HIGH PRIORITY.** Ada admires her AND uses her as a social shield to access Alicia's space (Steam Day). Kaisha is friends with both sides, which makes her contested territory. Get Kaisha's perspective on: (1) being caught between the factions, (2) the Indian girls group and Lou's departure, (3) does she know she's being instrumentalized? |
+| **Madeline H** | **HIGH PRIORITY.** Acting as Alicia's proxy/enforcer on Steam Day — confronting Ada's group, relaying Alicia's accusations. Get Madeline's perspective on: (1) is she choosing this role or is Alicia directing her? (2) how she sees the "friend-stealing" accusation, (3) her own breakup with Ada — does her account match Ada's? |
 | **Sanvi** | Madeline's #1. We only have Madeline's side of this friendship. |
 | **Leela** | Anjolie's #1. Same issue. |
 | **Alicia** | Re-interview: does she know Ada sees Alice as Alicia's new best friend? How does she rank Alice vs. Navya/Anyeshka now? |
