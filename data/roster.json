@@ -2,27 +2,36 @@
   "study": {
     "description": "Social network of fourth grade girls",
     "school_year": "2025-2026",
-    "data_source": "handwritten notes on LRB 5 March 2026"
+    "data_source": "handwritten notes on LRB 5 March 2026",
+    "context": "Rich neighborhood with competitive academic culture. Chinese and Indian mothers especially known for hiring tutors and sending kids to cram schools. These two demographics are socially salient to both parents and girls."
   },
   "homerooms": {
     "Bell": {
       "code": "B",
-      "notes": "Nicest teacher according to the girls"
+      "notes": "Nicest teacher according to the girls",
+      "demographics": "Mixed"
     },
     "Johnson": {
-      "code": "J"
+      "code": "J",
+      "demographics": "Most Chinese girls"
     },
     "Babu": {
       "code": "Ba",
-      "aliases": ["Ra"]
+      "aliases": ["Ra"],
+      "demographics": "Most Indian girls"
     },
     "Clendenon": {
       "code": null,
-      "notes": "Not listed in original grid"
+      "demographics": "Unknown"
     },
     "Gryser": {
       "code": null,
-      "notes": "Strictest teacher according to the girls. No students listed yet."
+      "notes": "Strictest teacher according to the girls. Gryser is Park's mom (Park is a first grade boy). Boys and girls talk to each other in this class, which reportedly doesn't happen in other homerooms.",
+      "demographics": "Unknown"
+    },
+    "Bareres": {
+      "code": null,
+      "notes": "Previously omitted homeroom teacher. No students or demographics listed yet."
     }
   },
   "subjects": [
@@ -46,8 +55,8 @@
     {"name": "Sanvi", "abbrev": null, "homeroom": "Clendenon"},
     {"name": "Leela", "abbrev": null, "homeroom": "Clendenon"}
   ],
-  "unplaced_names": [
-    "Nazza", "Augusta", "Eline", "Clover", "Katia", "Ellis", "Clara"
+  "unplaced_names_from_diagram": [
+    "Nazza (= Navya, misread)"
   ],
-  "notes": "~25 girls total. Some names from diagram not yet matched to homerooms. Gryser homeroom students unknown."
+  "notes": "~25 girls total. ~6 girls still unidentified. Bareres and Gryser homeroom students unknown. Clendenon may have more students."
 }

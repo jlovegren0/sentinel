@@ -1,0 +1,112 @@
+{
+  "description": "Best-friend rankings from first interview. '#1' is top pick, ties noted. Bottom rows = girls our consultants did not get rankings from in first interview.",
+  "rankings": [
+    {
+      "subject": "Ada",
+      "homeroom": "Bell",
+      "rank_1": ["Anjolie", "Mia"],
+      "rank_1_note": "tied",
+      "rank_2": ["Natalia", "Olivia N"],
+      "rank_2_note": "tied"
+    },
+    {
+      "subject": "Mia",
+      "homeroom": "Bell",
+      "rank_1": ["Ada"],
+      "rank_2": ["Olivia N"],
+      "rank_3": ["Natalia"]
+    },
+    {
+      "subject": "Ashley",
+      "homeroom": "Johnson",
+      "rank_1": ["UNRESOLVED: 'the Chinese girls'"],
+      "rank_1_note": "Need to clarify which girls this refers to",
+      "rank_2": ["Mia"]
+    },
+    {
+      "subject": "Alicia",
+      "homeroom": "Bell",
+      "rank_1": ["Navya", "Anyeshka"],
+      "rank_1_note": "tied",
+      "rank_2": ["Natalia", "Olivia N"],
+      "rank_2_note": "tied"
+    },
+    {
+      "subject": "Olivia N",
+      "homeroom": "Bell",
+      "rank_1": ["Kiara"],
+      "rank_2": ["Mia"],
+      "rank_3": ["Natalia"]
+    },
+    {
+      "subject": "Natalia",
+      "homeroom": "Bell",
+      "rank_1": ["Mallorie"],
+      "rank_2": ["Jane"],
+      "rank_3": ["Mia", "Olivia N"]
+    },
+    {
+      "subject": "Madeline H",
+      "homeroom": "Johnson",
+      "rank_1": ["Sanvi"],
+      "rank_2": ["Alicia"],
+      "rank_2_note": "only recently"
+    },
+    {
+      "subject": "Anjolie",
+      "homeroom": "Babu",
+      "rank_1": ["Leela"],
+      "rank_2": ["Ada"],
+      "rank_3": ["UNRESOLVED: 'Indian girls'"],
+      "rank_3_note": "Need to clarify which girls this refers to"
+    },
+    {
+      "subject": "Navya",
+      "homeroom": "Babu",
+      "rank_1": ["Anyeshka"],
+      "rank_2": ["Alicia"],
+      "rank_3": ["Ada"],
+      "rank_4": ["UNRESOLVED: 'Indian girls'"],
+      "rank_4_note": "Need to clarify which girls this refers to"
+    },
+    {
+      "subject": "Anyeshka",
+      "homeroom": "Babu",
+      "rank_1": ["Alicia"],
+      "rank_2": ["Navya"]
+    }
+  ],
+  "not_yet_ranked": {
+    "description": "Girls visible in the grid's bottom rows but without friend rankings from first interview",
+    "my_reads_from_image": [
+      {"name_guess": "Mallorie", "homeroom": "Babu", "confidence": "medium", "notes": "Appears in bottom section of grid"},
+      {"name_guess": "Jane", "homeroom": "Johnson", "confidence": "medium"},
+      {"name_guess": "Annie", "homeroom": "Bell", "confidence": "low"},
+      {"name_guess": "Kiara", "homeroom": "Clendenon", "confidence": "low"},
+      {"name_guess": "Sanvi", "homeroom": "Clendenon", "confidence": "low"},
+      {"name_guess": "Leela", "homeroom": "Clendenon", "confidence": "low"},
+      {"name_guess": "Julia", "homeroom": "Bell", "confidence": "low"},
+      {"name_guess": "Alice", "homeroom": "Bell", "confidence": "low"},
+      {"name_guess": "Lyla", "homeroom": "Bell", "confidence": "low"}
+    ]
+  },
+  "margin_notes_from_image": {
+    "description": "My attempted reads of additional handwritten annotations around the grid (page 32). Likely inaccurate — please correct.",
+    "reads": [
+      "Top right area: something about 'So bad(?) y(?) / Ar... -> (Jane?)' with dotted line",
+      "Right margin: 'ex-frnds(?)' and 'Madeline H —' and 'Madone(?) S —'",
+      "Below grid: names with arrows — possibly 'Mel, Jane, Samm(Sanvi?)' connected to other names",
+      "Bottom: 'OL (Longueno?)' — possibly Olivia's last name?",
+      "References to 'crashed', 'triple BFFs', 'Channels = true(?)', 'NAT OL'",
+      "Something about 'B — mixed', 'J — tried to not Chinese grl', 'Deli — most Indian, boys(?) too'"
+    ]
+  },
+  "open_questions": [
+    "Who are 'the Chinese girls' Ashley references? (likely Johnson classmates given Johnson has most Chinese girls)",
+    "Who are the 'Indian girls' Anjolie and Navya reference? (likely Babu classmates given Babu has most Indian girls)",
+    "Rankings for ~9 unranked girls — consultants available for follow-up interviews",
+    "Corrections to margin note reads from page 32",
+    "Students in Gryser, Bareres homerooms",
+    "Names from page 30 diagram that I misread (Augusta, Eline, Clover, Katia, Ellis, Clara — all likely wrong)"
+  ]
+}
