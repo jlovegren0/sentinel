@@ -59,7 +59,8 @@
         "side_b": ["Mia", "Ada"]
       },
       "allegation": "Alicia alleges Mia and Ada are stealing friends and telling secrets.",
-      "context": "Alicia was originally part of the Mia/Natalia/Olivia group. She is still friends with Natalia and Olivia but not Mia or Ada."
+      "ada_side": "Ada says things were 'kind of nice' with Alicia initially, but: (1) Alicia didn't share snacks, (2) in music class Alicia would always grab Natalia as her partner because she sat closest — Ada and Mia always worked together but wanted to work with Natalia too. Alicia was monopolizing Natalia. Ada also says Alicia 'doesn't really like—' (sentence cut off).",
+      "context": "Alicia was originally part of the Mia/Natalia/Olivia group. She is still friends with Natalia and Olivia but not Mia or Ada. Natalia is the contested resource — both sides want her as a partner/friend, and physical proximity in music class gave Alicia first-mover advantage."
     },
     {
       "type": "ex_friends",

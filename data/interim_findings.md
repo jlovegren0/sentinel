@@ -71,9 +71,17 @@ Per Ada: Alice's best friend was Lyla, but they split. Now Alice's best friend i
 ## 3. Key Dynamics
 
 ### The Alicia Situation
-The most active conflict. Alicia alleges Mia and Ada are "stealing friends and telling secrets." She was expelled from the Core Four but retains ties to Natalia and Olivia N (both still rank her or are ranked by her at tier 2). She has rebuilt across three different groups: Navya/Anyeshka, Madeline/Sanvi, and her residual Bell friendships. **Update (Ada debrief):** Alice has now joined Alicia's orbit after splitting from Lyla. Alicia is the most structurally interesting girl in the network — a bridge across homerooms and ethnic lines who keeps accumulating displaced friends. A recurring pattern is emerging: girl gets expelled/alienated from a group → bonds with Alicia.
+The most active conflict. We now have both sides.
 
-**Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up unprompted in the interview, suggesting it carries social meaning — either as evidence of the rift or as a grievance in its own right.
+**Alicia's side:** Mia and Ada are "stealing friends and telling secrets."
+
+**Ada's side:** Things were "kind of nice" with Alicia at first, but two grievances emerged: (1) Alicia didn't share snacks, and (2) Alicia monopolized Natalia. Specifically, in music class Alicia would always grab Natalia as her partner because she sat closest — Ada and Mia always worked together but wanted to work with Natalia too. Ada also says Alicia "doesn't really like—" (sentence cut off).
+
+**The Natalia question:** Both sides' complaints converge on Natalia. Alicia says Ada/Mia are "stealing friends" (i.e., Natalia). Ada says Alicia hoarded Natalia (partner-grabbing in music). Natalia herself ranks Mallorie #1 and doesn't rank any Core Four member above #3 — she may be the most sought-after girl in the group while being the least invested in it.
+
+Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N (both still rank her or are ranked by her at tier 2). She has rebuilt across three different groups: Navya/Anyeshka, Madeline/Sanvi, and her residual Bell friendships. **Update (Ada debrief):** Alice has now joined Alicia's orbit after splitting from Lyla. Alicia is the most structurally interesting girl in the network — a bridge across homerooms and ethnic lines who keeps accumulating displaced friends. A recurring pattern is emerging: girl gets expelled/alienated from a group → bonds with Alicia.
+
+**Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant.
 
 ### The Lou Migration
 **New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
