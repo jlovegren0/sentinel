@@ -80,7 +80,18 @@
     {"label": "Clover Cats", "meaning": "Alternate name / nickname for the Chinese girls group"},
     {"label": "Stars (*)", "meaning": "Stars next to group names denote pairs of groups where the girls 'don't really care for each other' — chilly relations but no active dispute."}
   ],
-  "diagram_labels_unresolved": [
-    "Other labels at bottom of page 30 — need user clarification"
-  ]
+  "diagram_labels_unresolved": [],
+  "boys": {
+    "description": "Notes about boys from bottom of page 30. Boys are peripheral to the girls' social network but intersect at points.",
+    "popularity_hierarchy": [
+      {"name": "Wade", "rank": 1, "notes": "Most popular boy. Teacher's pet."},
+      {"name": "Ari", "rank": 2, "notes": "#2 most popular boy."},
+      {"name": "Ethan", "rank": 3, "notes": "#3 most popular boy. Two other boys' names listed alongside him but illegible."}
+    ],
+    "weird_boys": ["Barack", "Sid"],
+    "crush_subplot": {
+      "description": "Barack is suspected of having a crush on Jane. Natalia told Jane she saw Barack reading Babysitter's Club (implying he's trying to impress her or share her interests). The girls debate whether it's better for Jane that the weird boys (Barack, Sid) have a crush on her than nobody at all.",
+      "involves": ["Barack", "Jane", "Natalia", "Sid"]
+    }
+  }
 }
