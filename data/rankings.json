@@ -19,8 +19,8 @@
     {
       "subject": "Ashley",
       "homeroom": "Johnson",
-      "rank_1": ["UNRESOLVED: 'the Chinese girls'"],
-      "rank_1_note": "Need to clarify which girls this refers to",
+      "rank_1": ["Olivia Q", "Milan", "Ellie"],
+      "rank_1_note": "Originally recorded as 'the Chinese girls'; confirmed per Ada to be Olivia Q, Milan, Ellie",
       "rank_2": ["Mia"]
     },
     {
@@ -101,12 +101,22 @@
       "Something about 'B — mixed', 'J — tried to not Chinese grl', 'Deli — most Indian, boys(?) too'"
     ]
   },
+  "ada_reported_pairings": {
+    "description": "Best-friend pairings reported by Ada (not formal interview rankings, but her account of the social landscape). Source: Ada debrief, March 2026.",
+    "pairings": [
+      {"girl": "Alice", "best_friend": "Alicia", "note": "Alice's best friend used to be Lyla, but they 'broke up'. Now Alicia."},
+      {"girl": "Lyla", "best_friend": "Anjolie", "note": "Per Ada: 'Lila's best friend is Anjali, I think.' Tentative."},
+      {"girl": "Lou", "former_group": "Indian girls (Kaisha, Navya, et al.)", "current_group": "Core Four (Ada's group)", "note": "Lou says Indian girls were 'rude to her', so she joined Ada's group."}
+    ]
+  },
   "open_questions": [
-    "Who are 'the Chinese girls' Ashley references? (likely Johnson classmates given Johnson has most Chinese girls)",
-    "Who are the 'Indian girls' Anjolie and Navya reference? (likely Babu classmates given Babu has most Indian girls)",
+    "Who are the 'Indian girls' Anjolie and Navya reference? (likely Babu classmates — Kaisha, Navya, Anyeshka, Anjolie confirmed; others TBD)",
     "Rankings for ~9 unranked girls — consultants available for follow-up interviews",
     "Corrections to margin note reads from page 32",
-    "Students in Gryser, Bareres homerooms",
-    "Names from page 30 diagram that I misread (Augusta, Eline, Clover, Katia, Ellis, Clara — all likely wrong)"
+    "Names from page 30 diagram that I misread (Augusta, Eline, Clover, Katia, Ellis, Clara — all likely wrong)",
+    "Alice's version of the Lyla breakup",
+    "Lyla's version — is Anjolie friendship solid or transitional?",
+    "Lou's full account of what happened with the Indian girls",
+    "How does Alicia rank Alice vs. Navya/Anyeshka now?"
   ]
 }

@@ -4,9 +4,9 @@
   "cliques": [
     {
       "id": "core_four",
-      "members": ["Mia", "Natalia", "Olivia N", "Ada"],
+      "members": ["Mia", "Natalia", "Olivia N", "Ada", "Lou"],
       "status": "active",
-      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets."
+      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined after leaving the Indian girls group, who she says were 'rude to her'. Now effectively a Core Five."
     },
     {
       "id": "chinese_girls",
@@ -16,15 +16,15 @@
     },
     {
       "id": "alicia_cross_group",
-      "members": ["Alicia", "Navya", "Anyeshka"],
+      "members": ["Alicia", "Navya", "Anyeshka", "Alice"],
       "status": "active",
-      "notes": "Cross-group friendship spanning Bell and Babu homerooms."
+      "notes": "Cross-group friendship spanning Bell and Babu homerooms. Alice recently joined after her breakup with Lyla; Alice's best friend is now Alicia (per Ada)."
     },
     {
       "id": "indian_girls",
-      "members": ["Navya", "Anyeshka"],
+      "members": ["Navya", "Anyeshka", "Kaisha", "Anjolie"],
       "status": "active",
-      "notes": "Navya, Anyeshka, and other Indian girls. Additional members TBD. This group does not tend to interact with the Chinese girls."
+      "notes": "Navya, Anyeshka, Kaisha, Anjolie, and possibly other Indian girls. Lou was formerly part of this group but left after they were 'rude to her'. Lyla (Bell) may be peripheral via her new friendship with Anjolie. This group does not tend to interact with the Chinese girls."
     },
     {
       "id": "madeline_sanvi",
@@ -36,7 +36,19 @@
       "id": "navya_kaisha",
       "members": ["Navya", "Kaisha"],
       "status": "active",
-      "notes": "Pairing from far-right circle on diagram."
+      "notes": "Pairing from far-right circle on diagram. Subunit within the broader Indian girls group."
+    },
+    {
+      "id": "annie_julia_lyla",
+      "members": ["Annie", "Julia", "Lyla"],
+      "status": "active",
+      "notes": "Self-contained Bell homeroom trio. Per Ada. Alice used to be Lyla's best friend but they split; Lyla's best friend is now Anjolie."
+    },
+    {
+      "id": "alice_alicia",
+      "members": ["Alice", "Alicia"],
+      "status": "active",
+      "notes": "Per Ada: Alice's best friend used to be Lyla, but they 'broke up'. Now Alice's best friend is Alicia. Adds another ally to Alicia's post-exile network."
     }
   ],
   "disputes": [
@@ -53,6 +65,20 @@
       "type": "ex_friends",
       "parties": ["Madeline H", "Ada"],
       "notes": "Madeline H and Ada are ex-friends."
+    },
+    {
+      "type": "ex_friends",
+      "parties": ["Alice", "Lyla"],
+      "notes": "Per Ada: Alice and Lyla used to be best friends but 'broke up'. Alice's best friend is now Alicia; Lyla's is now Anjolie."
+    },
+    {
+      "type": "social_rupture",
+      "parties": {
+        "side_a": ["Lou"],
+        "side_b": ["Indian girls group"]
+      },
+      "allegation": "Lou says the Indian girls were 'rude to her'.",
+      "context": "Lou was part of the Indian girls / Kaisha-Navya group but left and joined the Core Four (Ada's group)."
     }
   ],
   "bridge_roles": [
@@ -71,8 +97,8 @@
   ],
   "ethnic_dynamics": {
     "chinese_indian_separation": "Chinese girls and Indian girls don't tend to interact. Mia and Ada are exceptions.",
-    "chinese_group": "Centered in Johnson homeroom. Includes Ashley, Olivia Q, and others TBD.",
-    "indian_group": "Centered in Babu homeroom. Includes Navya, Anyeshka, Anjolie, and others TBD."
+    "chinese_group": "Confirmed members: Ashley, Mia, Olivia Q, Milan, Ellie. Centered in Johnson homeroom but spans Bareres and Gryser.",
+    "indian_group": "Confirmed members: Navya, Anyeshka, Kaisha, Anjolie, and possibly others. Centered in Babu homeroom. Lou (white, British) was formerly part of this group — meaning it is not purely ethnic. Lyla (Bell) is now peripheral via Anjolie friendship."
   },
   "diagram_labels_resolved": [
     {"label": "Random", "meaning": "'Random Chinese Girls' = Olivia Q, Milan, Ellie — the Chinese girls in Ashley's friend group"},

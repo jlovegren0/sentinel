@@ -22,31 +22,38 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 2. Best-friend rankings for 10 girls (Ada, Mia, Ashley, Alicia, Olivia N, Natalia, Madeline H, Anjolie, Navya, Anyeshka)
 3. **Page 30 clique diagram decoded** — 6 overlapping cliques identified, disputes mapped, bridge roles documented
 4. **Key social dynamics captured**: Alicia vs Mia/Ada dispute, Madeline-Ada ex-friendship, Chinese/Indian separation, Mia and Ada as cross-group bridges
+5. **Ada debrief integrated** — 8 cliques now (up from 6). Key updates: Lou joined Core Four (now Core Five), Alice–Lyla breakup, Alice→Alicia and Lyla→Anjolie new pairings, Annie/Julia/Lyla trio identified, Ashley's Chinese girls reference resolved (Olivia Q, Milan, Ellie)
 
 ## Clique Summary (from data/cliques.json)
-1. **Mia / Natalia / Olivia N / Ada** — main clique (Ada joined; Alicia fell out)
-2. **Mia / Ashley / Olivia Q + Chinese girls** — ethnic affinity group
-3. **Alicia / Navya / Anyeshka** — cross-homeroom friendship
-4. **Navya / Anyeshka / Indian girls** — ethnic affinity group
+1. **Mia / Natalia / Olivia N / Ada / Lou** — Core Five (Lou joined after leaving Indian girls group)
+2. **Mia / Ashley / Olivia Q / Milan / Ellie** — Chinese girls / Clover Cats (confirmed by Ada)
+3. **Alicia / Navya / Anyeshka / Alice** — Alicia's network (Alice joined after Lyla breakup)
+4. **Navya / Anyeshka / Kaisha / Anjolie** — Indian girls (Lou left; Lyla peripheral via Anjolie)
 5. **Madeline H / Sanvi / Alicia** — Alicia joined recently post-falling-out
-6. **Navya / Kaisha** — pairing from diagram
+6. **Navya / Kaisha** — sub-unit within Indian girls
+7. **Annie / Julia / Lyla** — self-contained Bell trio (new, per Ada)
+8. **Alice / Alicia** — new pairing post-Lyla breakup (per Ada)
 
 ## What's Next
-1. **Resolve remaining diagram labels** — "Random", "Clover Cats", "NEVER DANCES" and other labels at bottom of page 30
-2. **Complete the Chinese/Indian girl lists** — Olivia Q identified; others from "a note" still TBD. Indian girl group members beyond Navya/Anyeshka/Anjolie TBD.
-3. **Follow-up interviews via consultants** — Rankings for ~9 unranked girls (Annie, Julia, Alice, Lyla, Jane, Mallorie, Kiara, Sanvi, Leela)
-4. **Margin notes on page 32** — corrections still needed
-5. **Identify Gryser and Bareres students**
-6. **Kaisha's homeroom** — unknown
+1. **Follow-up interviews via consultants** — Priority: Lou, Alice, Lyla, Alicia (re-interview), Mallorie, Kiara, Jane, Kaisha, Sanvi, Leela
+2. **Complete Indian girls roster** — Confirmed: Kaisha, Navya, Anyeshka, Anjolie. Others TBD.
+3. **Margin notes on page 32** — corrections still needed
+4. **Identify remaining Gryser and Bareres students**
 
 ## Open Questions
-- What do the diagram labels ("Random", "Clover Cats", "NEVER DANCES") mean?
-- Who are the remaining Chinese girls besides Olivia Q?
-- Who are the remaining Indian girls beyond Navya/Anyeshka/Anjolie?
-- Which girls are in Gryser's and Bareres' homerooms?
+- Who are the remaining Indian girls beyond Navya/Anyeshka/Anjolie/Kaisha?
+- Which other girls are in Gryser's and Bareres' homerooms?
 - Margin notes corrections from page 32
-- Kaisha's homeroom
 - ~4 more girls to identify to reach ~25 total
+- What specifically happened between Lou and the Indian girls?
+- Is Lyla's friendship with Anjolie stable or transitional?
+- How does Alicia now rank Alice vs. Navya/Anyeshka?
+
+## Resolved Questions
+- Ashley's #1 "Chinese girls" = Olivia Q, Milan, Ellie (confirmed per Ada)
+- Diagram labels ("Random", "Clover Cats", "NEVER DANCES") — all resolved
+- Kaisha's homeroom = Babu
+- Chinese girls group = Ashley, Mia, Olivia Q, Milan, Ellie (confirmed)
 
 ## Branch
 All work on `claude/plan-session-cf23P`
