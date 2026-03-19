@@ -86,7 +86,15 @@ Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N 
 ### The Lou Migration — and Mediation Role
 **New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
 
-**Lou as diplomat:** Per Ada, Lou is the most important Clendenon girl because she's actively helping Ada's group communicate with Alicia — "she's the one who starts to work with us to tell Alicia how we feel, and she's also helping us test out some new strategies." Lou has become a mediator in the Alicia conflict, which is notable: she's the newest member of the Core Five and she's already taking on a diplomatic role. This may explain why Ada's style is quiet disengagement — she outsources the confrontation.
+**Lou as intelligence-gatherer (not diplomat):** Earlier description of Lou as "mediator" was inaccurate. Per Ada's details, Lou's role is closer to spy/scout. The "new strategies" are systematic behavioral tests:
+- **Proximity test #1 (tag):** They play tag near Alicia's area and observe her reaction — does she push them off, run away, leave them alone, or not care?
+- **Proximity test #2 (gossip detection):** They approach Alicia to determine if she's been talking about them. If Alicia looks mad and walks away → she was talking about them. If she says "Ada, Mia, hi" → she wasn't.
+
+These are not peace-making gestures — they're reconnaissance operations designed to read Alicia's internal state.
+
+**Critical new fact: Lou was previously best friends with Alicia.** Per Ada, "since she used to be best friends with Alicia, she also has some extra information, so she's useful to have." This reframes Lou's entire position: she's not a neutral newcomer mediating a conflict — she's a former Alicia ally who switched sides and now brings insider knowledge. From Alicia's perspective, this could feel like a betrayal layered on top of the original Mia/Ada conflict. It also means the Core Five's intelligence operations are being run by someone who knows Alicia's patterns intimately.
+
+**Analytical note:** Ada frames Lou's value in instrumental terms ("she's useful to have") — useful because of what she knows about Alicia, not just because of friendship. This suggests a strategic dimension to the Core Five's recruitment of Lou, whether conscious or not.
 
 ### The Alice–Lyla Breakup
 **New (Ada debrief).** Alice and Lyla were best friends but "broke up." Ada reports both sides: Alice says she was trying to be nice and still wanted Lyla as a friend. Lyla says Alice was "being kind of mean and getting mad over little things" — the example given is that Alice got mad when Lyla said she liked her family more than her. (A classic fourth-grade loyalty test gone wrong.) Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
@@ -132,7 +140,7 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 
 | Girl | Why |
 |---|---|
-| **Lou** | **PRIORITY.** Now in Core Five AND mediating the Alicia conflict. Get Lou's version of: (1) what happened with the Indian girls, (2) what "strategies" she's helping test with Alicia, (3) how she sees the dispute from a newcomer's perspective. |
+| **Lou** | **TOP PRIORITY.** Former best friend of Alicia, now running recon for the Core Five. Get Lou's version of: (1) what happened with Alicia — why did their best friendship end? (2) what happened with the Indian girls, (3) how she sees the proximity tests — does she frame them as she does, or differently? (4) does she feel instrumentalized ("useful to have") or is the friendship genuine? (5) what "extra information" about Alicia does she actually have? |
 | **Alice** | Ada reports Alice says she was trying to be nice to Lyla. Get Alice's direct account — what does she think happened? How did she end up with Alicia? |
 | **Lyla** | Ada reports Lyla says Alice was "mean over little things." Get Lyla's direct account. Is the Anjolie friendship solid or transitional? |
 | **Mallorie** | Natalia's #1 — is this reciprocal? What is Mallorie's social world? |

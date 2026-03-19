@@ -6,7 +6,7 @@
       "id": "core_four",
       "members": ["Mia", "Natalia", "Olivia N", "Ada", "Lou"],
       "status": "active",
-      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined — per Ada, the Indian girls 'discluded her a little' (not outright meanness). Lou's joining was gradual: Ada and Mia would run around saying hi to her when bored, and 'eventually we just formed a group somehow.' Now effectively a Core Five. Lou has taken on a mediator/diplomat role — she's helping Ada's group tell Alicia 'how we feel' and 'helping us test out some new strategies.'"
+      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined — per Ada, the Indian girls 'discluded her a little' (not outright meanness). Lou's joining was gradual: Ada and Mia would run around saying hi to her when bored, and 'eventually we just formed a group somehow.' Now effectively a Core Five. IMPORTANT: Lou was previously best friends with Alicia. She now runs intel-gathering operations for the Core Five — proximity tests (tag near Alicia, approach to gauge mood) to determine if Alicia is hostile or talking about them. Ada values Lou instrumentally: 'she's useful to have' because of insider knowledge about Alicia."
     },
     {
       "id": "chinese_girls",
@@ -98,7 +98,7 @@
     },
     {
       "girl": "Lou",
-      "description": "Mediator/diplomat between Core Five and Alicia. Helping Ada's group communicate their feelings to Alicia and 'test out new strategies.' Also bridges Clendenon into the Bell-centered Core Five."
+      "description": "Former best friend of Alicia, now in Core Five. Runs recon operations (proximity tests, mood reads) on Alicia for the group. Valued instrumentally by Ada for insider knowledge about Alicia. Also bridges Clendenon into the Bell-centered Core Five."
     }
   ],
   "ethnic_dynamics": {
