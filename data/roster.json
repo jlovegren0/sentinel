@@ -55,10 +55,10 @@
     {"name": "Sanvi", "abbrev": null, "homeroom": "Clendenon"},
     {"name": "Leela", "abbrev": null, "homeroom": "Clendenon"},
     {"name": "Olivia Q", "abbrev": null, "homeroom": "Bareres", "notes": "One of 'the Chinese girls' / 'random Chinese girls'. Last initial Q distinguishes from Olivia N."},
-    {"name": "Milan", "abbrev": null, "homeroom": null, "notes": "One of the 'random Chinese girls' in Ashley's group. Homeroom TBD."},
+    {"name": "Milan", "abbrev": null, "homeroom": "Gryser", "notes": "One of the 'random Chinese girls' in Ashley's group."},
     {"name": "Ellie", "abbrev": null, "homeroom": "Gryser", "notes": "One of the 'random Chinese girls' in Ashley's group. Last name possibly Greyser-adjacent or coincidence with homeroom."},
     {"name": "Kaisha", "abbrev": null, "homeroom": "Babu", "notes": "Paired with Navya in diagram. Ada admires Kaisha."},
-    {"name": "Lou", "abbrev": null, "homeroom": null, "notes": "New girl from the UK. Homeroom TBD."}
+    {"name": "Lou", "abbrev": null, "homeroom": "Clendenon", "notes": "New girl from the UK."}
   ],
   "unplaced_names_from_diagram": [
     "Nazza (= Navya, misread)"
