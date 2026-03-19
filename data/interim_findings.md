@@ -29,7 +29,7 @@ Eight groups emerged from the page 30 circle diagram and Ada's debrief. They ove
 ### A. The Core Four → Core Five (Bell + Clendenon)
 **Mia — Natalia — Olivia N — Ada — Lou**
 
-The dominant clique. Originally Mia/Natalia/Olivia N/Alicia, until Ada joined and Alicia was pushed out. A tight Ada–Mia–Natalia sub-clique has formed within it, which has "gotten mixed reactions" from others. **Update (Ada debrief):** Lou (Clendenon, new from UK) has joined after leaving the Indian girls group, who she says were "rude to her." Now effectively a Core Five. This is the group most girls in Bell homeroom orient toward, whether as members, aspirants, or exiles.
+The dominant clique. Originally Mia/Natalia/Olivia N/Alicia, until Ada joined and Alicia was pushed out. A tight Ada–Mia–Natalia sub-clique has formed within it, which has "gotten mixed reactions" from others. **Update (Ada debrief):** Lou (Clendenon, new from UK) has joined after drifting from the Indian girls group, who "discluded her a little." The formation was gradual — Ada and Mia would say hi to Lou when bored, "and eventually we just formed a group somehow." Now effectively a Core Five. This is the group most girls in Bell homeroom orient toward, whether as members, aspirants, or exiles.
 
 ### B. The Chinese Girls / "Clover Cats" (cross-homeroom)
 **Ashley — Mia — Olivia Q — Milan — Ellie**
@@ -76,10 +76,12 @@ The most active conflict. Alicia alleges Mia and Ada are "stealing friends and t
 **Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up unprompted in the interview, suggesting it carries social meaning — either as evidence of the rift or as a grievance in its own right.
 
 ### The Lou Migration
-**New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. She says they were "rude to her," so she left and joined Ada's Core Four (now Core Five). This is the second data point (after Alicia) of a girl leaving one group after a social rupture and migrating to another. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
+**New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
 
 ### The Alice–Lyla Breakup
-**New (Ada debrief).** Alice and Lyla were best friends but "broke up." Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
+**New (Ada debrief).** Alice and Lyla were best friends but "broke up." Ada reports both sides: Alice says she was trying to be nice and still wanted Lyla as a friend. Lyla says Alice was "being kind of mean and getting mad over little things" — the example given is that Alice got mad when Lyla said she liked her family more than her. (A classic fourth-grade loyalty test gone wrong.) Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
+
+**On Alicia's awareness:** Ada notes she doesn't think Alicia knows that Ada sees Alice as a friend, "but her and Alice probably know that they're friends." This suggests the Alice–Alicia bond is genuine and recognized by both parties, not just Ada's projection.
 
 ### The Ethnic Partition
 Chinese and Indian girls "don't really care for each other." This is pervasive enough that the consultant marked it with stars on the diagram. The separation tracks homeroom lines (Johnson = Chinese, Babu = Indian) but persists even in mixed settings. **Exceptions:** Mia (Chinese, but cordial with Indian girls), Ada (friends with Anjolie specifically, friendly with Indian girls generally), Lou (was embedded in the Indian girls group before the rupture), and now Lyla (best friends with Anjolie). The exceptions are accumulating — the partition may be less rigid than initially observed.
@@ -105,9 +107,9 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 
 | Girl | Why |
 |---|---|
-| **Lou** | **URGENT.** Now in the Core Five. What happened with the Indian girls? What does "rude" mean specifically? How is she fitting in with Ada's group? |
-| **Alice** | What's her version of the Lyla breakup? How did she end up with Alicia? |
-| **Lyla** | Same breakup, other side. Is the Anjolie friendship solid or transitional? |
+| **Lou** | Now in the Core Five. Ada says Indian girls "discluded" her. Get Lou's own version — does she see it the same way? How is she fitting in with Ada's group? |
+| **Alice** | Ada reports Alice says she was trying to be nice to Lyla. Get Alice's direct account — what does she think happened? How did she end up with Alicia? |
+| **Lyla** | Ada reports Lyla says Alice was "mean over little things." Get Lyla's direct account. Is the Anjolie friendship solid or transitional? |
 | **Mallorie** | Natalia's #1 — is this reciprocal? What is Mallorie's social world? |
 | **Kiara** | Olivia N's #1 — same questions. |
 | **Jane** | Central to the Barack crush subplot; Natalia's #2. Johnson homeroom is undersampled. |
@@ -131,9 +133,9 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 
 For consultants conducting round 2 interviews:
 
-1. **For Lou (PRIORITY):** "We heard you used to hang out with Kaisha and Navya's group. What happened? What do you mean when you say they were rude?" (Get specifics on the rupture.) "How are things with Ada's group now?"
-2. **For Alice:** "Who's your best friend right now? We heard you and Lyla used to be close — what changed?" (Get her side of the breakup.)
-3. **For Lyla:** "Who's your best friend right now? How did you and Anjolie become friends?" (Confirm the cross-homeroom bond.)
+1. **For Lou:** "We heard you used to hang out with Kaisha and Navya's group. Ada mentioned they kind of left you out — is that how you see it? What happened exactly?" (Ada says "discluded a little" — see if Lou's version matches.) "How did you start hanging out with Ada and Mia?"
+2. **For Alice:** "Who's your best friend right now? Someone told us you and Lyla used to be close but things changed — what happened from your side?" (Ada reports Alice says she was trying to be nice. Probe gently — don't reveal Lyla's "mean over little things" framing.)
+3. **For Lyla:** "Who's your best friend right now? How did you and Anjolie become friends?" (Ada reports Lyla felt Alice was getting mad over little things. See if Lyla volunteers this or frames it differently.)
 4. **For Alicia (re-interview):** "We heard Alice is your best friend now — is that right? How would you rank Alice, Navya, and Anyeshka?" (Track how her network is evolving.)
 5. **For Mallorie and Kiara:** "Who are your closest friends? Who do you sit with at lunch?" (They're ranked #1 by Core Four members but may not reciprocate.)
 6. **For any Bell girl:** "Has anything changed between Alicia and Mia/Ada since we last talked?" (Track dispute trajectory.)

@@ -104,9 +104,9 @@
   "ada_reported_pairings": {
     "description": "Best-friend pairings reported by Ada (not formal interview rankings, but her account of the social landscape). Source: Ada debrief, March 2026.",
     "pairings": [
-      {"girl": "Alice", "best_friend": "Alicia", "note": "Alice's best friend used to be Lyla, but they 'broke up'. Now Alicia."},
+      {"girl": "Alice", "best_friend": "Alicia", "note": "Alice's best friend used to be Lyla, but they 'broke up'. Alice's side: she was trying to be nice, still wanted Lyla as a friend. Lyla's side: Alice was 'being kind of mean and getting mad over little things' — e.g., got mad when Lyla said she liked her family more than her. Now Alicia is Alice's best friend. Ada adds: 'I don't know if Alicia knows that I see Alice as a friend, but her and Alice probably know that they're friends.'"},
       {"girl": "Lyla", "best_friend": "Anjolie", "note": "Per Ada: 'Lila's best friend is Anjali, I think.' Tentative."},
-      {"girl": "Lou", "former_group": "Indian girls (Kaisha, Navya, et al.)", "current_group": "Core Four (Ada's group)", "note": "Lou says Indian girls were 'rude to her', so she joined Ada's group."}
+      {"girl": "Lou", "former_group": "Indian girls (Kaisha, Navya, et al.)", "current_group": "Core Five (Ada's group)", "note": "Indian girls 'discluded her a little' (Ada's word) — not outright meanness, more gradual exclusion. Lou's joining was organic: Ada and Mia would run around saying hi to her when bored, 'and eventually we just formed a group somehow.'"}
     ]
   },
   "open_questions": [
@@ -114,9 +114,9 @@
     "Rankings for ~9 unranked girls — consultants available for follow-up interviews",
     "Corrections to margin note reads from page 32",
     "Names from page 30 diagram that I misread (Augusta, Eline, Clover, Katia, Ellis, Clara — all likely wrong)",
-    "Alice's version of the Lyla breakup",
-    "Lyla's version — is Anjolie friendship solid or transitional?",
-    "Lou's full account of what happened with the Indian girls",
+    "Alice's version of the Lyla breakup — Ada reports both sides but direct interview still needed",
+    "Lyla's version — Ada says Lyla felt Alice was 'mean over little things'; direct interview still needed",
+    "Lou's full account — Ada says 'discluded a little', not outright meanness; Lou's own account still needed",
     "How does Alicia rank Alice vs. Navya/Anyeshka now?"
   ]
 }

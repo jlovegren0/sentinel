@@ -6,7 +6,7 @@
       "id": "core_four",
       "members": ["Mia", "Natalia", "Olivia N", "Ada", "Lou"],
       "status": "active",
-      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined after leaving the Indian girls group, who she says were 'rude to her'. Now effectively a Core Five."
+      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined — per Ada, the Indian girls 'discluded her a little' (not outright meanness). Lou's joining was gradual: Ada and Mia would run around saying hi to her when bored, and 'eventually we just formed a group somehow.' Now effectively a Core Five."
     },
     {
       "id": "chinese_girls",
@@ -48,7 +48,7 @@
       "id": "alice_alicia",
       "members": ["Alice", "Alicia"],
       "status": "active",
-      "notes": "Per Ada: Alice's best friend used to be Lyla, but they 'broke up'. Now Alice's best friend is Alicia. Adds another ally to Alicia's post-exile network."
+      "notes": "Per Ada: Alice's best friend used to be Lyla, but they 'broke up'. Alice says she was trying to be nice; Lyla says Alice was mean over little things. Now Alice's best friend is Alicia. Ada notes: 'I don't know if Alicia knows that I see Alice as a friend, but her and Alice probably know that they're friends.'"
     }
   ],
   "disputes": [
@@ -69,7 +69,7 @@
     {
       "type": "ex_friends",
       "parties": ["Alice", "Lyla"],
-      "notes": "Per Ada: Alice and Lyla used to be best friends but 'broke up'. Alice's best friend is now Alicia; Lyla's is now Anjolie."
+      "notes": "Per Ada: Alice and Lyla used to be best friends but 'broke up'. Alice's side: she was trying to be nice, still wanted Lyla as a friend. Lyla's side: Alice was 'being kind of mean and getting mad over little things' — e.g., got mad when Lyla said she liked her family more than her. Alice's best friend is now Alicia; Lyla's is now Anjolie."
     },
     {
       "type": "social_rupture",
@@ -77,8 +77,8 @@
         "side_a": ["Lou"],
         "side_b": ["Indian girls group"]
       },
-      "allegation": "Lou says the Indian girls were 'rude to her'.",
-      "context": "Lou was part of the Indian girls / Kaisha-Navya group but left and joined the Core Four (Ada's group)."
+      "allegation": "Lou felt the Indian girls 'discluded' her (Ada's word). Not outright meanness — more gradual exclusion.",
+      "context": "Lou was part of the Indian girls / Kaisha-Navya group but drifted away. Ada and Mia started saying hi to her when bored, and the group formed organically over time."
     }
   ],
   "bridge_roles": [
