@@ -1,0 +1,83 @@
+{
+  "description": "Clique structure decoded from page 30 diagram (overlapping circles) and user corrections. Cliques overlap — girls appear in multiple groups.",
+  "data_source": "User corrections to diagram + consultant interview notes",
+  "cliques": [
+    {
+      "id": "core_four",
+      "members": ["Mia", "Natalia", "Olivia N", "Ada"],
+      "status": "active",
+      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets."
+    },
+    {
+      "id": "chinese_girls",
+      "members": ["Mia", "Ashley", "Olivia Q"],
+      "status": "active",
+      "notes": "Mia bridges into this group. Olivia Q and others (from a separate note) are the 'Chinese girls' Ashley references as her #1. Additional members TBD. This group does not tend to interact with the Indian girls."
+    },
+    {
+      "id": "alicia_cross_group",
+      "members": ["Alicia", "Navya", "Anyeshka"],
+      "status": "active",
+      "notes": "Cross-group friendship spanning Bell and Babu homerooms."
+    },
+    {
+      "id": "indian_girls",
+      "members": ["Navya", "Anyeshka"],
+      "status": "active",
+      "notes": "Navya, Anyeshka, and other Indian girls. Additional members TBD. This group does not tend to interact with the Chinese girls."
+    },
+    {
+      "id": "madeline_sanvi",
+      "members": ["Madeline H", "Sanvi", "Alicia"],
+      "status": "active",
+      "notes": "Madeline and Sanvi were friends; Alicia recently joined after her falling out with Mia and Ada."
+    },
+    {
+      "id": "navya_kaisha",
+      "members": ["Navya", "Kaisha"],
+      "status": "active",
+      "notes": "Pairing from far-right circle on diagram."
+    }
+  ],
+  "disputes": [
+    {
+      "type": "active_dispute",
+      "parties": {
+        "side_a": ["Alicia"],
+        "side_b": ["Mia", "Ada"]
+      },
+      "allegation": "Alicia alleges Mia and Ada are stealing friends and telling secrets.",
+      "context": "Alicia was originally part of the Mia/Natalia/Olivia group. She is still friends with Natalia and Olivia but not Mia or Ada."
+    },
+    {
+      "type": "ex_friends",
+      "parties": ["Madeline H", "Ada"],
+      "notes": "Madeline H and Ada are ex-friends."
+    }
+  ],
+  "bridge_roles": [
+    {
+      "girl": "Mia",
+      "description": "Chinese but unusually cordial with the Indian girls, unlike the broader Chinese clique."
+    },
+    {
+      "girl": "Ada",
+      "description": "Friends with Anjolie (Indian, Babu homeroom) outside her main clique. Friendly with Indian girls generally."
+    },
+    {
+      "girl": "Alicia",
+      "description": "Bridges Bell homeroom (Natalia, Olivia) and Babu homeroom (Navya, Anyeshka). Also now in Madeline/Sanvi group after falling out with Mia/Ada."
+    }
+  ],
+  "ethnic_dynamics": {
+    "chinese_indian_separation": "Chinese girls and Indian girls don't tend to interact. Mia and Ada are exceptions.",
+    "chinese_group": "Centered in Johnson homeroom. Includes Ashley, Olivia Q, and others TBD.",
+    "indian_group": "Centered in Babu homeroom. Includes Navya, Anyeshka, Anjolie, and others TBD."
+  },
+  "diagram_labels_unresolved": [
+    "Random",
+    "Clover Cats",
+    "NEVER DANCES",
+    "Other labels at bottom of page 30 — need user clarification"
+  ]
+}

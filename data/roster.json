@@ -53,10 +53,12 @@
     {"name": "Mallorie", "abbrev": null, "homeroom": "Babu"},
     {"name": "Kiara", "abbrev": null, "homeroom": "Clendenon"},
     {"name": "Sanvi", "abbrev": null, "homeroom": "Clendenon"},
-    {"name": "Leela", "abbrev": null, "homeroom": "Clendenon"}
+    {"name": "Leela", "abbrev": null, "homeroom": "Clendenon"},
+    {"name": "Olivia Q", "abbrev": null, "homeroom": "Johnson", "notes": "One of 'the Chinese girls'. Last initial Q distinguishes from Olivia N."},
+    {"name": "Kaisha", "abbrev": null, "homeroom": null, "notes": "Paired with Navya in diagram. Homeroom unknown."}
   ],
   "unplaced_names_from_diagram": [
     "Nazza (= Navya, misread)"
   ],
-  "notes": "~25 girls total. ~6 girls still unidentified. Bareres and Gryser homeroom students unknown. Clendenon may have more students."
+  "notes": "~25 girls total. ~4 girls still unidentified. Bareres and Gryser homeroom students unknown. Clendenon may have more students. 'Olivia M' in user's clique description = Olivia N (confirmed typo)."
 }
