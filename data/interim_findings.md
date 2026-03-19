@@ -49,7 +49,7 @@ Confirmed members per Ada: Kaisha, Navya, and "all the other Indian kids." Babu 
 ### E. Madeline–Sanvi–Alicia (cross-homeroom)
 **Madeline H — Sanvi — Alicia**
 
-Madeline (Johnson) and Sanvi (Clendenon) were an existing pair; Alicia joined recently after her falling out. Madeline ranks Sanvi #1 and Alicia #2 ("only recently"). Madeline and Ada are ex-friends.
+Madeline (Johnson) and Sanvi (Clendenon) were an existing pair; Alicia joined recently after her falling out. Madeline ranks Sanvi #1 and Alicia #2 ("only recently"). Madeline and Ada are ex-best friends — see "Ada–Madeline Breakup" below.
 
 ### F. Navya–Kaisha (Babu)
 **Navya — Kaisha**
@@ -90,6 +90,21 @@ Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N 
 **New (Ada debrief).** Alice and Lyla were best friends but "broke up." Ada reports both sides: Alice says she was trying to be nice and still wanted Lyla as a friend. Lyla says Alice was "being kind of mean and getting mad over little things" — the example given is that Alice got mad when Lyla said she liked her family more than her. (A classic fourth-grade loyalty test gone wrong.) Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
 
 **On Alicia's awareness:** Ada notes she doesn't think Alicia knows that Ada sees Alice as a friend, "but her and Alice probably know that they're friends." This suggests the Alice–Alicia bond is genuine and recognized by both parties, not just Ada's projection.
+
+### The Ada–Madeline Breakup
+**New (Ada debrief).** Ada and Madeline were best friends. Ada says the breakup was "kind of similar to Alicia" — Madeline got oversensitive, mad about little things, and bossy. The details are vivid:
+- Madeline put notes in Ada's mailbox threatening to end the friendship if Ada didn't comply with demands.
+- They wasted recesses having repetitive talks about the same issues.
+- Madeline got angry when others didn't play exclusively with her — e.g., when Alice went to play football, Madeline complained to Ada: "It's no fair, why is Alice not playing with me? She is supposed to play with me."
+- When Ada tried to explain it was fine, Madeline responded with a non-sequitur: "Well, I bet you don't know how to survive in the wild," and walked away angrily.
+- At playdates, Madeline got bossy and pulled Ada away from activities.
+- Pool incident: Madeline counted down from 10, ordering Ada and Arlo (likely a sibling) to get out of the pool.
+
+Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't told Madeline directly: "I really don't want to see her face when I tell her this."
+
+**The bossiness pattern:** Ada describes both Alicia and Madeline with nearly identical complaints — bossiness, controlling behavior, getting mad over little things, wanting to dictate what others do. Ada's response in both cases is quiet disengagement rather than confrontation. This may be Ada's signature move: she doesn't fight, she just leaves.
+
+**Alice connection:** Alice appears in the Madeline story (playing football at recess), meaning Ada, Madeline, and Alice were all connected before the breakups reshuffled everyone. The current map — Ada in the Core Five, Madeline with Sanvi/Alicia, Alice with Alicia — is partly the debris field of Ada's former friendships.
 
 ### The Ethnic Partition
 Chinese and Indian girls "don't really care for each other." This is pervasive enough that the consultant marked it with stars on the diagram. The separation tracks homeroom lines (Johnson = Chinese, Babu = Indian) but persists even in mixed settings. **Exceptions:** Mia (Chinese, but cordial with Indian girls), Ada (friends with Anjolie specifically, friendly with Indian girls generally), Lou (was embedded in the Indian girls group before the rupture), and now Lyla (best friends with Anjolie). The exceptions are accumulating — the partition may be less rigid than initially observed.

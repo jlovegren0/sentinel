@@ -65,7 +65,8 @@
     {
       "type": "ex_friends",
       "parties": ["Madeline H", "Ada"],
-      "notes": "Madeline H and Ada are ex-friends."
+      "notes": "Madeline H and Ada were best friends. Per Ada, the breakup was 'kind of similar to Alicia' — Madeline got oversensitive, mad about little things, and bossy. Specifics: (1) Madeline put notes in Ada's mailbox threatening to end the friendship if Ada didn't do certain things, (2) they wasted recesses having repeated talks about the same issues, (3) Madeline got mad when others didn't play with her — e.g., Alice went to play football and Madeline complained 'it's no fair, why is Alice not playing with me?', (4) when Ada tried to explain it was fine, Madeline said 'I bet you don't know how to survive in the wild' and walked away angrily, (5) Madeline got bossy at playdates, pulling Ada away from activities, (6) pool incident — Madeline counted down from 10 ordering Ada and Arlo (sibling?) to get out of the pool. Ada decided in fourth grade that Madeline 'is not the friend for me' but hasn't told her yet: 'I really don't want to see her face when I tell her this.' Note: Alice appears in this story, meaning Ada/Madeline/Alice were connected before the breakups reshuffled everyone.",
+      "ada_pattern": "Ada describes both Alicia and Madeline with nearly identical complaints: bossiness, controlling behavior, getting mad over little things. Ada's response in both cases is gradual disengagement rather than confrontation."
     },
     {
       "type": "ex_friends",
