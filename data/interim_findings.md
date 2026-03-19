@@ -115,6 +115,20 @@ These are not peace-making gestures — they're reconnaissance operations design
 - **The raw onion gambit:** Alicia's response to being cornered (Ada approaching via Kaisha) is bizarre but effective — she creates a social event (raw onions!) that draws everyone's attention and resets the social space. She doesn't confront, she redirects. This is actually quite sophisticated for a fourth-grader.
 - **Ada's self-presentation:** Note Ada's framing throughout: "just minding our own business," "just playing tag," "just chatted about random stuff." Every action is presented as innocent, even as Ada narrates the strategic intent behind each move. She's aware of the strategy but presents it as accidental.
 
+### Conflict Resolution Styles (Ada on herself and Kaisha)
+**New (Ada debrief).** Ada describes two contrasting approaches to conflict resolution:
+
+**Kaisha as genuine mediator:** Ada reports that Kaisha "usually helps break up fights by getting information from both sides and she'll send the information to each other so they know what's going on." Critically, Ada adds: "She doesn't really say which side she's on. It seems like she's on both sides, which is not a bad thing." This reframes the Steam Day incident — Ada was instrumentalizing someone whose actual role in the social ecosystem is neutral mediator/information broker. Kaisha isn't just contested territory being fought over — she's an active peacemaker being exploited as a social shield.
+
+**The limitation:** "Alicia usually doesn't understand." Ada attributes mediation failure to Alicia's inability to process the information Kaisha relays, not to any flaw in Kaisha's method. This is consistent with Ada's overall framing of Alicia as the unreasonable party.
+
+**Ada's own style — humor-based forced reconciliation:** Ada says "I don't really solve problems, but if I do, I kind of solve them by getting the two enemies together and saying, 'Now the bride and groom may kiss.' And then somehow they suddenly become friends." She reports this "usually works." This is a fascinating approach — it uses absurdist humor to defuse tension and skip past the actual conflict. No mediation, no information exchange, just a joke that forces both parties to laugh together. It works in minor disputes but wouldn't work for a conflict as deep as the Alicia situation (and notably, Ada hasn't tried it there).
+
+**Ada's self-awareness:** "I don't really solve problems" is a remarkably honest self-assessment. She's acknowledging that her default is avoidance (consistent with the quiet disengagement pattern seen in both the Alicia and Madeline breakups), and her rare interventions are performative humor rather than genuine mediation. She outsources real conflict work to Lou (recon) and apparently benefits from Kaisha (mediation) without being a mediator herself.
+
+### Ada and the Chinese Girls
+**New (Ada debrief).** Ada describes her relationship with the other Chinese girls (Olivia Q, Milan, Ellie, and presumably others) as shallow: "they mostly just joke around and play games and talk about stuff, nothing really connected or important to anything." This confirms the Chinese girls group is recreational for Ada, not her emotional core. **Ashley is the intelligence bridge:** "Ashley's the one who knows about Alicia and Madeline though." This means Ashley serves a specific function — she's the Chinese girls group member who tracks the Alicia/Madeline situation, filtering relevant conflict information from a group that otherwise doesn't engage with it.
+
 ### The Alice–Lyla Breakup
 **New (Ada debrief).** Alice and Lyla were best friends but "broke up." Ada reports both sides: Alice says she was trying to be nice and still wanted Lyla as a friend. Lyla says Alice was "being kind of mean and getting mad over little things" — the example given is that Alice got mad when Lyla said she liked her family more than her. (A classic fourth-grade loyalty test gone wrong.) Alice's best friend is now Alicia; Lyla's is now Anjolie. This reshuffles two groups: the Annie/Julia/Lyla trio is now self-contained (no Alice), and Lyla's pivot to Anjolie creates another cross-ethnic, cross-homeroom bond (Bell → Babu).
 
@@ -165,7 +179,7 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 | **Mallorie** | Natalia's #1 — is this reciprocal? What is Mallorie's social world? |
 | **Kiara** | Olivia N's #1 — same questions. |
 | **Jane** | Central to the Barack crush subplot; Natalia's #2. Johnson homeroom is undersampled. |
-| **Kaisha** | **HIGH PRIORITY.** Ada admires her AND uses her as a social shield to access Alicia's space (Steam Day). Kaisha is friends with both sides, which makes her contested territory. Get Kaisha's perspective on: (1) being caught between the factions, (2) the Indian girls group and Lou's departure, (3) does she know she's being instrumentalized? |
+| **Kaisha** | **HIGH PRIORITY.** Per Ada, Kaisha is the ecosystem's genuine mediator — she collects information from both sides and relays it neutrally, "doesn't really say which side she's on." But Ada also instrumentalizes her as a social shield (Steam Day). Get Kaisha's perspective on: (1) her mediation role — how does she see it? (2) does she feel used by Ada's group? (3) "Alicia usually doesn't understand" — what does this look like from Kaisha's side? (4) the Indian girls group and Lou's departure. |
 | **Madeline H** | **HIGH PRIORITY.** Acting as Alicia's proxy/enforcer on Steam Day — confronting Ada's group, relaying Alicia's accusations. Get Madeline's perspective on: (1) is she choosing this role or is Alicia directing her? (2) how she sees the "friend-stealing" accusation, (3) her own breakup with Ada — does her account match Ada's? |
 | **Sanvi** | Madeline's #1. We only have Madeline's side of this friendship. |
 | **Leela** | Anjolie's #1. Same issue. |
