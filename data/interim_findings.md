@@ -79,6 +79,12 @@ The most active conflict. We now have both sides.
 
 **The Natalia question:** Both sides' complaints converge on Natalia. Alicia says Ada/Mia are "stealing friends" (i.e., Natalia). Ada says Alicia hoarded Natalia (partner-grabbing in music). Natalia herself ranks Mallorie #1 and doesn't rank any Core Four member above #3 — she may be the most sought-after girl in the group while being the least invested in it.
 
+**Natalia as former peacemaker:** Per Ada, "Natalia used to be the peacemaker between Alicia and I — we would tell her something and she would tell the other person what we said. She'd just act as a telephone." This is the same information-relay model as Kaisha's mediation — neutral third party shuttling messages between combatants. Past tense ("used to be") suggests Natalia no longer plays this role, probably because she ended up on Ada's side of the split and lost her neutrality. **Kaisha may have inherited Natalia's mediation function.**
+
+**Natalia as "support buddy":** Ada also describes Natalia as "mostly like a support buddy" — they hang out at lunch and during math "when all my other friends go to talented and gifted." This reframes Natalia's value to Ada: she's not a top-tier emotional confidante (that's Mia) but a reliable presence who fills structural gaps — lunch, math class — when Ada's preferred friends are unavailable. **Key detail: Ada's Core Five friends are in talented and gifted; Natalia and Ada are not.** This creates recurring moments where Natalia is Ada's only available companion, which strengthens their bond not through depth but through scheduling.
+
+**Natalia's popularity (per Ada):** "She's nice and she has a sister named Daniela who's also popular." Ada attributes Natalia's popularity partly to sibling reflected status — Daniela's popularity rubs off. This is a new social mechanism not seen elsewhere in the data.
+
 Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N (both still rank her or are ranked by her at tier 2). She has rebuilt across three different groups: Navya/Anyeshka, Madeline/Sanvi, and her residual Bell friendships. **Update (Ada debrief):** Alice has now joined Alicia's orbit after splitting from Lyla. Alicia is the most structurally interesting girl in the network — a bridge across homerooms and ethnic lines who keeps accumulating displaced friends. A recurring pattern is emerging: girl gets expelled/alienated from a group → bonds with Alicia.
 
 **Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant.
@@ -151,6 +157,8 @@ Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't
 
 ### The Ethnic Partition
 Chinese and Indian girls "don't really care for each other." This is pervasive enough that the consultant marked it with stars on the diagram. The separation tracks homeroom lines (Johnson = Chinese, Babu = Indian) but persists even in mixed settings. **Exceptions:** Mia (Chinese, but cordial with Indian girls), Ada (friends with Anjolie specifically, friendly with Indian girls generally), Lou (was embedded in the Indian girls group before the rupture), and now Lyla (best friends with Anjolie). The exceptions are accumulating — the partition may be less rigid than initially observed.
+
+**Language note (Ada debrief):** Most girls speak English. Ada believes the Chinese girls (Mia's friends — presumably Olivia Q, Milan, Ellie, Ashley) sometimes speak Chinese when together: "I see her and her friends hanging out without Mia and they speak Chinese sometimes, so they might speak Chinese when they're together." Also notes a girl named **Mapery** "who doesn't know English that well, but she speaks English instead of Turkish." Language switching may reinforce the ethnic partition — the Chinese girls have a shared language that creates in-group moments inaccessible to others. Mapery is a new name; unclear which homeroom or group she belongs to.
 
 ### Asymmetric Friendships
 Several rankings are notably non-reciprocal:
