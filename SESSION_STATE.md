@@ -28,6 +28,8 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 5. **Ada debrief integrated** — 8 cliques now (up from 6). Key updates: Lou joined Core Four (now Core Five), Alice–Lyla breakup, Alice→Alicia and Lyla→Anjolie new pairings, Annie/Julia/Lyla trio identified, Ashley's Chinese girls reference resolved (Olivia Q, Milan, Ellie)
 6. **Ada remarks integrated** — New names: Ruby (Lou's best friend, unknown homeroom), Margaret and Abby (Johnson). Head-top confrontation documented. Madeline-Alicia alliance signal. Lunchtime seating map. Snack-sharing rituals. Kiara-Olivia and Mallory-Natalia friendships confirmed. STT transcription key added. Confidentiality constraint noted (no new interviews this round).
 7. **First-round margin notes analyzed** — Boys believed dyslexic: Wade, Ari, Lincoln. "Share secrets, share snacks" = Ada's founding principles for Mia-Ada-Natalia group. Mia "has a way with boys" = intelligence-gathering asset. "Alicia could have joined if she shared snacks" = explicit gatekeeping criterion.
+8. **Interim findings restructured** — Alicia Situation broken into four sub-parts (Original Grievances, Natalia Dimension, Snack-Sharing Constitutional Crisis, Alicia's Rebuilding). Kaisha observations consolidated into "Kaisha: Mediator Under Pressure." Snack-sharing ritual folded into the Alicia section. Lou heading corrected to "Intelligence Role." Clover Cats question removed (already resolved). Margin notes provenance added.
+9. **Analysis section added (Section 5)** — Eight subsections on social mechanisms: Exchange and Entry, Intelligence and Reconnaissance, Conflict Without Confrontation, Mediation and Brokerage, Displacement and Accumulation, The Ethnic Partition, Structural Holes and Scheduling, The Emerging Two-Bloc Structure. Follow-up questions renumbered to Section 6.
 
 ## Clique Summary (from data/cliques.json)
 1. **Mia / Natalia / Olivia N / Ada / Lou** — Core Five (Lou joined after leaving Indian girls group)
@@ -48,12 +50,11 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 6. **Identify Ruby's homeroom** — she bridges Lou and Lyla, unknown placement.
 
 ## Open Questions
-- Who are the remaining Indian girls beyond Navya/Anyeshka/Anjolie/Kaisha/Maperi?
+- Who are the remaining Indian girls beyond Navya/Anyeshka/Anjolie/Kaisha/Maperi? (Likely complete if Babu ≈ Indian girls; Mallorie's membership uncertain)
 - Which other girls are in Gryser's and Bareres' homerooms?
 - Margin notes corrections from page 32
-- Who is Ruby? Which homeroom? How does she connect Lou and Lyla?
+- Who is Ruby? Which homeroom? (Connection to Lou and Lyla is documented; placement unknown)
 - Who is "Nia" (from Ada's STT transcript)? Real person or verbal fumble?
-- What specifically happened between Lou and the Indian girls?
 - Is the Madeline-Alicia alliance solidifying or was Steam Day a one-off?
 - Is Kaisha aware she's being instrumentalized by both sides?
 - How does Alicia now rank Alice vs. Navya/Anyeshka?
@@ -61,6 +62,7 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 ## Resolved Questions
 - Ashley's #1 "Chinese girls" = Olivia Q, Milan, Ellie (confirmed per Ada)
 - Diagram labels ("Random", "Clover Cats", "NEVER DANCES") — all resolved
+- "Clover Cats" = confirmed alternate name for Chinese girls group (per cliques.json)
 - Kaisha's homeroom = Babu
 - Chinese girls group = Ashley, Mia, Olivia Q, Milan, Ellie (confirmed)
 - Kiara-Olivia N friendship = reciprocal (Ada observes daily recess hangouts)
@@ -68,6 +70,7 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 - Lyla's best friends = Ruby and Anjolie (per Ada; Anjolie previously known, Ruby new)
 - Lou's best friend = Ruby (new; previously thought to be Alicia as former BF)
 - STEAM Day = Science/Technology/Engineering/Art/Mathematics rotating stations
+- Lou's departure from Indian girls = Ada's account obtained ("discluded a little," gradual drift); Lou's own version still needed for round 2
 
 ## Branch
 All work on `claude/plan-session-cf23P`
