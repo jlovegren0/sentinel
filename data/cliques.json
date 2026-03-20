@@ -81,6 +81,40 @@
       },
       "allegation": "Lou felt the Indian girls 'discluded' her (Ada's word). Not outright meanness — more gradual exclusion.",
       "context": "Lou was part of the Indian girls / Kaisha-Navya group but drifted away. Ada and Mia started saying hi to her when bored, and the group formed organically over time."
+    },
+    {
+      "type": "incident",
+      "name": "Head-top confrontation (precedes Steam Day recess)",
+      "parties": {
+        "side_a": ["Ada", "Mia"],
+        "side_b": ["Alicia"]
+      },
+      "sequence": [
+        "Ada and Mia tell Alicia: 'Don't call us by our nicknames anymore, you're not our friend.'",
+        "Alicia: 'Fine, I'm fine with that.'",
+        "Alicia then head-tops them ('for the ten billionth time even though we asked her not to').",
+        "Alicia claims they never told her to stop.",
+        "Mia head-tops Alicia back and runs away.",
+        "Ada attempts to head-top Alicia; Alicia blocks Ada's hand and hits Ada's head.",
+        "Alicia accuses Ada of hitting her head; Ada says she didn't touch it."
+      ],
+      "context": "Head-top is a game where you tap someone's head to give them the 'head top.' You can block by placing your hand on your head. The game is social currency — doing it to someone who told you to stop is a provocation. This incident directly preceded the Steam Day recess fight.",
+      "source": "Ada remarks (latest)"
+    },
+    {
+      "type": "alliance_signal",
+      "name": "Madeline-Alicia alliance forming",
+      "parties": ["Madeline H", "Alicia"],
+      "evidence": [
+        "During Steam Day recess, Alicia was walking alone; Madeline came over to her.",
+        "Madeline asked Ada's group why they were 'talking behind Alicia's back.'",
+        "Madeline said 'Can you stay away, we are going to have a private talk' and had private talk with Alicia.",
+        "After the fight, Ada saw Madeline on monkey bars with Anyeshka and Navya — 'I knew something was up.'",
+        "Ada: 'They might have more allies and friends, but at least we have more brains.'"
+      ],
+      "ada_theory": "Madeline may have come over because she either (1) saw the fight firsthand (Johnson's class may have come out to recess first) — 'me tapping Alicia's head, me yelling at Alicia, me arguing,' or (2) saw Alicia looking sad and went to check on her, and Alicia spilled what happened.",
+      "analytical_note": "Madeline with Anyeshka and Navya on the monkey bars is a cross-group signal — Madeline (Johnson) linking up with Indian girls (Babu). Maperi was also there but 'just swinging on the monkey bars and having fun' — not part of the alliance.",
+      "source": "Ada remarks (latest)"
     }
   ],
   "bridge_roles": [
@@ -113,6 +147,30 @@
     {"label": "Stars (*)", "meaning": "Stars next to group names denote pairs of groups where the girls 'don't really care for each other' — chilly relations but no active dispute."}
   ],
   "diagram_labels_unresolved": [],
+  "lunchtime_seating": {
+    "source": "Ada remarks (latest)",
+    "arrangement": "Each class has its own table. Tables are assigned by homeroom.",
+    "table_order": ["Bell", "Babu", "Johnson", "Bareres", "Clendenon", "Gryser"],
+    "table_order_note": "Bell is between Babu and Johnson. After Johnson: Bareres, then Clendenon, then Gryser. Ada was uncertain about exact order beyond Johnson.",
+    "bell_table_detail": "Ada, Mia, Natalia sit on the same bench. Olivia N sits across from them. Alice might join. Mostly it's Ada/Mia/Natalia/Olivia.",
+    "johnson_table_detail": "Madeline sits somewhere near Jane, Margaret, and Abby."
+  },
+  "snack_sharing_methods": {
+    "source": "Ada remarks (latest). Describes how Ada and Mia share snacks covertly in Bell's classroom.",
+    "methods": [
+      "1. Wait for designated snack time (Ms. Bell lets them 'chillax and eat snack for three minutes'). Ada walks to Mia's desk.",
+      "2. When working in partners — choose each other, bring snacks over.",
+      "3. At the carpet — sneakily share snacks with each other.",
+      "4. 'Throwing away stuff method' — Ada rips off a piece of trash, goes to throw it in the trash can, gives Mia snack on the way there, receives 'payment' on the way back."
+    ],
+    "analytical_note": "The elaborate covert methods suggest snack-sharing is both a bonding ritual and a minor form of rule-breaking that reinforces the Ada-Mia pair bond. The 'payment' framing is notable — a miniature economy of reciprocity."
+  },
+  "steam_day_explained": {
+    "source": "Ada remarks (latest)",
+    "acronym": "Science, Technology, Engineering, Art, Mathematics",
+    "format": "Rotating stations. Some stations pair two classes together. After stations: either stay with own class, or whole 4th+5th grade in cafeteria for experiment, or in classroom with parents. Different people at different times.",
+    "examples": "Art = drawing, Science = elephant toothpaste, Technology = snap circuits"
+  },
   "boys": {
     "description": "Notes about boys from bottom of page 30. Boys are peripheral to the girls' social network but intersect at points.",
     "popularity_hierarchy": [
