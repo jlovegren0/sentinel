@@ -91,7 +91,11 @@ The most active conflict. We now have both sides.
 
 Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N (both still rank her or are ranked by her at tier 2). She has rebuilt across three different groups: Navya/Anyeshka, Madeline/Sanvi, and her residual Bell friendships. **Update (Ada debrief):** Alice has now joined Alicia's orbit after splitting from Lyla. Alicia is the most structurally interesting girl in the network — a bridge across homerooms and ethnic lines who keeps accumulating displaced friends. A recurring pattern is emerging: girl gets expelled/alienated from a group → bonds with Alicia.
 
-**Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant.
+**"Share secrets, share snacks" — the founding charter:** Ada herself defines these two principles as the basis of the group she formed with Mia and Natalia. This is not an observer's inference — it's Ada's own articulation of what membership means. During the interview Ada was eating an arroz con pollo she said tasted like what Natalia has for lunch, underscoring how food/snack culture operates as a bonding mechanism (shared taste = shared identity).
+
+**"Alicia could have joined if she shared snacks":** Ada's direct statement, which reframes the Alicia situation. Alicia wasn't expelled for a single offense — she failed to meet the group's entry criterion. In Ada's telling, the door was open; Alicia chose not to walk through it. Whether Alicia understood this criterion is another question.
+
+**Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant. **Updated context:** Given Ada's "share secrets, share snacks" founding charter, the snack refusal is more than a grievance — it's a violation of the group's constitutional principle. Ada sees it as Alicia refusing the social contract, not just being stingy.
 
 ### The Lou Migration — and Mediation Role
 **New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
@@ -241,6 +245,10 @@ Several rankings are notably non-reciprocal:
 
 ### Boys (Peripheral)
 The girls maintain a boys' popularity ladder: Wade (#1, teacher's pet), Ari (#2), Ethan (#3). Separately, Barack and Sid are "weird boys." There is a running subplot about whether Barack has a crush on Jane — Natalia told Jane she saw Barack reading Babysitter's Club. The girls debate whether attention from weird boys is better than no attention.
+
+**Boys believed to be dyslexic (per first-round notes):** Wade, Ari, Lincoln. This is the girls' categorization — whether these boys are actually dyslexic or this is a social label is unknown. Notable that two of the three top-popularity boys (Wade #1, Ari #2) are on this list; Lincoln is a new name not previously placed in the popularity ladder.
+
+**Mia's "way with boys":** Ada explains that Mia (and Ada herself) are "brave enough to occasionally talk to the boys and find out information about them." This is framed as one of Mia's assets — a skill she contributes to the group. Mia serves as an intelligence-gatherer not just within the girls' network but across the gender line.
 
 ---
 

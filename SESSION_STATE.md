@@ -27,6 +27,7 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 4. **Key social dynamics captured**: Alicia vs Mia/Ada dispute, Madeline-Ada ex-friendship, Chinese/Indian separation, Mia and Ada as cross-group bridges
 5. **Ada debrief integrated** — 8 cliques now (up from 6). Key updates: Lou joined Core Four (now Core Five), Alice–Lyla breakup, Alice→Alicia and Lyla→Anjolie new pairings, Annie/Julia/Lyla trio identified, Ashley's Chinese girls reference resolved (Olivia Q, Milan, Ellie)
 6. **Ada remarks integrated** — New names: Ruby (Lou's best friend, unknown homeroom), Margaret and Abby (Johnson). Head-top confrontation documented. Madeline-Alicia alliance signal. Lunchtime seating map. Snack-sharing rituals. Kiara-Olivia and Mallory-Natalia friendships confirmed. STT transcription key added. Confidentiality constraint noted (no new interviews this round).
+7. **First-round margin notes analyzed** — Boys believed dyslexic: Wade, Ari, Lincoln. "Share secrets, share snacks" = Ada's founding principles for Mia-Ada-Natalia group. Mia "has a way with boys" = intelligence-gathering asset. "Alicia could have joined if she shared snacks" = explicit gatekeeping criterion.
 
 ## Clique Summary (from data/cliques.json)
 1. **Mia / Natalia / Olivia N / Ada / Lou** — Core Five (Lou joined after leaving Indian girls group)
