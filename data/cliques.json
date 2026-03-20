@@ -1,0 +1,129 @@
+{
+  "description": "Clique structure decoded from page 30 diagram (overlapping circles) and user corrections. Cliques overlap — girls appear in multiple groups.",
+  "data_source": "User corrections to diagram + consultant interview notes",
+  "cliques": [
+    {
+      "id": "core_four",
+      "members": ["Mia", "Natalia", "Olivia N", "Ada", "Lou"],
+      "status": "active",
+      "notes": "Original group was Mia/Natalia/Olivia/Alicia. Ada joined later. Ada+Mia+Natalia then formed a tight sub-clique that has 'gotten mixed reactions' from the other girls. Alicia fell out over allegations that Mia and Ada were stealing friends and telling secrets. Lou (Clendenon, new from UK) recently joined — per Ada, the Indian girls 'discluded her a little' (not outright meanness). Lou's joining was gradual: Ada and Mia would run around saying hi to her when bored, and 'eventually we just formed a group somehow.' Now effectively a Core Five. IMPORTANT: Lou was previously best friends with Alicia. She now runs intel-gathering operations for the Core Five — proximity tests (tag near Alicia, approach to gauge mood) to determine if Alicia is hostile or talking about them. Ada values Lou instrumentally: 'she's useful to have' because of insider knowledge about Alicia."
+    },
+    {
+      "id": "chinese_girls",
+      "members": ["Mia", "Ashley", "Olivia Q", "Milan", "Ellie"],
+      "status": "active",
+      "notes": "Mia bridges into this group. Olivia Q (Bareres), Milan, and Ellie (Gryser) are the 'random Chinese girls' Ashley references as her #1. This group does not tend to interact with the Indian girls."
+    },
+    {
+      "id": "alicia_cross_group",
+      "members": ["Alicia", "Navya", "Anyeshka", "Alice"],
+      "status": "active",
+      "notes": "Cross-group friendship spanning Bell and Babu homerooms. Alice recently joined after her breakup with Lyla; Alice's best friend is now Alicia (per Ada)."
+    },
+    {
+      "id": "indian_girls",
+      "members": ["Navya", "Anyeshka", "Kaisha", "Anjolie"],
+      "status": "active",
+      "notes": "Navya, Anyeshka, Kaisha, Anjolie, and possibly other Indian girls. Lou was formerly part of this group but left after they were 'rude to her'. Lyla (Bell) may be peripheral via her new friendship with Anjolie. This group does not tend to interact with the Chinese girls."
+    },
+    {
+      "id": "madeline_sanvi",
+      "members": ["Madeline H", "Sanvi", "Alicia"],
+      "status": "active",
+      "notes": "Madeline and Sanvi were friends; Alicia recently joined after her falling out with Mia and Ada. Madeline now acts as Alicia's proxy/enforcer — she confronts Ada's group on Alicia's behalf (Steam Day incident: accused them of glaring, stealing friends, told them to 'leave us alone'). Alicia stays back while Madeline does the confrontation."
+    },
+    {
+      "id": "navya_kaisha",
+      "members": ["Navya", "Kaisha"],
+      "status": "active",
+      "notes": "Pairing from far-right circle on diagram. Subunit within the broader Indian girls group. Per Ada, Kaisha is the ecosystem's neutral mediator — collects info from both sides of conflicts and relays it without taking sides. Ada also uses her as a social shield (Steam Day). Kaisha's mediation reportedly fails with Alicia because 'Alicia usually doesn't understand.'"
+    },
+    {
+      "id": "annie_julia_lyla",
+      "members": ["Annie", "Julia", "Lyla"],
+      "status": "active",
+      "notes": "Self-contained Bell homeroom trio. Per Ada. Alice used to be Lyla's best friend but they split; Lyla's best friend is now Anjolie."
+    },
+    {
+      "id": "alice_alicia",
+      "members": ["Alice", "Alicia"],
+      "status": "active",
+      "notes": "Per Ada: Alice's best friend used to be Lyla, but they 'broke up'. Alice says she was trying to be nice; Lyla says Alice was mean over little things. Now Alice's best friend is Alicia. Ada notes: 'I don't know if Alicia knows that I see Alice as a friend, but her and Alice probably know that they're friends.'"
+    }
+  ],
+  "disputes": [
+    {
+      "type": "active_dispute",
+      "parties": {
+        "side_a": ["Alicia"],
+        "side_b": ["Mia", "Ada"]
+      },
+      "allegation": "Alicia alleges Mia and Ada are stealing friends and telling secrets.",
+      "ada_side": "Ada says things were 'kind of nice' with Alicia initially, but: (1) Alicia didn't share snacks, (2) in music class Alicia would always grab Natalia as her partner because she sat closest — Ada and Mia always worked together but wanted to work with Natalia too, (3) Alicia 'doesn't really like [Ada/Mia] too much', (4) Alicia 'got a little bossy' and 'started to become the leader of our group.' Then as weeks went on Alicia 'started to kind of separate from our group' — and that's how the Ada/Mia/Natalia trio formed.",
+      "context": "Alicia was originally part of the Mia/Natalia/Olivia group. She is still friends with Natalia and Olivia but not Mia or Ada. Per Ada, the separation was gradual — Alicia pulled away after becoming bossy, rather than being expelled. Natalia is the contested resource — both sides want her as a partner/friend, and physical proximity in music class gave Alicia first-mover advantage."
+    },
+    {
+      "type": "ex_friends",
+      "parties": ["Madeline H", "Ada"],
+      "notes": "Madeline H and Ada were best friends. Per Ada, the breakup was 'kind of similar to Alicia' — Madeline got oversensitive, mad about little things, and bossy. Specifics: (1) Madeline put notes in Ada's mailbox threatening to end the friendship if Ada didn't do certain things, (2) they wasted recesses having repeated talks about the same issues, (3) Madeline got mad when others didn't play with her — e.g., Alice went to play football and Madeline complained 'it's no fair, why is Alice not playing with me?', (4) when Ada tried to explain it was fine, Madeline said 'I bet you don't know how to survive in the wild' and walked away angrily, (5) Madeline got bossy at playdates, pulling Ada away from activities, (6) pool incident — Madeline counted down from 10 ordering Ada and Arlo (sibling?) to get out of the pool. Ada decided in fourth grade that Madeline 'is not the friend for me' but hasn't told her yet: 'I really don't want to see her face when I tell her this.' Note: the 'Alice' in this story is a DIFFERENT Alice from third grade who has since moved schools — NOT Alice from Bell homeroom who broke up with Lyla.",
+      "ada_pattern": "Ada describes both Alicia and Madeline with nearly identical complaints: bossiness, controlling behavior, getting mad over little things. Ada's response in both cases is gradual disengagement rather than confrontation."
+    },
+    {
+      "type": "ex_friends",
+      "parties": ["Alice", "Lyla"],
+      "notes": "Per Ada: Alice and Lyla used to be best friends but 'broke up'. Alice's side: she was trying to be nice, still wanted Lyla as a friend. Lyla's side: Alice was 'being kind of mean and getting mad over little things' — e.g., got mad when Lyla said she liked her family more than her. Alice's best friend is now Alicia; Lyla's is now Anjolie."
+    },
+    {
+      "type": "social_rupture",
+      "parties": {
+        "side_a": ["Lou"],
+        "side_b": ["Indian girls group"]
+      },
+      "allegation": "Lou felt the Indian girls 'discluded' her (Ada's word). Not outright meanness — more gradual exclusion.",
+      "context": "Lou was part of the Indian girls / Kaisha-Navya group but drifted away. Ada and Mia started saying hi to her when bored, and the group formed organically over time."
+    }
+  ],
+  "bridge_roles": [
+    {
+      "girl": "Mia",
+      "description": "Chinese but unusually cordial with the Indian girls, unlike the broader Chinese clique."
+    },
+    {
+      "girl": "Ada",
+      "description": "Friends with Anjolie (Indian, Babu homeroom) outside her main clique. Friendly with Indian girls generally."
+    },
+    {
+      "girl": "Alicia",
+      "description": "Bridges Bell homeroom (Natalia, Olivia) and Babu homeroom (Navya, Anyeshka). Also now in Madeline/Sanvi group after falling out with Mia/Ada."
+    },
+    {
+      "girl": "Lou",
+      "description": "Former best friend of Alicia, now in Core Five. Runs recon operations (proximity tests, mood reads) on Alicia for the group. Valued instrumentally by Ada for insider knowledge about Alicia. Also bridges Clendenon into the Bell-centered Core Five."
+    }
+  ],
+  "ethnic_dynamics": {
+    "chinese_indian_separation": "Chinese girls and Indian girls don't tend to interact. Mia and Ada are exceptions.",
+    "chinese_group": "Confirmed members: Ashley, Mia, Olivia Q, Milan, Ellie. Centered in Johnson homeroom but spans Bareres and Gryser.",
+    "indian_group": "Confirmed members: Navya, Anyeshka, Kaisha, Anjolie, and possibly others. Centered in Babu homeroom. Lou (white, British) was formerly part of this group — meaning it is not purely ethnic. Lyla (Bell) is now peripheral via Anjolie friendship."
+  },
+  "diagram_labels_resolved": [
+    {"label": "Random", "meaning": "'Random Chinese Girls' = Olivia Q, Milan, Ellie — the Chinese girls in Ashley's friend group"},
+    {"label": "NEVER DANCES", "meaning": "Misread — actually 'Alicia never shared snacks' (about Alicia). Items she wouldn't share: strawberry covered pretzels, cheeto fries, chips."},
+    {"label": "Clover Cats", "meaning": "Alternate name / nickname for the Chinese girls group"},
+    {"label": "Stars (*)", "meaning": "Stars next to group names denote pairs of groups where the girls 'don't really care for each other' — chilly relations but no active dispute."}
+  ],
+  "diagram_labels_unresolved": [],
+  "boys": {
+    "description": "Notes about boys from bottom of page 30. Boys are peripheral to the girls' social network but intersect at points.",
+    "popularity_hierarchy": [
+      {"name": "Wade", "rank": 1, "notes": "Most popular boy. Teacher's pet."},
+      {"name": "Ari", "rank": 2, "notes": "#2 most popular boy."},
+      {"name": "Ethan", "rank": 3, "notes": "#3 most popular boy. Two other boys' names listed alongside him but illegible."}
+    ],
+    "weird_boys": ["Barack", "Sid"],
+    "crush_subplot": {
+      "description": "Barack is suspected of having a crush on Jane. Natalia told Jane she saw Barack reading Babysitter's Club (implying he's trying to impress her or share her interests). The girls debate whether it's better for Jane that the weird boys (Barack, Sid) have a crush on her than nobody at all.",
+      "involves": ["Barack", "Jane", "Natalia", "Sid"]
+    }
+  }
+}

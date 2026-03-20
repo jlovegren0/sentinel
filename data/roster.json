@@ -1,0 +1,67 @@
+{
+  "study": {
+    "description": "Social network of fourth grade girls",
+    "school_year": "2025-2026",
+    "data_source": "handwritten notes on LRB 5 March 2026",
+    "context": "Rich neighborhood with competitive academic culture. Chinese and Indian mothers especially known for hiring tutors and sending kids to cram schools. These two demographics are socially salient to both parents and girls."
+  },
+  "homerooms": {
+    "Bell": {
+      "code": "B",
+      "notes": "Nicest teacher according to the girls",
+      "demographics": "Mixed"
+    },
+    "Johnson": {
+      "code": "J",
+      "demographics": "Most Chinese girls"
+    },
+    "Babu": {
+      "code": "Ba",
+      "aliases": ["Ra"],
+      "demographics": "Most Indian girls"
+    },
+    "Clendenon": {
+      "code": null,
+      "demographics": "Unknown"
+    },
+    "Gryser": {
+      "code": null,
+      "notes": "Strictest teacher according to the girls. Gryser is Park's mom (Park is a first grade boy). Boys and girls talk to each other in this class, which reportedly doesn't happen in other homerooms.",
+      "demographics": "Unknown"
+    },
+    "Bareres": {
+      "code": null,
+      "notes": "Per Ada: Bareres girls 'aren't really involved' — 'just people who are at recess.' Deprioritize for interviews."
+    }
+  },
+  "subjects": [
+    {"name": "Ada", "abbrev": "AD", "homeroom": "Bell"},
+    {"name": "Mia", "abbrev": "MI", "homeroom": "Bell"},
+    {"name": "Olivia N", "abbrev": "OL", "homeroom": "Bell"},
+    {"name": "Alicia", "abbrev": "AL", "homeroom": "Bell"},
+    {"name": "Natalia", "abbrev": "NAT", "homeroom": "Bell"},
+    {"name": "Annie", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Julia", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Alice", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Lyla", "abbrev": null, "homeroom": "Bell"},
+    {"name": "Ashley", "abbrev": "AS", "homeroom": "Johnson"},
+    {"name": "Madeline H", "abbrev": "MAD", "homeroom": "Johnson"},
+    {"name": "Jane", "abbrev": null, "homeroom": "Johnson"},
+    {"name": "Anyeshka", "abbrev": "ANE", "homeroom": "Babu"},
+    {"name": "Anjolie", "abbrev": "AN", "homeroom": "Babu"},
+    {"name": "Navya", "abbrev": "NAV", "homeroom": "Babu"},
+    {"name": "Mallorie", "abbrev": null, "homeroom": "Babu"},
+    {"name": "Kiara", "abbrev": null, "homeroom": "Clendenon"},
+    {"name": "Sanvi", "abbrev": null, "homeroom": "Clendenon"},
+    {"name": "Leela", "abbrev": null, "homeroom": "Clendenon"},
+    {"name": "Olivia Q", "abbrev": null, "homeroom": "Bareres", "notes": "One of 'the Chinese girls' / 'random Chinese girls'. Last initial Q distinguishes from Olivia N."},
+    {"name": "Milan", "abbrev": null, "homeroom": "Gryser", "notes": "One of the 'random Chinese girls' in Ashley's group."},
+    {"name": "Ellie", "abbrev": null, "homeroom": "Gryser", "notes": "One of the 'random Chinese girls' in Ashley's group. Last name possibly Greyser-adjacent or coincidence with homeroom."},
+    {"name": "Kaisha", "abbrev": null, "homeroom": "Babu", "notes": "Paired with Navya in diagram. Ada admires Kaisha."},
+    {"name": "Lou", "abbrev": null, "homeroom": "Clendenon", "notes": "New girl from the UK."}
+  ],
+  "unplaced_names_from_diagram": [
+    "Nazza (= Navya, misread)"
+  ],
+  "notes": "~25 girls total. ~4 girls still unidentified. Bareres and Gryser homeroom students unknown. Clendenon may have more students. 'Olivia M' in user's clique description = Olivia N (confirmed typo)."
+}
