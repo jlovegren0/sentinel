@@ -106,7 +106,16 @@
     "pairings": [
       {"girl": "Alice", "best_friend": "Alicia", "note": "Alice's best friend used to be Lyla, but they 'broke up'. Alice's side: she was trying to be nice, still wanted Lyla as a friend. Lyla's side: Alice was 'being kind of mean and getting mad over little things' — e.g., got mad when Lyla said she liked her family more than her. Now Alicia is Alice's best friend. Ada adds: 'I don't know if Alicia knows that I see Alice as a friend, but her and Alice probably know that they're friends.'"},
       {"girl": "Lyla", "best_friend": "Anjolie", "note": "Per Ada: 'Lila's best friend is Anjali, I think.' Tentative."},
-      {"girl": "Lou", "former_group": "Indian girls (Kaisha, Navya, et al.)", "current_group": "Core Five (Ada's group)", "note": "Indian girls 'discluded her a little' (Ada's word) — not outright meanness, more gradual exclusion. Lou's joining was organic: Ada and Mia would run around saying hi to her when bored, 'and eventually we just formed a group somehow.'"}
+      {"girl": "Lou", "former_group": "Indian girls (Kaisha, Navya, et al.)", "current_group": "Core Five (Ada's group)", "note": "Indian girls 'discluded her a little' (Ada's word) — not outright meanness, more gradual exclusion. Lou's joining was organic: Ada and Mia would run around saying hi to her when bored, 'and eventually we just formed a group somehow.'"},
+      {"girl": "Lou", "best_friend": "Ruby", "note": "NEW (Ada remarks): 'Lao was best friends with Ruby.' Ada unsure which class Ruby is in. Lou's other friends per Ada: 'some of the Indian girls... Mia and Nia and maybe some of the other girls in her class like Lila.' (Nia uncertain — possibly verbal fumble.)"},
+      {"girl": "Lyla", "best_friends": ["Ruby", "Anjolie"], "note": "NEW (Ada remarks): 'I think some of Alila's best friends are like Ruby and Anjali.' Confirms Anjolie; adds Ruby as a new connection. Ruby appears to bridge Lou and Lyla."}
+    ]
+  },
+  "ada_observed_friendships": {
+    "description": "Friendships Ada reports observing at recess, not from formal rankings. Source: Ada remarks (latest).",
+    "observations": [
+      {"girl_a": "Kiara", "girl_b": "Olivia N", "note": "Ada: 'Kiara is probably friends with Olivia because I see them hang out at recess every day.' Confirms Olivia N's #1 ranking of Kiara."},
+      {"girl_a": "Mallorie", "girl_b": "Natalia", "note": "Ada: 'Mallory's probably friends with Natalia because I see them hang out every day.' Confirms Natalia's #1 ranking of Mallorie."}
     ]
   },
   "open_questions": [

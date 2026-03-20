@@ -58,10 +58,17 @@
     {"name": "Milan", "abbrev": null, "homeroom": "Gryser", "notes": "One of the 'random Chinese girls' in Ashley's group."},
     {"name": "Ellie", "abbrev": null, "homeroom": "Gryser", "notes": "One of the 'random Chinese girls' in Ashley's group. Last name possibly Greyser-adjacent or coincidence with homeroom."},
     {"name": "Kaisha", "abbrev": null, "homeroom": "Babu", "notes": "Paired with Navya in diagram. Ada admires Kaisha."},
-    {"name": "Lou", "abbrev": null, "homeroom": "Clendenon", "notes": "New girl from the UK."}
+    {"name": "Lou", "abbrev": null, "homeroom": "Clendenon", "notes": "New girl from the UK. Ada pronounces as 'Lao' in speech."},
+    {"name": "Maperi", "abbrev": null, "homeroom": "Babu", "notes": "Turkish background, 'doesn't know English that well but speaks English instead of Turkish.' Described as 'silly.' Hangs out with Indian kids in Babu's class. Non-Indian girl embedded in Indian girls' group (like Lou before her)."},
+    {"name": "Ruby", "abbrev": null, "homeroom": "unknown", "notes": "NEW (Ada remarks). Lou's best friend per Ada. Also friends with Lyla. Unknown homeroom — Ada unsure which class Ruby is in."},
+    {"name": "Margaret", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."},
+    {"name": "Abby", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."}
   ],
   "unplaced_names_from_diagram": [
     "Nazza (= Navya, misread)"
   ],
-  "notes": "~25 girls total. ~4 girls still unidentified. Bareres and Gryser homeroom students unknown. Clendenon may have more students. 'Olivia M' in user's clique description = Olivia N (confirmed typo)."
+  "uncertain_names": [
+    {"name": "Nia", "source": "Ada remarks — 'Mia and Nia' when listing Lou's friends. Possibly verbal fumble (Mia repeated), or a new person. Low confidence."}
+  ],
+  "notes": "~28 girls total (up from ~25). Ruby, Margaret, and Abby added from Ada's latest remarks. Bareres and Gryser homerooms still undersampled. 'Olivia M' in user's clique description = Olivia N (confirmed typo)."
 }

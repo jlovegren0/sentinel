@@ -1,18 +1,22 @@
 # Interim Findings — Fourth Grade Girls' Social Network
-**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief
+**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks
+
+**Sourcing note:** Ada's latest remarks are provided under confidentiality — she does not want the other girls to know she has been talking. Assertions from these remarks should be treated as single-source intelligence (Ada's perspective) rather than confirmed facts. We will not be seeking corroboration via additional interviewees for this round.
+
+**Transcription note:** Ada's remarks were captured via speech-to-text. "Me" and "Mia" are not always correctly distinguished by the STT engine. Some name renderings are phonetic approximations: "Lao" = Lou, "Alila" = Lyla, "Anjali" = Anjolie, "Anushka" = Anyeshka, "Baboo" = Babu, "Ma Perry" = Maperi.
 
 ---
 
 ## 1. The Map So Far
 
-We have identified **25 girls** across **six homerooms** and obtained best-friend rankings from **10** of them. The social landscape is organized around a few overlapping cliques, with ethnic identity and homeroom placement as the two main sorting variables.
+We have identified **28 girls** across **six homerooms** and obtained best-friend rankings from **10** of them. The social landscape is organized around a few overlapping cliques, with ethnic identity and homeroom placement as the two main sorting variables.
 
 ### Homeroom breakdown
 
 | Homeroom | Teacher character | Known students |
 |---|---|---|
 | **Bell** | "Nicest teacher" | Ada, Mia, Olivia N, Alicia, Natalia, Annie, Julia, Alice, Lyla |
-| **Johnson** | — | Ashley, Madeline H, Jane |
+| **Johnson** | — | Ashley, Madeline H, Jane, Margaret, Abby |
 | **Babu** | — | Anyeshka, Anjolie, Navya, Mallorie, Kaisha |
 | **Clendenon** | — | Kiara, Sanvi, Leela, Lou (new, from UK) |
 | **Gryser** | Strictest; boys and girls talk here | Milan, Ellie |
@@ -87,7 +91,11 @@ The most active conflict. We now have both sides.
 
 Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N (both still rank her or are ranked by her at tier 2). She has rebuilt across three different groups: Navya/Anyeshka, Madeline/Sanvi, and her residual Bell friendships. **Update (Ada debrief):** Alice has now joined Alicia's orbit after splitting from Lyla. Alicia is the most structurally interesting girl in the network — a bridge across homerooms and ethnic lines who keeps accumulating displaced friends. A recurring pattern is emerging: girl gets expelled/alienated from a group → bonds with Alicia.
 
-**Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant.
+**"Share secrets, share snacks" — the founding charter:** Ada herself defines these two principles as the basis of the group she formed with Mia and Natalia. This is not an observer's inference — it's Ada's own articulation of what membership means. During the interview Ada tried arroz con pollo for the first time and commented that it tasted like what Natalia has for lunch. Ada is half Vietnamese and doesn't normally eat Mexican food at home — so this was a new food for her, and her immediate association was with Natalia. The detail illustrates how the snack-sharing principle extends beyond the classroom: even encountering an unfamiliar food, Ada's frame of reference is her friend's lunch.
+
+**"Alicia could have joined if she shared snacks":** Ada's direct statement, which reframes the Alicia situation. Alicia wasn't expelled for a single offense — she failed to meet the group's entry criterion. In Ada's telling, the door was open; Alicia chose not to walk through it. Whether Alicia understood this criterion is another question.
+
+**Snack detail:** Alicia reportedly won't share her snacks (strawberry covered pretzels, cheeto fries, chips) with certain girls. This came up in both Alicia's interview and Ada's debrief — confirmed from both sides. Whether the snack refusal is cause or symptom of the rift is unclear, but both parties consider it significant. **Updated context:** Given Ada's "share secrets, share snacks" founding charter, the snack refusal is more than a grievance — it's a violation of the group's constitutional principle. Ada sees it as Alicia refusing the social contract, not just being stingy.
 
 ### The Lou Migration — and Mediation Role
 **New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
@@ -155,6 +163,72 @@ Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't
 
 **Note:** The "Alice" in the Madeline story is a different girl from third grade who has since moved schools — not the current Bell homeroom Alice who broke up with Lyla. The Ada/Madeline friendship predates the current fourth-grade social map.
 
+### The Head-Top Confrontation (immediate prelude to Steam Day fight)
+**New (Ada remarks).** The Steam Day recess fight had a direct trigger. The sequence:
+
+1. Ada and Mia tell Alicia: "Don't call us by our nicknames anymore, you're not our friend." Alicia: "Fine, I'm fine with that."
+2. Alicia then head-tops them — "for the ten billionth time even though we asked her not to." (Head-top is a game where you tap someone's head; you can block by placing your hand on your head.) Alicia claims they never told her to stop.
+3. Mia head-tops Alicia back and runs away.
+4. Ada attempts to head-top Alicia. Alicia blocks and hits Ada's head. Alicia accuses Ada of hitting her.
+
+**Analytical notes:**
+- **Escalation through deniable aggression:** Head-top is a game, not a fight — each provocation has plausible deniability ("I was just playing"). But when Alicia keeps doing it after being told to stop, and when Mia/Ada retaliate, it becomes a proxy for the real conflict. The game provides a rule structure that both sides exploit.
+- **"Fine, I'm fine with that":** Alicia's flat response to being told she's not their friend suggests either genuine indifference or an attempt to deny Ada the emotional reaction she expects. Either way, it doesn't de-escalate — the head-topping that immediately follows reads as displaced aggression.
+- **This directly precedes the Steam Day recess fight.** The confrontation with Madeline, the proximity tests, the Kaisha-as-shield maneuver — all of that happened in the aftermath of this physical escalation.
+
+### The Madeline–Alicia Alliance (emerging)
+**New (Ada remarks).** Ada believes Madeline and Alicia are forming a strategic alliance. Key evidence:
+
+- During Steam Day recess, Alicia was walking alone. Madeline came over to her.
+- Madeline asked Ada's group why they were "talking behind Alicia's back."
+- Madeline: "Can you stay away, we are going to have a private talk." Ada peeked and saw Madeline having a private talk with Alicia.
+- After the fight, Ada saw Madeline on the monkey bars with **Anyeshka and Navya** — "I knew something was up."
+
+Ada's theory on why Madeline came over: either (1) Johnson's class came out to recess first and Madeline saw the fight firsthand ("me tapping Alicia's head, me yelling at Alicia"), or (2) Madeline saw Alicia looking sad and went to check, then Alicia "spilled what happened."
+
+**Ada's threat assessment:** "They might have more allies and friends, but at least we have more brains."
+
+**Analytical notes:**
+- **Madeline on monkey bars with Anyeshka and Navya** is the most significant alliance signal. This puts Alicia's proxy (Madeline, Johnson) together with Indian girls (Anyeshka and Navya, Babu) — a cross-homeroom, cross-ethnic coalition forming in opposition to Ada's Core Five. Maperi was also present but "just swinging on the monkey bars and having fun" — not part of the alliance.
+- **A two-bloc structure may be emerging:** Core Five (Ada/Mia/Natalia/Olivia N/Lou) vs. Alicia's expanding coalition (Alicia/Madeline/Anyeshka/Navya, with Kaisha caught in between). The previous picture of Alicia as a scattered exile is giving way to something more organized.
+- **Ada's "more brains" comment** is revealing — she sees this as a strategic contest, not just a social rift.
+
+### Lunchtime Seating Map
+**New (Ada remarks).** Lunchtime tables are assigned by homeroom class. Table order (approximate): Bell → Babu → Johnson → Bareres → Clendenon → Gryser.
+
+At the **Bell table**: Ada, Mia, and Natalia sit on the same bench. Olivia N sits across from them. Alice might join. "Mostly it's just Natalia, Mia, and I, and Olivia."
+
+At the **Johnson table**: Madeline sits "somewhere near Jane, Margaret, and Abby." (Margaret and Abby are **new names** — presumably Johnson homeroom.)
+
+**Analytical notes:**
+- Bell between Babu and Johnson means Ada's group is physically adjacent to both the Indian girls and the Chinese girls at lunch. This proximity matters — it makes bridge-building (or spying) easier.
+- The Bell table seating mirrors the Core Five hierarchy: Ada/Mia/Natalia are the inner core, Olivia N is adjacent but separated (across the table), and Alice is a sometimes-visitor. Lou (Clendenon) is at a different table entirely.
+- **Margaret and Abby** bring the Johnson homeroom roster to 5 (Ashley, Madeline H, Jane, Margaret, Abby).
+
+### Ruby (new name)
+**New (Ada remarks).** Ada reports that **Lou's best friend is Ruby** (unknown homeroom). Ada also says **Lyla's best friends are Ruby and Anjolie.** Ruby is thus connected to both Lou (Clendenon) and Lyla (Bell), two girls from different social worlds. Ruby's homeroom is unknown — Ada says "I don't know which class Ruby's in."
+
+**Note:** Ruby bridging Lou and Lyla is interesting because Lou and Lyla have no direct connection in the existing data. Ruby may be a missing link in the network.
+
+### Confirmed Reciprocal Friendships
+**New (Ada remarks).** Ada's recess observations confirm two #1 rankings:
+- **Kiara and Olivia N:** "I see them hang out at recess every day." Confirms Olivia N's #1 ranking of Kiara. This is the strongest evidence yet that Olivia N's social center of gravity is outside the Core Five — her top pick is a Clendenon girl, not a Core Five member.
+- **Mallorie and Natalia:** "I see them hang out every day." Confirms Natalia's #1 ranking of Mallorie. Natalia's #1 is a Babu girl who isn't part of any named clique.
+
+### Snack-Sharing as Social Ritual
+**New (Ada remarks).** Ada describes four methods she and Mia use to share snacks in Bell's classroom:
+1. Wait for designated snack time ("Ms. Bell lets us chillax and eat snack for three minutes"), walk to Mia's desk.
+2. Choose each other as work partners, bring snacks over.
+3. At the carpet, sneakily share.
+4. "The throwing away stuff method" — rip off a piece of trash, go to trash can, give Mia snack on the way; receive "payment" on the way back.
+
+**Analytical note:** The elaborate covert methods (especially #4, with its "payment" framing) suggest snack-sharing is a bonding ritual that reinforces the Ada-Mia pair bond through minor rule-breaking and reciprocity. This also recontextualizes the "Alicia doesn't share snacks" grievance — in a world where snack-sharing is this ritualized, refusing to share is a significant social signal.
+
+### Lyla and Alice — Personality Detail
+**New (Ada remarks).** Ada characterizes:
+- **Lyla:** "Kind. Also a little bit funny."
+- **Alice:** "Funny but sometimes she can be a little rude." "Gets mad over little things or is mean to people." Alice is "one of the persons who like to ask people who they like better" — she poses comparison/loyalty questions. The family-vs-Alice loyalty test that triggered the breakup fits this pattern.
+
 ### The Ethnic Partition
 Chinese and Indian girls "don't really care for each other." This is pervasive enough that the consultant marked it with stars on the diagram. The separation tracks homeroom lines (Johnson = Chinese, Babu = Indian) but persists even in mixed settings. **Exceptions:** Mia (Chinese, but cordial with Indian girls), Ada (friends with Anjolie specifically, friendly with Indian girls generally), Lou (was embedded in the Indian girls group before the rupture), and now Lyla (best friends with Anjolie). The exceptions are accumulating — the partition may be less rigid than initially observed.
 
@@ -172,12 +246,18 @@ Several rankings are notably non-reciprocal:
 ### Boys (Peripheral)
 The girls maintain a boys' popularity ladder: Wade (#1, teacher's pet), Ari (#2), Ethan (#3). Separately, Barack and Sid are "weird boys." There is a running subplot about whether Barack has a crush on Jane — Natalia told Jane she saw Barack reading Babysitter's Club. The girls debate whether attention from weird boys is better than no attention.
 
+**Boys believed to be dyslexic (per first-round notes):** Wade, Ari, Lincoln. This is the girls' categorization — whether these boys are actually dyslexic or this is a social label is unknown. Notable that two of the three top-popularity boys (Wade #1, Ari #2) are on this list; Lincoln is a new name not previously placed in the popularity ladder.
+
+**Mia's "way with boys":** Ada explains that Mia (and Ada herself) are "brave enough to occasionally talk to the boys and find out information about them." This is framed as one of Mia's assets — a skill she contributes to the group. Mia serves as an intelligence-gatherer not just within the girls' network but across the gender line.
+
 ---
 
 ## 4. What We Don't Know
 
-### Unranked girls (15 of ~25)
-We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Johnson); Mallorie, Kaisha (Babu); Kiara, Sanvi, Leela, Lou (Clendenon); Milan, Ellie (Gryser); Olivia Q (Bareres). Ashley gave rankings (now resolved). Ada provided a debrief on several girls but formal rankings are still needed from the girls themselves.
+### Unranked girls (18 of ~28)
+We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane, Margaret, Abby (Johnson); Mallorie, Kaisha (Babu); Kiara, Sanvi, Leela, Lou (Clendenon); Milan, Ellie (Gryser); Olivia Q (Bareres); Ruby (unknown homeroom). Ashley gave rankings (now resolved). Ada provided a debrief and additional remarks on several girls but formal rankings are still needed from the girls themselves.
+
+**Note:** Per Ada's confidentiality request, we will not be conducting additional interviews in this round. Ada's assertions should be taken as her perspective rather than corroborated fact.
 
 **Priority interviews for round 2:**
 
@@ -196,19 +276,25 @@ We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane (Joh
 | **Alicia** | Re-interview: does she know Ada sees Alice as Alicia's new best friend? How does she rank Alice vs. Navya/Anyeshka now? |
 
 ### Unresolved references
-- **"The Indian girls"** — Anjolie and Navya both cite this group collectively. Confirmed members: Kaisha, Navya, Anyeshka, Anjolie. Full membership still TBD.
+- **"The Indian girls"** — Anjolie and Navya both cite this group collectively. Confirmed members: Kaisha, Navya, Anyeshka, Anjolie, Maperi (Turkish but embedded). Full membership still TBD.
+- **Ruby** — Lou's best friend and Lyla's friend. Unknown homeroom. Unknown ethnicity. Bridges two otherwise unconnected social worlds.
+- **"Nia"** — Ada mentioned "Mia and Nia" when listing Lou's friends. Possibly a verbal fumble (STT artifact), possibly a new person. Very low confidence.
 - ~~**Ashley's #1** — Recorded as "the Chinese girls."~~ **RESOLVED:** Confirmed per Ada to be Olivia Q, Milan, Ellie.
 
 ### Structural unknowns
 - **Gryser homeroom** is the only one where boys and girls reportedly talk to each other. Does this affect the girls' social dynamics? Milan and Ellie are here — do they interact with boys more than girls in other homerooms?
 - ~~**Bareres homeroom** — Olivia Q is the only student we've placed there. Are there others?~~ **DEPRIORITIZED:** Per Ada, the Bareres girls "aren't really involved" — "just people who are at recess."
-- **Clendenon** — Four girls (Kiara, Sanvi, Leela, Lou). Lou is now the key figure (Core Five member and Alicia-conflict mediator). Kiara, Sanvi, and Leela still uninterviewed.
+- **Clendenon** — Four girls (Kiara, Sanvi, Leela, Lou). Lou is now the key figure (Core Five member and Alicia-conflict intelligence-gatherer). Kiara and Olivia N hang out every day at recess (confirmed by Ada); Natalia and Mallorie likewise. These out-of-clique #1 picks are real, observed friendships.
+- **Johnson homeroom now at 5** — Margaret and Abby are new names from Ada's lunchtime description. Their social roles are unknown.
+- **Two-bloc structure emerging?** — Core Five vs. Alicia/Madeline/Anyeshka/Navya. If this solidifies, Kaisha is the critical swing figure (mediator being instrumentalized by both sides).
 
 ---
 
 ## 5. Suggested Follow-Up Questions
 
-For consultants conducting round 2 interviews:
+**Note:** Ada has requested confidentiality — no additional interviews this round to avoid revealing her as a source. These questions are preserved for a future round when conditions allow, or for indirect observation.
+
+For consultants conducting round 2 interviews (when authorized):
 
 1. **For Lou:** "We heard you used to hang out with Kaisha and Navya's group. Ada mentioned they kind of left you out — is that how you see it? What happened exactly?" (Ada says "discluded a little" — see if Lou's version matches.) "How did you start hanging out with Ada and Mia?"
 2. **For Alice:** "Who's your best friend right now? Someone told us you and Lyla used to be close but things changed — what happened from your side?" (Ada reports Alice says she was trying to be nice. Probe gently — don't reveal Lyla's "mean over little things" framing.)
@@ -224,3 +310,18 @@ For consultants conducting round 2 interviews:
 ---
 
 *Draft prepared for review. Please mark up corrections, additions, and priorities for round 2.*
+
+---
+
+## Appendix: STT Transcription Key
+The following name mappings apply to Ada's speech-to-text transcribed remarks:
+| STT rendering | Actual name |
+|---|---|
+| Lao | Lou |
+| Alila | Lyla |
+| Lila | Lyla |
+| Anjali | Anjolie |
+| Anushka | Anyeshka |
+| Baboo | Babu (teacher) |
+| Ma Perry | Maperi |
+| Me / Mia | Context-dependent — STT does not reliably distinguish |
