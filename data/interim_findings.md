@@ -139,25 +139,6 @@ These are not peace-making gestures — they're reconnaissance operations design
 
 **Lou–Alicia relationship update (Ada's report review):** Lou is still friends with Alicia, but less so than before, because Lou reports that Alicia and Anyeshka "are starting to be rude to her." (Referent ambiguity in STT — "she says" and "to her" most likely refer to Lou relaying her own experience.) If confirmed, this means the Lou-Alicia bond is fraying further, and Alicia's coalition (specifically Alicia + Anyeshka) is alienating a former ally. This could push Lou deeper into Ada's orbit.
 
-### The Steam Day Incident (observed conflict in action)
-**New (Ada debrief).** Ada's most detailed account of the Alicia conflict playing out in real time. The sequence:
-
-1. **Setup:** Ada's group goes under the playscape to play "who's most likely to" — per Ada, "not directly about Alicia, not directly about Madeline, we were just minding our own business."
-2. **Madeline as enforcer, round 1:** They come out to see Ashley. Madeline approaches: "Alicia's back, and also Ada, why are you glaring at me?" When Ada denies glaring, Madeline walks away looking mad.
-3. **Madeline as enforcer, round 2:** Returns with the accusation: "Why are you guys stealing Alicia's friends?" When Ada says Alicia is the one doing it, Madeline relays: "Well, Alicia says you guys were." Then: "You guys just leave us alone." Ada's group says they're just playing tag. Madeline: "We'll just stay away because we're having a private talk."
-4. **The Lou test in action:** After Madeline leaves, Ada and Mia play tag near Alicia's area — the proximity test. Conclusion: "Yeah, she's definitely talking about us."
-5. **Kaisha as social shield:** They decide to "get gossip we needed" by going to hang out with Kaisha, who was with Alicia. The logic: "Alicia couldn't just kick us out away from Kaisha" because Ada and Mia are also friends with Kaisha. They use their legitimate friendship with Kaisha as a pretext to get close.
-6. **Alicia's deflection (raw onions):** When Ada and Mia approach via Kaisha, Alicia walks away, returns with "a handful of raw onions" and yells "Who wants raw onions?" Everyone says "Me!" — Ada and Mia think this is gross. Alicia uses the onions as a social distraction/barrier.
-7. **Denouement:** Ada and Mia chat with Kaisha about "random stuff like 'sup, how are you?'" until recess ends.
-
-**Analytical notes:**
-
-- **Madeline as Alicia's proxy:** Madeline is doing Alicia's confrontation for her — she's the one who approaches, accuses, and delivers ultimatums. Alicia stays back. This mirrors Ada's own pattern of outsourcing confrontation to Lou. Both sides have a designated confronter.
-- **Competing "friend-stealing" narratives:** Both sides accuse the other of stealing friends. Ada says Alicia is stealing friends; Alicia (via Madeline) says Ada and Mia are. The truth is probably that friends are choosing to move, and each side reads it as theft by the other.
-- **Kaisha as contested territory:** Ada explicitly uses Kaisha as a social shield — a legitimate friendship that grants access to Alicia's space. (See "Kaisha: Mediator Under Pressure" above for the full picture of Kaisha's instrumentalization by both sides.)
-- **The raw onion gambit:** Alicia's response to being cornered (Ada approaching via Kaisha) is to create a social event (raw onions) that draws everyone's attention and resets the social space. She doesn't confront, she redirects — an effective deflection technique.
-- **Ada's self-presentation:** Note Ada's framing throughout: "just minding our own business," "just playing tag," "just chatted about random stuff." Every action is presented as innocent, even as Ada narrates the strategic intent behind each move. She's aware of the strategy but presents it as accidental.
-
 ### Kaisha: Mediator Under Pressure
 **New (Ada debrief + Ada remarks).** Kaisha occupies the most structurally precarious position in the network. Three data points converge:
 
@@ -165,7 +146,7 @@ These are not peace-making gestures — they're reconnaissance operations design
 
 **The limitation:** "Alicia usually doesn't understand." Ada attributes mediation failure to Alicia's inability to process the information Kaisha relays, not to any flaw in Kaisha's method. This is consistent with Ada's overall framing of Alicia as the unreasonable party.
 
-**Instrumentalization on Steam Day:** During the Steam Day incident (see below), Ada explicitly used Kaisha as a "social shield" — approaching Kaisha to get close to Alicia, knowing "Alicia couldn't just kick us out away from Kaisha." This exploits Kaisha's neutral position for strategic access. And on the other side, Madeline was seen on the monkey bars with Anyeshka and Navya after the fight — Kaisha's fellow Indian girls group members — suggesting Alicia's coalition may be pulling from Kaisha's social base.
+**Instrumentalization on Steam Day:** During the Steam Day incident (see "Steam Day — Reconstructed Chronology" above), Ada explicitly used Kaisha as a "social shield" — approaching Kaisha to get close to Alicia, knowing "Alicia couldn't just kick us out away from Kaisha." This exploits Kaisha's neutral position for strategic access. And on the other side, Madeline was seen on the monkey bars with Anyeshka and Navya after the fight — Kaisha's fellow Indian girls group members — suggesting Alicia's coalition may be pulling from Kaisha's social base.
 
 **The swing position:** If the emerging two-bloc structure solidifies (Core Five vs. Alicia/Madeline/Anyeshka/Navya), Kaisha is the critical swing figure — valued by both sides precisely because she doesn't take sides, but both sides are trying to pull her onto theirs. Whether Kaisha is aware of this pressure is unknown; it is a priority question for round 2 interviews.
 
@@ -206,27 +187,35 @@ Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't
 
 **Note:** The "Alice" in the Madeline story is a different girl from third grade who has since moved schools — not the current Bell homeroom Alice who broke up with Lyla. The Ada/Madeline friendship predates the current fourth-grade social map.
 
-### The Head-Top Confrontation (immediate prelude to Steam Day fight)
-**New (Ada remarks).** The Steam Day recess fight had a direct trigger. The sequence:
+### Steam Day — Reconstructed Chronology
+Ada's accounts of Steam Day recess were initially split across sessions: the head-top confrontation emerged only in a later interview, after an initial narrative that began with "just minding our own business." When asked to reconstruct the full day in order, Ada produced the following unified timeline:
 
-1. Ada and Mia tell Alicia: "Don't call us by our nicknames anymore, you're not our friend." Alicia: "Fine, I'm fine with that."
-2. Alicia then head-tops them — "for the ten billionth time even though we asked her not to." (Head-top is a game where you tap someone's head; you can block by placing your hand on your head.) Alicia claims they never told her to stop.
-3. Mia head-tops Alicia back and runs away.
-4. Ada attempts to head-top Alicia. Alicia blocks and hits Ada's head. Alicia accuses Ada of hitting her.
+1. **Head-top confrontation (opening event).** Ada's group comes outside. Alicia head-tops them. Mia head-tops Alicia back. Ada attempts to head-top Alicia; Alicia blocks and hits Ada's head. (From the earlier session: before the head-topping, Ada and Mia told Alicia "Don't call us by our nicknames anymore, you're not our friend." Alicia: "Fine, I'm fine with that." Ada did not include this verbal provocation in the chronological reconstruction — it appeared only in the earlier, separately disclosed account.)
+2. **Madeline–Alicia contact.** Madeline comes over and "probably talked with Alicia." (Ada's phrasing — she's inferring, not observing directly.)
+3. **Madeline as enforcer, round 1.** Madeline approaches Ada's group: "Why are you talking behind Alicia's back?" and "Why are you glaring at me?" Ada denies glaring.
+4. **Madeline as enforcer, rounds 2–4.** Madeline comes over "three more times." The earlier account specified one key exchange: "Why are you guys stealing Alicia's friends?" / "Well, Alicia says you guys were." / "You guys just leave us alone."
+5. **Tag / proximity test.** Ada's group plays tag. Madeline tells them to stay away — "they're having a private talk." (The earlier account adds that Ada and Mia played tag near Alicia's area as a deliberate proximity test: "Yeah, she's definitely talking about us.")
+6. **The raw onion incident.** (The earlier account specifies: Ada and Mia approach Alicia via Kaisha as a social shield. Alicia walks away, returns with raw onions, yells "Who wants raw onions?" — a social distraction that resets the space.)
+7. **Recess ends.**
+
+**What the reconstruction confirms:**
+- The head-topping was the **opening event**, not a separate incident. Everything else — Madeline's interventions, the proximity tests, the raw onion gambit — followed from it.
+- Ada's initial Steam Day narrative (debrief session) began at step 5, skipping steps 1–4 entirely. She presented her group as passive ("just minding our own business") in a sequence that actually began with a verbal provocation ("you're not our friend") and physical escalation (mutual head-topping).
+- The reconstruction reveals **Madeline came over four times** (step 3 + "three more times"), not twice as the initial account implied. Madeline's persistence suggests she was actively managing the situation, not making a single pass.
+
+**What the reconstruction omits:**
+- Ada did not repeat the verbal provocation ("Don't call us by our nicknames, you're not our friend") in the chronological walk-through. That detail appeared only in the earlier separate disclosure. This is the most provocative thing Ada said on Steam Day, and she has now omitted it from two out of three tellings.
+- The Kaisha-as-social-shield maneuver (approaching Kaisha to get close to Alicia) is not mentioned in the chronological version — Ada compressed it into "the raw onion incident." The strategic framing ("Alicia couldn't just kick us out away from Kaisha") was volunteered in the initial account but not repeated.
+- Ada's earlier account included going under the playscape to play "who's most likely to" before the Madeline encounters. This doesn't appear in the reconstructed timeline, suggesting it may have been a detail that made the initial account sound more innocent (establishing the "we were just playing" frame).
 
 **Analytical notes:**
-- **Escalation through deniable aggression:** Head-top is a game, not a fight — each provocation has plausible deniability ("I was just playing"). But when Alicia keeps doing it after being told to stop, and when Mia/Ada retaliate, it becomes a proxy for the real conflict. The game provides a rule structure that both sides exploit.
-- **"Fine, I'm fine with that":** Alicia's flat response to being told she's not their friend suggests either genuine indifference or an attempt to deny Ada the emotional reaction she expects. Either way, it doesn't de-escalate — the head-topping that immediately follows reads as displaced aggression.
-- **This directly precedes the Steam Day recess fight.** The confrontation with Madeline, the proximity tests, the Kaisha-as-shield maneuver — all of that happened in the aftermath of this physical escalation.
-- **Disclosure pattern:** Ada did not mention the head-top incident in her initial Steam Day account. That account began with her group "just minding our own business" under the playscape — i.e., it started *after* the head-topping. The head-top details emerged only in a later session. This is the one moment where Ada was the initiator (telling Alicia "you're not our friend," then attempting to head-top her), not the reactor. The delayed disclosure is consistent with Ada's innocence framing throughout the Steam Day narrative and suggests she may have edited the sequence to begin after her own provocative act.
+- **Ada's self-editing is consistent, not random.** Across three tellings (initial debrief, later disclosure, chronological reconstruction), Ada consistently minimizes her role as initiator. The verbal provocation and the head-top attempt are the two moments where she was the aggressor; she disclosed them only when specifically prompted and omitted them from the reconstruction.
+- **Madeline's four visits** reframe her role. She's not just delivering a single message on Alicia's behalf — she's actively shuttling back and forth, managing a situation in real time. This is more than proxy confrontation; it's sustained crisis management.
+- **Deniable aggression remains the framework.** Head-topping is a game with plausible deniability ("I was just playing"). The verbal provocation ("you're not our friend") is direct, but Ada's telling softens it by immediately pivoting to Alicia's response ("Fine, I'm fine with that") and Alicia's subsequent head-topping — redirecting blame.
+- **The raw onion gambit** (Alicia creating a social distraction to reset the space) comes at the end of a long sequence of escalation. By the time Alicia deploys the raw onions, she's been head-topped, confronted by Madeline four times on her behalf, had Ada's group run proximity tests near her, and been approached via Kaisha. The onion gambit isn't just deflection — it's exhaustion management.
 
 ### The Madeline–Alicia Alliance (emerging)
-**New (Ada remarks).** Ada believes Madeline and Alicia are forming a strategic alliance. Key evidence:
-
-- During Steam Day recess, Alicia was walking alone. Madeline came over to her.
-- Madeline asked Ada's group why they were "talking behind Alicia's back."
-- Madeline: "Can you stay away, we are going to have a private talk." Ada peeked and saw Madeline having a private talk with Alicia.
-- After the fight, Ada saw Madeline on the monkey bars with **Anyeshka and Navya** — "I knew something was up."
+**New (Ada remarks).** Ada believes Madeline and Alicia are forming a strategic alliance. The Steam Day timeline (above) provides the primary evidence: Madeline came over to Alicia after the head-top confrontation, then made four separate approaches to Ada's group — confronting, accusing, and delivering ultimatums. After the fight, Ada saw Madeline on the monkey bars with **Anyeshka and Navya** — "I knew something was up."
 
 Ada's theory on why Madeline came over: either (1) Johnson's class came out to recess first and Madeline saw the fight firsthand ("me tapping Alicia's head, me yelling at Alicia"), or (2) Madeline saw Alicia looking sad and went to check, then Alicia "spilled what happened."
 
@@ -366,7 +355,7 @@ Information-gathering is a valued skill across the network, with different girls
 
 A striking pattern across the data: almost nobody in this network confronts directly. Instead, conflict is routed through proxies, games, and avoidance.
 
-**Proxy confrontation.** Both sides outsource the hard part. Madeline confronts Ada's group on Alicia's behalf ("Why are you guys stealing Alicia's friends?"), delivering accusations, demands, and ultimatums while Alicia stays back. On the other side, Lou runs reconnaissance for Ada. Both factions have a designated confronter — and in both cases, the principal (Alicia, Ada) avoids face-to-face engagement.
+**Proxy confrontation.** Both sides outsource the hard part. Madeline confronts Ada's group on Alicia's behalf — four separate approaches on Steam Day alone, delivering accusations ("stealing friends," "talking behind Alicia's back"), demands, and ultimatums while Alicia stays back. On the other side, Lou runs reconnaissance for Ada. Both factions have a designated confronter — and in both cases, the principal (Alicia, Ada) avoids face-to-face engagement.
 
 **Deniable aggression.** Head-topping is a game — you tap someone's head, they can block by putting a hand on their own head. But when Alicia keeps head-topping Ada and Mia after being told to stop, and when they retaliate, the game becomes a proxy for real hostility. Each provocation has a built-in excuse ("I was just playing"). The game's rule structure provides cover for escalation.
 
@@ -374,7 +363,7 @@ A striking pattern across the data: almost nobody in this network confronts dire
 
 **Contextual deflection.** When cornered by Ada's approach-via-Kaisha on Steam Day, Alicia doesn't confront or flee. She walks away, returns with raw onions, and yells "Who wants raw onions?" — creating a social event that resets the space. She redirects attention, breaks the tactical frame Ada has set up, and regains control of the social situation without addressing the underlying conflict.
 
-**Innocence framing.** Ada narrates her own strategic behavior while insisting on its innocence. "Just minding our own business." "Just playing tag." "Just chatted about random stuff." Every move is presented as accidental, even as Ada describes the strategic intent behind it. She's aware of the strategy but needs it to be unintentional — possibly even to herself.
+**Innocence framing and self-editing.** Ada narrates her own strategic behavior while insisting on its innocence. "Just minding our own business." "Just playing tag." "Just chatted about random stuff." Across three separate tellings of Steam Day (initial debrief, later disclosure, chronological reconstruction), she consistently minimizes her role as initiator. The verbal provocation ("you're not our friend") and the head-top attempt — the two moments where she was the aggressor — were disclosed late, omitted from the reconstruction, and never volunteered unprompted. Ada is aware of the strategy but needs it to be unintentional.
 
 ### 5.4 Mediation and Brokerage
 
