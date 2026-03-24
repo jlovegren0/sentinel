@@ -1,5 +1,5 @@
 # Interim Findings — Fourth Grade Girls' Social Network
-**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks
+**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks + Ada 3/23 update
 
 **Sourcing note:** Ada's latest remarks are provided under confidentiality — she does not want the other girls to know she has been talking. Assertions from these remarks should be treated as single-source intelligence (Ada's perspective) rather than confirmed facts. We will not be seeking corroboration via additional interviewees for this round.
 
@@ -157,6 +157,18 @@ These are not peace-making gestures — they're reconnaissance operations design
 
 **Ada's self-awareness:** "I don't really solve problems" is an accurate self-assessment. Her default is avoidance (consistent with the quiet disengagement pattern seen in both the Alicia and Madeline breakups), and her rare interventions are performative humor rather than genuine mediation. She outsources real conflict work to Lou (recon) and benefits from Kaisha (mediation) without being a mediator herself.
 
+### The Ada–Mia Intelligence Pipeline
+**New (3/23 update).** A structural scheduling effect creates a systematic intelligence operation.
+
+**FCC program:** Mia participates in FCC (a program where she serves as "a buddy to kids who have communication problems"). This pulls Mia out of recess. During recess, Ada is with Kaisha and Navya — two of the three individuals Madeline accuses them of "stealing."
+
+**The debriefing protocol:** Mia returns "a little earlier, just before recess ends" so Ada can "fill her in on everything that happens." Ada also briefs Mia at lunch: "I also tell her everything at lunch."
+
+**Analytical notes:**
+- This is a structured intelligence pipeline with scheduled handoffs — Ada gathers information during recess (when she has access to Kaisha and Navya), then transfers it to Mia at two fixed intervals (end of recess, lunch). The "all the gossip" pillar of the founding charter is operationalized here.
+- **The FCC scheduling creates the "friend-stealing" appearance.** Ada spends recess with Kaisha and Navya *because* Mia is unavailable. From Alicia's perspective (via Madeline), it looks like Ada is deliberately cultivating Alicia's allies. From Ada's perspective, she's simply with the friends who are available. Both readings may be partly true.
+- Ada's recess access to Kaisha and Navya — without Mia present — means Ada is the sole intelligence-gatherer during the period when most social action occurs. Mia's role shifts from co-participant to recipient of Ada's curated account of events. This gives Ada editorial control over the narrative Mia receives.
+
 ### Ada and the Chinese Girls
 **New (Ada debrief).** Ada describes her relationship with the other Chinese girls (Olivia Q, Milan, Ellie, and presumably others) as shallow: "they mostly just joke around and play games and talk about stuff, nothing really connected or important to anything." This confirms the Chinese girls group is recreational for Ada, not her emotional core. **Ashley is the intelligence bridge:** "Ashley's the one who knows about Alicia and Madeline though." This means Ashley serves a specific function — she's the Chinese girls group member who tracks the Alicia/Madeline situation, filtering relevant conflict information from a group that otherwise doesn't engage with it.
 
@@ -214,30 +226,38 @@ Ada's accounts of Steam Day recess were initially split across sessions: the hea
 - **Deniable aggression remains the framework.** Head-topping is a game with plausible deniability ("I was just playing"). The verbal provocation ("you're not our friend") is direct, but Ada's telling softens it by immediately pivoting to Alicia's response ("Fine, I'm fine with that") and Alicia's subsequent head-topping — redirecting blame.
 - **The raw onion gambit** (Alicia creating a social distraction to reset the space) comes at the end of a long sequence of escalation. By the time Alicia deploys the raw onions, she's been head-topped, confronted by Madeline four times on her behalf, had Ada's group run proximity tests near her, and been approached via Kaisha. The onion gambit isn't just deflection — it's exhaustion management.
 
-### The Madeline–Alicia Alliance (emerging)
-**New (Ada remarks).** Ada believes Madeline and Alicia are forming a strategic alliance. The Steam Day timeline (above) provides the primary evidence: Madeline came over to Alicia after the head-top confrontation, then made four separate approaches to Ada's group — confronting, accusing, and delivering ultimatums. After the fight, Ada saw Madeline on the monkey bars with **Anyeshka and Navya** — "I knew something was up."
+### The Madeline–Alicia Alliance (confirmed)
+**New (Ada remarks + 3/23 update).** The Madeline-Alicia alliance, signaled on Steam Day (3/13), is confirmed ongoing as of 3/23.
 
-Ada's theory on why Madeline came over: either (1) Johnson's class came out to recess first and Madeline saw the fight firsthand ("me tapping Alicia's head, me yelling at Alicia"), or (2) Madeline saw Alicia looking sad and went to check, then Alicia "spilled what happened."
+**Steam Day evidence (3/13):** Madeline came over to Alicia after the head-top confrontation, then made four separate approaches to Ada's group — confronting, accusing, and delivering ultimatums. After the fight, Ada saw Madeline on the monkey bars with **Anyeshka and Navya** — "I knew something was up."
 
-**Madeline's scope (Ada's report review):** Ada clarifies that Madeline "doesn't really care for Lou" — Lou is not on Madeline's radar. When Madeline accuses Ada's group of "stealing friends," she probably means specifically Navya, Kaisha, and Natalia — not friends in general. This narrows the "friend-stealing" accusation to three contested individuals, all of whom are shared connections between the two blocs.
+**3/23 confirmation:** Madeline actively sought Alicia out at recess: "Hey guys, do you know where Alicia is?" When told, she "ran over and started talking with Alicia for the whole recess." Then Madeline "poked her head into Kaisha and [Ada's] game" and repeated the Steam Day accusation: "Why are you guys stealing Alicia's friends?" Ada's assessment: "So Alicia must have told her that we were stealing her friends, which we weren't. And I think playing with someone is not considered stealing friends."
+
+Ada also reports that "Alicia lies a lot and she tells those lies to Madeline" and "probably tells them to Anyeshka too and Natalia and a bunch of other people." This is Ada's framing of Alicia as running a disinformation campaign — feeding a narrative of friend-stealing to her allies. Whether Alicia's accounts are "lies" or her genuine perception of events is, as with most of this data, a matter of perspective.
+
+**Madeline's scope (Ada's report review):** Madeline "doesn't really care for Lou" — Lou is not on her radar. When Madeline says "stealing friends," she probably means specifically Navya, Kaisha, and Natalia — not friends in general. This narrows the accusation to three contested individuals.
 
 **Ada's threat assessment:** "They might have more allies and friends, but at least we have more brains."
 
 **Analytical notes:**
-- **Madeline on monkey bars with Anyeshka and Navya** is the most significant alliance signal. This puts Alicia's proxy (Madeline, Johnson) together with Indian girls (Anyeshka and Navya, Babu) — a cross-homeroom, cross-ethnic coalition forming in opposition to Ada's Core Five. Maperi was also present but "just swinging on the monkey bars and having fun" — not part of the alliance.
-- **A two-bloc structure may be emerging:** Core Five (Ada/Mia/Natalia/Olivia N/Lou) vs. Alicia's expanding coalition (Alicia/Madeline/Anyeshka/Navya, with Kaisha caught in between). The previous picture of Alicia as a scattered exile is giving way to something more organized.
+- **The pattern is sustained, not one-off.** Madeline sought Alicia out, talked to her the entire recess, then confronted Ada — the same sequence as Steam Day, 10 days later. This is an established routine, not a reactive incident.
+- **Madeline on monkey bars with Anyeshka and Navya** (Steam Day) remains the most significant cross-group alliance signal — Alicia's proxy (Johnson) together with Indian girls (Babu).
 - **Ada's "more brains" comment** is revealing — she sees this as a strategic contest, not just a social rift.
 
 ### Lunchtime Seating Map
-**New (Ada remarks).** Lunchtime tables are assigned by homeroom class. Table order (approximate): Bell → Babu → Johnson → Bareres → Clendenon → Gryser.
+**New (Ada remarks), updated 3/23.** Lunchtime tables are assigned by homeroom class. Table order (approximate): Bell → Babu → Johnson → Bareres → Clendenon → Gryser.
 
 At the **Bell table**: Ada, Mia, and Natalia sit on the same bench. Olivia N sits across from them. Alice might join. "Mostly it's just Natalia, Mia, and I, and Olivia."
+
+**Update (3/23):** Alicia no longer sits with Ada's group at the Bell table. Per Ada: "Alicia doesn't sit with us anymore. She glares at me then goes sit with her friends." Her friends at lunch are now **Annie, Julia, and Lyla** — the Group G trio. Ada adds: "I think they're starting to group up too."
 
 At the **Johnson table**: Madeline sits "somewhere near Jane, Margaret, and Abby." (Margaret and Abby are **new names** — presumably Johnson homeroom.)
 
 **Analytical notes:**
-- Bell between Babu and Johnson means Ada's group is physically adjacent to both the Indian girls and the Chinese girls at lunch. This proximity matters — it makes bridge-building (or spying) easier.
-- The Bell table seating mirrors the Core Five hierarchy: Ada/Mia/Natalia are the inner core, Olivia N is adjacent but separated (across the table), and Alice is a sometimes-visitor. Lou (Clendenon) is at a different table entirely.
+- Bell between Babu and Johnson means Ada's group is physically adjacent to both the Indian girls and Madeline's Johnson friends at lunch.
+- The Bell table seating mirrors Ada's group hierarchy: Ada/Mia/Natalia are the inner core, Olivia N is adjacent but separated (across the table), and Alice is a sometimes-visitor. Lou (Clendenon) is at a different table entirely.
+- **Alicia's lunch move is significant.** She has left Ada's section of the Bell table and is now sitting with the Annie/Julia/Lyla trio. This means Group G (previously described as self-contained) is absorbing Alicia — extending the accumulation pattern. The trio may be becoming a quartet.
+- **"Starting to group up"** — Ada perceives the Annie/Julia/Lyla/Alicia formation as a new alliance. If Alicia's lunch group (Bell: Annie, Julia, Lyla) links with her recess coalition (Madeline, Anyeshka, Navya), the two-bloc structure has both a lunch component and a recess component.
 - **Margaret and Abby** bring the Johnson homeroom roster to 5 (Ashley, Madeline H, Jane, Margaret, Abby).
 
 ### Ruby (new name)
@@ -349,7 +369,9 @@ Information-gathering is a valued skill across the network, with different girls
 
 **Ashley: the information bridge.** Within the Chinese girls group, Ashley is "the one who knows about Alicia and Madeline." The group as a whole doesn't track the Core Five's conflicts ("nothing really connected or important to anything"), but Ashley filters relevant intelligence from it. She's a specialized conduit.
 
-**The social shield maneuver.** On Steam Day, Ada used her legitimate friendship with Kaisha as a pretext to get close to Alicia: "Alicia couldn't just kick us out away from Kaisha." This exploits a neutral party's social capital for intelligence access — a sophisticated move that treats friendship as a resource to be leveraged.
+**The social shield maneuver.** On Steam Day, Ada used her legitimate friendship with Kaisha as a pretext to get close to Alicia: "Alicia couldn't just kick us out away from Kaisha." This exploits a neutral party's social capital for intelligence access.
+
+**The Ada-Mia debriefing protocol (3/23 update).** Mia's FCC program pulls her out of recess. Ada spends recess with Kaisha and Navya, then debriefs Mia at two fixed intervals: just before recess ends, and again at lunch ("I just tell her all the gossip that happened at recess"). This is the most formalized intelligence operation in the data — a structured pipeline with a designated collector (Ada), scheduled handoffs, and a recipient (Mia) who depends entirely on Ada's account. It also means Ada has editorial control over the intelligence Mia receives: Mia wasn't there and can't cross-check.
 
 ### 5.3 Conflict Without Confrontation
 
@@ -407,23 +429,29 @@ The physical and institutional infrastructure of the school shapes social possib
 
 **Lunch table adjacency.** Bell sits between Babu and Johnson at lunch. This puts Ada's group physically adjacent to both the Indian girls and Madeline's Johnson friends — enabling bridge-building and surveillance. Lou (Clendenon) is at a different table entirely, structurally separated from the Core Five during meals despite being a member.
 
-**Talented-and-gifted scheduling.** Ada's Core Five friends go to talented and gifted during math; Ada and Natalia do not. This creates regular windows where Natalia is Ada's only available companion. Their bond strengthens not through emotional depth but through scheduling — they're the ones left behind. This is a structural effect that neither girl chose, but it shapes the friendship.
+**Talented-and-gifted scheduling.** Ada's friends go to talented and gifted during math; Ada and Natalia do not. This creates regular windows where Natalia is Ada's only available companion. Their bond strengthens not through emotional depth but through scheduling — they're the ones left behind.
+
+**FCC scheduling (3/23 update).** Mia participates in FCC (a program where she's "a buddy to kids who have communication problems"), which pulls her out of recess. During recess, Ada is with Kaisha and Navya. This creates two effects: (1) Ada has regular, Mia-free access to two "contested individuals," which may look like deliberate cultivation from Alicia's side; (2) Mia depends on Ada's post-recess debriefing for all social intelligence, giving Ada editorial control over the narrative. Both are structural effects of a school program, not strategic choices — but they have strategic consequences.
 
 **Out-of-clique #1 picks.** Olivia N ranks Kiara (Clendenon) as her #1. Natalia ranks Mallorie (Babu) as her #1. Both are confirmed by Ada's recess observations — she sees these pairs together every day. This means two Core Five members' strongest friendships are outside the group. Their Core Five membership may be more structural (same homeroom, same lunch table) than felt (who they actually most want to be with).
 
-### 5.8 The Emerging Two-Bloc Structure
+### 5.8 The Two-Bloc Structure (confirmed as of 3/23)
 
-The data suggests the network may be consolidating into two opposing coalitions.
+The network has consolidated into two opposing coalitions. What was "emerging" on Steam Day (3/13) is now a sustained pattern (3/23).
 
-**Bloc 1: Ada's alliance.** Two overlapping triads (Ada/Mia/Lou and Ada/Mia/Natalia) plus Olivia N. Bell + Clendenon homerooms. Ada herself does not perceive this as a single five-person group (see Section 2A). Resources: Lou's intelligence operations, Mia's cross-gender information-gathering, Ada's strategic thinking ("we have more brains"), the snack/secrets/gossip triad as bonding glue. Vulnerability: Natalia and Olivia N's #1 picks are outside the group, suggesting soft commitment from two of five members. The group's internal structure is looser than the analytical label "Core Five" implies.
+**Bloc 1: Ada's alliance.** Two overlapping triads (Ada/Mia/Lou and Ada/Mia/Natalia) plus Olivia N. Bell + Clendenon homerooms. Ada herself does not perceive this as a single five-person group (see Section 2A). Resources: Lou's intelligence operations, Mia's cross-gender information-gathering, Ada's strategic thinking ("we have more brains"), the snack/secrets/gossip triad as bonding glue, and the Ada-Mia debriefing protocol (structured intelligence pipeline with scheduled handoffs). Vulnerability: Natalia and Olivia N's #1 picks are outside the group, suggesting soft commitment from two of five members. Mia's absence during recess (FCC program) means she depends entirely on Ada's curated account of social events.
 
-**Bloc 2: Alicia's expanding coalition.** Alicia, Madeline H, Anyeshka, Navya, with Alice as a recent addition. Cross-homeroom (Bell + Johnson + Babu), cross-ethnic. Resources: Madeline as proxy confronter, Alicia's structural bridging and active recruitment of isolates, depth of Alicia-Anyeshka mutual bond (the strongest reciprocal friendship in the dataset). Vulnerability: the coalition is newer and may be held together more by shared opposition to Ada's group than by positive bonds among all members. **Note:** Lou reports that Alicia and Anyeshka "are starting to be rude to her" — if the coalition's core pairing alienates peripheral allies, it may have a retention problem.
+**Bloc 2: Alicia's expanding coalition.** Two components now visible:
+- **Recess coalition:** Alicia + Madeline H (proxy confronter) + Anyeshka + Navya. Cross-homeroom (Bell + Johnson + Babu), cross-ethnic. Madeline actively seeks Alicia out at recess, talks to her the entire period, then confronts Ada — a sustained routine confirmed on both 3/13 and 3/23.
+- **Lunch group (3/23 update):** Alicia has left Ada's section of the Bell lunch table and now sits with **Annie, Julia, and Lyla** — the Group G trio. Ada: "I think they're starting to group up too." This extends Alicia's accumulation pattern into a new domain (lunchtime) and absorbs three previously uninvolved Bell girls.
 
-**The contested individuals.** Per Ada, Madeline's "friend-stealing" accusation refers specifically to Navya, Kaisha, and Natalia — not to friends in general. These three are the contested territory between the blocs. Madeline "doesn't really care for Lou."
+Resources: Madeline as proxy confronter, Alicia's structural bridging and active recruitment of isolates, depth of Alicia-Anyeshka mutual bond (the strongest reciprocal friendship in the dataset), and now a lunch-table base that puts Alicia with three additional allies. Vulnerability: the coalition may be held together more by shared opposition to Ada's group than by positive bonds among all members. Lou reports that Alicia and Anyeshka "are starting to be rude to her" — the coalition's core pairing may alienate peripheral contacts.
 
-**The swing figure.** Kaisha. Friends with both sides. Valued as a neutral mediator. Being instrumentalized by Ada (social shield) while her Indian girls group members (Anyeshka, Navya) are aligning with Alicia's coalition. If forced to choose, which way does she go?
+**The contested individuals.** Per Ada, Madeline's "friend-stealing" accusation refers specifically to Navya, Kaisha, and Natalia — not to friends in general. These three are the contested territory between the blocs. Madeline "doesn't really care for Lou." **Structural note (3/23):** Ada spends recess with Kaisha and Navya because Mia is at FCC. This regular access may be exactly why Madeline perceives "stealing" — Ada is with these girls every recess, and from the outside it looks deliberate.
 
-**Ada's framing.** "They might have more allies and friends, but at least we have more brains." This is revealing in two ways: (1) she sees this as a strategic contest, not just a social rift, and (2) she concedes the numerical disadvantage. She's compensating with intelligence operations (Lou, Mia) rather than recruitment.
+**The swing figure.** Kaisha. Friends with both sides. Valued as a neutral mediator. Being instrumentalized by Ada (social shield on Steam Day; regular recess companion during FCC) while her Indian girls group members (Anyeshka, Navya) are aligning with Alicia's coalition. If forced to choose, which way does she go?
+
+**Ada's framing.** "They might have more allies and friends, but at least we have more brains." She sees this as a strategic contest and concedes the numerical disadvantage — which is growing. She compensates with intelligence operations (Lou's recon, the Ada-Mia debriefing pipeline) rather than recruitment.
 
 **What this means for boys.** Boys remain peripheral. The girls classify and rank them (Wade #1, Ari #2, Ethan #3; Barack and Sid as "weird boys"; Wade, Ari, and Lincoln labeled as dyslexic) but don't integrate them into their social structures. Mia's "way with boys" is valued as an intelligence-gathering skill, not a social bridge — she brings information back to the girls' world, she doesn't pull boys into it. The social economy is almost entirely girl-to-girl.
 

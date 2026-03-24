@@ -31,25 +31,28 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 8. **Interim findings restructured** — Alicia Situation broken into four sub-parts (Original Grievances, Natalia Dimension, Snack-Sharing Constitutional Crisis, Alicia's Rebuilding). Kaisha observations consolidated into "Kaisha: Mediator Under Pressure." Snack-sharing ritual folded into the Alicia section. Lou heading corrected to "Intelligence Role." Clover Cats question removed (already resolved). Margin notes provenance added.
 9. **Analysis section added (Section 5)** — Eight subsections on social mechanisms: Exchange and Entry, Intelligence and Reconnaissance, Conflict Without Confrontation, Mediation and Brokerage, Displacement and Accumulation, The Ethnic Partition, Structural Holes and Scheduling, The Emerging Two-Bloc Structure. Follow-up questions renumbered to Section 6.
 10. **Ada's report review integrated** — Major corrections: (a) Group A is two overlapping triads (Ada/Mia/Lou + Ada/Mia/Natalia), not a single "Core Five" — Olivia N not placed in either by Ada; (b) Group C is Alicia/Navya/Anyeshka only (Alice separate pairing); (c) Group D is cross-homeroom (not all Babu), Lou still peripheral, Anjolie and Lyla NOT in it; (d) **Lyla discrepancy**: Ada now says Lyla was "never friends with Alice" (enemies) and "never friends with Anjolie" — contradicts earlier debrief; (e) founding charter expanded to triad: secrets, snacks, gossip; (f) Natalia explicitly prefers Ada/Mia over Alicia for snack quality; (g) Alicia proactively befriends newcomers; (h) Lou still partly friends with Alicia but says A+Anyeshka being rude; (i) Madeline's "stealing" = specifically Navya/Kaisha/Natalia; (j) "dumb babies" game example of Alicia grievance; (k) tone flattened per Ada's request.
+11. **Steam Day timeline unified** — Head-top confrontation + Steam Day recess merged into single reconstructed chronology from Ada's three tellings. Key finding: Ada consistently omits the verbal provocation ("you're not our friend") and her own head-top attempt across tellings. Madeline came over 4 times, not 2.
+12. **Ada's 3/23 update integrated** — (a) Madeline-Alicia alliance confirmed ongoing (same recess pattern 10 days after Steam Day); (b) FCC program: Mia is a communication buddy, pulled out of recess; (c) Ada-Mia debriefing protocol: Ada gathers intel at recess with Kaisha/Navya, briefs Mia before recess ends + at lunch; (d) Alicia now sits with Annie/Julia/Lyla at lunch (Group G absorbing Alicia); (e) Alicia's "disinformation" (Ada's framing) — "lies a lot, tells those lies to Madeline"; (f) two-bloc structure confirmed, not just emerging.
 
-## Clique Summary (UPDATED per Ada's report review)
+## Clique Summary (UPDATED 3/23)
 1. **Ada / Mia / Lou** + **Ada / Mia / Natalia** — Two overlapping triads (NOT a single Core Five; Olivia N peripheral)
 2. **Mia / Ashley / Olivia Q / Milan / Ellie** — Chinese girls / Clover Cats (confirmed by Ada)
-3. **Alicia / Navya / Anyeshka** — Alicia's network (three-pack only; Alice is separate)
-4. **Navya / Anyeshka / Kaisha** — Indian girls core (cross-homeroom, not all Babu; Anjolie/Lyla NOT in it; Lou peripheral)
-5. **Madeline H / Sanvi / Alicia** — Alicia joined recently post-falling-out
+3. **Alicia / Navya / Anyeshka** — Alicia's recess network (three-pack only; Alice is separate)
+4. **Navya / Anyeshka / Kaisha** — Indian girls core (cross-homeroom, not all Babu; Lou peripheral)
+5. **Madeline H / Sanvi / Alicia** — Alicia joined recently post-falling-out; Madeline is Alicia's proxy confronter
 6. **Navya / Kaisha** — sub-unit within Indian girls
-7. **Annie / Julia / Lyla** — self-contained Bell trio (Lyla never friends with Alice or Anjolie per Ada's correction)
+7. **Annie / Julia / Lyla / (Alicia)** — Bell trio now absorbing Alicia at lunch (3/23). Ada: "starting to group up too"
 8. **Alice / Alicia** — pairing (Alice befriended Alicia ~1 week before Lyla split)
 
 ## What's Next
 1. **Follow-up interviews ON HOLD** — Ada requested confidentiality; no new interviews this round to protect her as source. Interview priorities preserved for future rounds.
 2. **Resolve Lyla discrepancy** — Ada's accounts contradict across sessions. Lyla interview is essential.
-3. **Complete Indian girls roster** — Confirmed core: Kaisha, Navya, Anyeshka. Group is cross-homeroom. Anjolie/Lyla NOT in it per Ada's correction. Maperi embedded. Others TBD.
+3. **Complete Indian girls roster** — Confirmed core: Kaisha, Navya, Anyeshka. Group is cross-homeroom. Maperi embedded. Others TBD.
 4. **Margin notes on page 32** — corrections still needed
 5. **Identify remaining Gryser and Bareres students**
-6. **Track Madeline-Alicia alliance** — emerging two-bloc structure (Ada's alliance vs. Alicia coalition). Contested individuals: Navya, Kaisha, Natalia.
+6. **Monitor two-bloc development** — Confirmed structure as of 3/23. Bloc 1: Ada's triads. Bloc 2: Alicia's coalition (recess: Madeline/Anyeshka/Navya; lunch: Annie/Julia/Lyla). Contested: Navya, Kaisha, Natalia. Kaisha is the swing figure.
 7. **Identify Ruby's homeroom** — she bridges Lou and possibly Lyla, unknown placement.
+8. **FCC program details** — What is FCC exactly? When does it occur (during recess or separate)? Who else participates?
 
 ## Open Questions
 - **LYLA DISCREPANCY** — Was Lyla ever friends with Alice? With Anjolie? Ada contradicts herself across sessions. Priority for round 2.
