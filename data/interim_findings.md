@@ -92,7 +92,19 @@ The most active conflict. We now have both sides.
 
 **Ada's side:** Things were "kind of nice" with Alicia at first, but four grievances accumulated: (1) Alicia didn't share snacks, (2) Alicia monopolized Natalia in music class (sat closest, would grab her as partner every time), (3) Alicia "doesn't really like [Ada/Mia] too much," and (4) Alicia "got a little bossy" and "started to become the leader of our group." Then as weeks went on, Alicia "started to kind of separate from our group" — and that's how the Ada/Mia/Natalia trio formed. In Ada's telling, the separation was gradual and partly Alicia's own doing, not a sudden expulsion.
 
-**Post-breakup grievance example (Ada's report review):** The group used to play a recess game where Ada and friends are "dumb babies" and Alicia is the "mommy." After the breakup, they asked Navya to be their mommy instead. Alicia got angry about this even though they were no longer friends. Ada cites this as an example of Alicia getting "mad over little things" — Alicia still felt ownership over a social role (mommy) that existed within the friendship, and its reassignment felt like a further affront.
+**The "dumb babies" game — social structure in miniature (Ada's report review + 3/23).** The group plays a recess role-playing game with a hierarchy that maps directly onto the real social structure:
+
+| Role | Player | Notes |
+|---|---|---|
+| Mommy (authority) | Alicia → "ex-mommy" | Original authority figure; role lost when friendship broke |
+| Babies ("just annoying") | Ada, Mia | The core pair |
+| Babysitter ("Siddle") | Natalia | Caretaker role consistent with "support buddy" framing |
+| Babysitter ("Siddle Lou") | Lou | Secondary caretaker; joined later |
+| Step-mommy | Navya | Recently joined; replaced Alicia's authority role |
+
+The game started with Alicia (mommy), Ada, and Mia (babies). Natalia joined as babysitter, then Lou, then Navya as step-mommy. Alicia's demotion to "ex-mommy" mirrors her real social exile. When Ada asked Navya to replace Alicia, Alicia got angry — she still felt ownership over the mommy role even after the friendship ended. Ada called Navya "step-mommy" at recess in front of Alicia, who glared.
+
+**3/23 escalation:** Madeline confronted Ada about Navya specifically: "Why are you guys stealing Navya from Alicia?" This is the "friend-stealing" accusation narrowed to a single individual — and it's playing out through the game's role structure. The step-mommy role is both a game mechanic and a territorial claim: Navya accepting it means she's Ada's "mommy" now, not Alicia's friend.
 
 #### 3.1b The Natalia Dimension
 
