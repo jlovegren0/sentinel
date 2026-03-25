@@ -207,14 +207,20 @@ These cannot both be true. Possible explanations: (1) Ada was confused or exagge
 
 Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't told Madeline directly: "I really don't want to see her face when I tell her this."
 
-**3/24 update: The formal breakup.** Ada finally delivered the message — but not face-to-face. The sequence:
+**3/24 update: The formal breakup.** Ada finally delivered the message — but not face-to-face. The day's events in order:
 
-1. **The Sanvi incident (recess).** Ada says she "was bored" and said hi to Sanvi "about 50 times" with Natalia. This is directed at Madeline's #1 friend and a member of the Madeline/Sanvi/Alicia group. At "about the 50th time," Madeline threatened to tell the teacher. Ada stopped.
-2. **The relay chain (lunch).** Ada told Mia to tell Jane to tell Madeline that Ada doesn't want to be her friend anymore. Madeline sent back a message through the same chain: "You're mean."
+1. **Recess — joined Natalia.** Ada links up with Natalia (her "support buddy" / triad 2 member).
+2. **Recess — Sanvi provocation.** Ada and Natalia say hi to Sanvi "about 50 times." Sanvi is Madeline's #1 friend and a member of the Madeline/Sanvi/Alicia group.
+3. **Recess — Madeline's threat.** Madeline: "If you don't stop then I'm going to tell the teacher." Ada stops. (First invocation of adult authority in the data.)
+4. **Recess — Observing Alicia.** Ada goes to see what Alicia is doing. Alicia is playing "the disruptive kids game" — a school role-play game that Ada and Mia invented — with "all the Indian kids." Ada calls this "stupid." (See analytical note below.)
+5. **Recess ends.**
+6. **Lunch — relay breakup.** Ada tells Mia to tell Jane to tell Madeline that Ada doesn't want to be her friend anymore. Madeline sends back: "You're mean."
 
 **Analytical notes:**
 - **The relay chain.** Ada → Mia → Jane → Madeline. Ada outsources the breakup to a three-person relay, consistent with her avoidance of direct confrontation ("I really don't want to see her face"). Mia is the first link (intelligence partner, always the conduit). Jane is the cross-homeroom bridge — a Johnson girl being used as a neutral messenger. This is the first time Jane has appeared in an active social role (previously she was only in the Barack subplot and Natalia's #2 ranking).
-- **The Sanvi harassment.** Ada frames "saying hi 50 times" as boredom, but directing it at Sanvi — Madeline's best friend and a member of Alicia's coalition — is a provocation. Whether Ada intended it as such or genuinely was bored is unclear, but the effect is the same: it drew Madeline into confrontation and triggered the breakup sequence.
+- **The Sanvi provocation.** Ada frames "saying hi 50 times" as boredom, but directing it at Sanvi — Madeline's best friend and a member of Alicia's coalition — is targeted. Whether Ada intended it as such or genuinely was bored is unclear, but the effect is the same: it drew Madeline into confrontation and triggered the breakup sequence.
+- **Game appropriation.** Alicia was playing "the disruptive kids game" — a school role-play that Ada and Mia invented — with "all the Indian kids." Ada calls this "stupid," but the irritation is visible. This mirrors the "dumb babies" game dynamic: Alicia is taking social artifacts from her former friendship with Ada's group and repurposing them with her new allies. The games are intellectual property in a sense — created by Ada/Mia, now being used by Alicia with the Indian kids. From Ada's perspective, this is another form of theft; from Alicia's, these are shared games she has as much right to play.
+- **Alicia with "all the Indian kids" (3/24).** This confirms Alicia's integration into the Indian girls group continues. The disruptive kids game puts Alicia in an activity with the full Indian contingent — not just Navya and Anyeshka (her three-pack), but the broader group. This strengthens the recess component of Bloc 2.
 - **Madeline invokes adult authority.** "I'm going to tell the teacher" is the first time anyone in the network has threatened to escalate beyond peer-level social management. It's also the threat that made Ada stop — the only thing in the data that has made her back down.
 - **"You're mean."** Madeline's response to the breakup is short and direct — no relay games, no strategic framing. It reads as genuine hurt. Compare with Alicia's "Fine, I'm fine with that" (flat, possibly performative) — Madeline doesn't pretend indifference.
 - **The breakup Ada predicted.** In her debrief, Ada said she couldn't tell Madeline face-to-face. On 3/24, she found a way: a relay chain that delivers the message without requiring her to witness the reaction. The very thing she feared ("I don't want to see her face") is avoided by interposing three people between herself and Madeline.
