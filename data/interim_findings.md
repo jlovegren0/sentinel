@@ -207,6 +207,18 @@ These cannot both be true. Possible explanations: (1) Ada was confused or exagge
 
 Ada decided in fourth grade that Madeline "is not the friend for me," but hasn't told Madeline directly: "I really don't want to see her face when I tell her this."
 
+**3/24 update: The formal breakup.** Ada finally delivered the message — but not face-to-face. The sequence:
+
+1. **The Sanvi incident (recess).** Ada says she "was bored" and said hi to Sanvi "about 50 times" with Natalia. This is directed at Madeline's #1 friend and a member of the Madeline/Sanvi/Alicia group. At "about the 50th time," Madeline threatened to tell the teacher. Ada stopped.
+2. **The relay chain (lunch).** Ada told Mia to tell Jane to tell Madeline that Ada doesn't want to be her friend anymore. Madeline sent back a message through the same chain: "You're mean."
+
+**Analytical notes:**
+- **The relay chain.** Ada → Mia → Jane → Madeline. Ada outsources the breakup to a three-person relay, consistent with her avoidance of direct confrontation ("I really don't want to see her face"). Mia is the first link (intelligence partner, always the conduit). Jane is the cross-homeroom bridge — a Johnson girl being used as a neutral messenger. This is the first time Jane has appeared in an active social role (previously she was only in the Barack subplot and Natalia's #2 ranking).
+- **The Sanvi harassment.** Ada frames "saying hi 50 times" as boredom, but directing it at Sanvi — Madeline's best friend and a member of Alicia's coalition — is a provocation. Whether Ada intended it as such or genuinely was bored is unclear, but the effect is the same: it drew Madeline into confrontation and triggered the breakup sequence.
+- **Madeline invokes adult authority.** "I'm going to tell the teacher" is the first time anyone in the network has threatened to escalate beyond peer-level social management. It's also the threat that made Ada stop — the only thing in the data that has made her back down.
+- **"You're mean."** Madeline's response to the breakup is short and direct — no relay games, no strategic framing. It reads as genuine hurt. Compare with Alicia's "Fine, I'm fine with that" (flat, possibly performative) — Madeline doesn't pretend indifference.
+- **The breakup Ada predicted.** In her debrief, Ada said she couldn't tell Madeline face-to-face. On 3/24, she found a way: a relay chain that delivers the message without requiring her to witness the reaction. The very thing she feared ("I don't want to see her face") is avoided by interposing three people between herself and Madeline.
+
 **The bossiness pattern:** Ada describes both Alicia and Madeline with nearly identical complaints — bossiness, controlling behavior, getting mad over little things, wanting to dictate what others do. Ada's response in both cases is quiet disengagement rather than confrontation. This may be Ada's signature move: she doesn't fight, she just leaves.
 
 **Note:** The "Alice" in the Madeline story is a different girl from third grade who has since moved schools — not the current Bell homeroom Alice who broke up with Lyla. The Ada/Madeline friendship predates the current fourth-grade social map.
@@ -393,7 +405,9 @@ A striking pattern across the data: almost nobody in this network confronts dire
 
 **Deniable aggression.** Head-topping is a game — you tap someone's head, they can block by putting a hand on their own head. But when Alicia keeps head-topping Ada and Mia after being told to stop, and when they retaliate, the game becomes a proxy for real hostility. Each provocation has a built-in excuse ("I was just playing"). The game's rule structure provides cover for escalation.
 
-**Quiet disengagement.** Ada's signature move. She doesn't fight Alicia, doesn't confront Madeline — she just gradually withdraws. Both breakups (Alicia, Madeline) follow the same pattern: accumulating grievances, growing distance, and eventual separation without a defining confrontation. Ada's own self-assessment is accurate: "I don't really solve problems."
+**Quiet disengagement — and the relay breakup.** Ada's signature move is gradual withdrawal rather than confrontation. The Alicia breakup followed this pattern (accumulating grievances, growing distance, no defining confrontation). The Madeline breakup appeared to follow it too — until 3/24, when Ada formalized it through a three-person relay chain: Ada → Mia → Jane → Madeline, sending the message "I don't want to be her friend anymore." This avoids face-to-face contact while still delivering a definitive statement. It's a hybrid: the avoidance is classic Ada, but the explicit breakup message is new. Madeline's response — "You're mean," sent back through the same chain — was the direct emotional reaction Ada had feared ("I don't want to see her face").
+
+**Escalation to adult authority.** On 3/24, Madeline threatened to "tell the teacher" after Ada said hi to Sanvi approximately 50 times. This is the first invocation of adult authority in the data, and the only thing that has made Ada back down. The peer social system operates with its own rules; the threat to bring in a teacher represents a boundary — or a weapon — that hadn't been deployed before.
 
 **Contextual deflection.** When cornered by Ada's approach-via-Kaisha on Steam Day, Alicia doesn't confront or flee. She walks away, returns with raw onions, and yells "Who wants raw onions?" — creating a social event that resets the space. She redirects attention, breaks the tactical frame Ada has set up, and regains control of the social situation without addressing the underlying conflict.
 
