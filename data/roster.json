@@ -35,8 +35,8 @@
     }
   },
   "subjects": [
-    {"name": "Ada", "abbrev": "AD", "homeroom": "Bell"},
-    {"name": "Mia", "abbrev": "MI", "homeroom": "Bell"},
+    {"name": "Ada", "abbrev": "AD", "homeroom": "Bell", "notes": "Half Vietnamese. Lives on same street as Mia. Mom friends with Mia's mom. Mom was formerly friends with Madeline's mom (fell out ~1yr ago over babysitting exploitation). Not in talented-and-gifted."},
+    {"name": "Mia", "abbrev": "MI", "homeroom": "Bell", "notes": "Chinese. Lives on same street as Ada. Mom friends with Ada's mom. Participates in FCC (communication buddy program), which pulls her out of recess."},
     {"name": "Olivia N", "abbrev": "OL", "homeroom": "Bell"},
     {"name": "Alicia", "abbrev": "AL", "homeroom": "Bell"},
     {"name": "Natalia", "abbrev": "NAT", "homeroom": "Bell"},
@@ -45,7 +45,7 @@
     {"name": "Alice", "abbrev": null, "homeroom": "Bell"},
     {"name": "Lyla", "abbrev": null, "homeroom": "Bell"},
     {"name": "Ashley", "abbrev": "AS", "homeroom": "Johnson"},
-    {"name": "Madeline H", "abbrev": "MAD", "homeroom": "Johnson"},
+    {"name": "Madeline H", "abbrev": "MAD", "homeroom": "Johnson", "notes": "Eldest of three sisters. Mom formerly friends with Ada's mom (fell out ~1yr ago — Madeline's mom would ask for free babysitting, be late to pick up). Ada's ex-best friend (formal breakup 3/24 via relay chain). Now Alicia's proxy confronter."},
     {"name": "Jane", "abbrev": null, "homeroom": "Johnson"},
     {"name": "Anyeshka", "abbrev": "ANE", "homeroom": "Babu"},
     {"name": "Anjolie", "abbrev": "AN", "homeroom": "Babu"},

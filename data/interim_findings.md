@@ -540,6 +540,28 @@ Resources: Madeline as proxy confronter, Alicia's structural bridging and active
 
 **What this means for boys.** Boys remain peripheral. The girls classify and rank them (Wade #1, Ari #2, Ethan #3; Barack and Sid as "weird boys"; Wade, Ari, and Lincoln labeled as dyslexic) but don't integrate them into their social structures. Mia's "way with boys" is valued as an intelligence-gathering skill, not a social bridge — she brings information back to the girls' world, she doesn't pull boys into it. The social economy is almost entirely girl-to-girl.
 
+### 5.9 The Parent Layer
+
+New data (3/26): Ada's parents have been consulted about the conflict. Their positions diverge, and the family-level relationships reveal structural parallels to the girls' social map.
+
+**Ada's mom** wants to intervene. She proposed that Ada broker a truce by bringing a good snack to the girls she's fighting with — "Hey, can we just call it a truce?" Her goal is civility, not necessarily friendship: "They don't have to be friends, but they need to be civil." She is also considering emailing the school counselor.
+
+**Ada's dad** thinks the situation will sort itself out and that adults shouldn't insert themselves.
+
+**Ada** doesn't like the idea of involving the school counselor.
+
+**The parent-level social map mirrors the girls'.**
+
+- **Ada's mom and Madeline's mom** were friends, but Ada's mom "kind of stopped talking to" Madeline's mom about a year ago. The reason: Madeline's mom would constantly ask for free babysitting and be late to pick up her three daughters (Madeline is the eldest). The parallel to the girls' conflict is striking — Ada's mom cut off Madeline's mom for being exploitative and one-sided, using the same framing Ada uses for Madeline (bossy, demanding, taking without reciprocating). Whether Ada learned this pattern from her mother or arrived at it independently, the template is the same: a relationship where one party feels the other is taking more than they give, resolved by quiet withdrawal rather than confrontation.
+- **Ada's mom and Mia's mom** are friends. Mia lives on the same street as Ada. This means the Ada-Mia pair bond — the load-bearing axis of Bloc 1 — has a parental infrastructure underneath it. Geographic proximity + mothers' friendship = playdates, rides, shared context, and the kind of daily contact that purely school-based friendships can't match. This is likely why Ada-Mia is the most durable bond in the dataset: it's reinforced by adult relationships and physical neighborhood structure, not just school scheduling.
+- **Madeline has two younger sisters.** Being the eldest of three may inform the caretaking/managing behavior that Ada and others describe as "bossy" — she's in an authority role at home. It may also explain her readiness to act as Alicia's proxy/enforcer: she's practiced at managing situations on others' behalf.
+
+**Analytical notes:**
+- The snack-truce proposal was well-intentioned but likely counterproductive. In Ada's own social economy, snack-sharing is a membership ritual and gatekeeping criterion ("Alicia could have joined if she shared snacks"). Offering snacks to Alicia would likely read as a power move — Ada setting the terms of entry — rather than an olive branch.
+- Emailing the counselor carries risk due to Ada's confidentiality constraint. If the counselor investigates and Ada is identified as the source of detailed social intelligence, it could damage her position. However, a *general* heads-up ("I'm aware of social friction in Bell's class") could be protective — if Madeline's "bullying" framing reaches the school first, Ada may need the context to already be on record as a two-sided conflict.
+- Dad's position has some empirical support — the conflict *is* evolving (from avoidance to direct confrontation over two weeks), Anyeshka is already cracking, and the girls are developing genuine social skills. But the "bullying" reframing is a risk that peer dynamics alone may not self-correct — that word can trigger institutional responses.
+- **The deepest structural insight:** the Ada-Mia bond survives and dominates partly because it's the only friendship in the dataset with confirmed parental and geographic infrastructure. Alicia's cross-homeroom coalition is structurally creative but has no known parent-level support. The playing field isn't level in ways the girls themselves may not recognize.
+
 ---
 
 ## 6. Suggested Follow-Up Questions

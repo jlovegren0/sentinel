@@ -262,5 +262,26 @@
       "description": "Barack is suspected of having a crush on Jane. Natalia told Jane she saw Barack reading Babysitter's Club (implying he's trying to impress her or share her interests). The girls debate whether it's better for Jane that the weird boys (Barack, Sid) have a crush on her than nobody at all.",
       "involves": ["Barack", "Jane", "Natalia", "Sid"]
     }
+  },
+  "parent_layer": {
+    "source": "Ada's parents (3/26 consultation)",
+    "ada_mom": {
+      "position": "Wants to intervene. Proposed Ada broker a truce by bringing snacks to girls she's fighting with. Concerned conflict is 'getting out of hand' and girls are 'fighting for no reason.' Goal: civility, not necessarily friendship.",
+      "relationship_to_madeline_family": "Ada's mom used to be friends with Madeline's mom. Stopped talking to her about a year ago because Madeline's mom would always ask for free babysitting and be late to pick up her three girls (Madeline is the eldest). This means the Ada-Madeline parental friendship predates and mirrors the girls' breakup — both relationships ended with one party feeling exploited by the other.",
+      "relationship_to_mia_family": "Mia lives on the same street as Ada. Their moms are friends. This means the Ada-Mia pair bond has a parental infrastructure: the mothers' friendship likely facilitates playdates, proximity, and shared social context."
+    },
+    "ada_dad": {
+      "position": "Thinks the situation will sort itself out. Adults shouldn't insert themselves."
+    },
+    "ada": {
+      "position": "Doesn't like the idea of emailing the school counselor."
+    },
+    "analytical_notes": [
+      "The parent-level relationships mirror the girls' social structure. Ada's mom cut off Madeline's mom for being exploitative (demanding babysitting, being late) — the same pattern Ada describes in Madeline: bossiness, controlling, demanding. Whether Ada learned this framing from her mother or arrived at it independently, the parallel is striking.",
+      "Mia living on Ada's street explains the depth and durability of the Ada-Mia pair bond. Geographic proximity + parental friendship = the strongest possible foundation for a childhood friendship. This is why Ada-Mia is the load-bearing axis of Bloc 1 — it has structural support that purely school-based friendships lack.",
+      "Madeline has two younger sisters. Being the eldest of three may inform her caretaking/managing behavior that Ada and others describe as 'bossy.'",
+      "The snack-truce proposal was assessed as likely counterproductive: in Ada's social economy, snack-sharing is a membership ritual and gatekeeping criterion ('Alicia could have joined if she shared snacks'). Offering snacks to Alicia would read as a power move, not an olive branch.",
+      "Counselor email was assessed as risky due to Ada's confidentiality constraint — if the counselor investigates and Ada is identified as the source, it could damage her social position."
+    ]
   }
 }
