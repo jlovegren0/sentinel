@@ -62,7 +62,8 @@
     {"name": "Maperi", "abbrev": null, "homeroom": "Babu", "notes": "Turkish background, 'doesn't know English that well but speaks English instead of Turkish.' Described as 'silly.' Hangs out with Indian kids in Babu's class. Non-Indian girl embedded in Indian girls' group (like Lou before her)."},
     {"name": "Ruby", "abbrev": null, "homeroom": "unknown", "notes": "NEW (Ada remarks). Lou's best friend per Ada. Also friends with Lyla. Unknown homeroom — Ada unsure which class Ruby is in."},
     {"name": "Margaret", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."},
-    {"name": "Abby", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."}
+    {"name": "Abby", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."},
+    {"name": "Devon", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (3/25). Top friends: Olivia and Julia. Madeline gossiped to Devon about Ada; Devon reported it back to Ada."}
   ],
   "unplaced_names_from_diagram": [
     "Nazza (= Navya, misread)"
@@ -70,5 +71,5 @@
   "uncertain_names": [
     {"name": "Nia", "source": "Ada remarks — 'Mia and Nia' when listing Lou's friends. Possibly verbal fumble (Mia repeated), or a new person. Low confidence."}
   ],
-  "notes": "~28 girls total (up from ~25). Ruby, Margaret, and Abby added from Ada's latest remarks. Bareres and Gryser homerooms still undersampled. 'Olivia M' in user's clique description = Olivia N (confirmed typo)."
+  "notes": "~29 girls total (up from ~25). Ruby, Margaret, Abby added from Ada's remarks; Devon added from 3/25 update. Bareres and Gryser homerooms still undersampled. 'Olivia M' in user's clique description = Olivia N (confirmed typo). Johnson now has 6 girls (Ashley, Madeline H, Jane, Margaret, Abby, Devon)."
 }

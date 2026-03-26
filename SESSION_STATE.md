@@ -12,7 +12,7 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 ## Key Facts
 - **Homerooms & teachers**: Bell (nicest, mixed, 9 girls), Johnson (most Chinese girls, 5 girls), Babu (most Indian girls, aliases "Ba"/"Ra", 6 girls), Clendenon (5 girls), Gryser (strictest, boys/girls talk, Park's mom, 2 girls), Bareres (1 girl, deprioritized)
 - **Abbreviations**: AD=Ada, MI=Mia, OL=Olivia N, AL=Alicia, NAT=Natalia, AS=Ashley, MAD=Madeline H, ANE=Anyeshka, AN=Anjolie, NAV=Navya. Annie has NO abbreviation.
-- **Roster**: 28 girls across 6 homerooms (Bell 9, Johnson 5, Babu 6, Clendenon 5, Gryser 2, Bareres 1) + Ruby (unknown)
+- **Roster**: 29 girls across 6 homerooms (Bell 9, Johnson 6, Babu 6, Clendenon 5, Gryser 2, Bareres 1) + Ruby (unknown)
 - **"D" row in grid** is a smudge, not real data
 - **"Nazza"** in my diagram read = Navya (misread)
 - **"Samm"** in notes = Sanvi, **"Lola"** = Leela
@@ -35,6 +35,7 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 12. **Ada's 3/23 update integrated** — (a) Madeline-Alicia alliance confirmed ongoing (same recess pattern 10 days after Steam Day); (b) FCC program: Mia is a communication buddy, pulled out of recess; (c) Ada-Mia debriefing protocol: Ada gathers intel at recess with Kaisha/Navya, briefs Mia before recess ends + at lunch; (d) Alicia now sits with Annie/Julia/Lyla at lunch (Group G absorbing Alicia); (e) Alicia's "disinformation" (Ada's framing) — "lies a lot, tells those lies to Madeline"; (f) two-bloc structure confirmed, not just emerging.
 13. **Ada's 3/24 update integrated** — (a) Ada harassed Sanvi (said hi ~50 times with Natalia); Madeline threatened to tell teacher (first adult authority invocation); (b) Ada formally broke up with Madeline via relay chain: Ada→Mia→Jane→Madeline ("I don't want to be her friend anymore"); Madeline replied "You're mean"; (c) Jane now in active social role as cross-homeroom messenger.
 14. **Findings rewrite (3/26)** — Header updated with 3/24 source. Section 4: two-bloc structure upgraded from "emerging?" to "confirmed (3/23–3/24)." Section 5.8: new "3/24 developments" subsection (Sanvi provocation, game appropriation, formal Madeline breakup). Section 6: replaced answered Steam Day Q with FCC, relay breakup aftermath, and Madeline round-2 Qs.
+15. **Ada's 3/25 update integrated** — (a) Devon added to roster (Johnson, top friends: Olivia, Julia); (b) First direct confrontation: Ada and Mia confronted Alicia face-to-face at extra recess after PE, demanding she stop talking behind their back; Alicia defended with "I can express my feelings with my friends!" — both sides ended up accusing each other of the same thing; (c) Madeline gossip to Devon backfired: Madeline told Devon "Ada bullies me," Devon reported it to Ada; (d) Madeline's narrative shifted from "friend-stealing" to "bullying" framing; (e) Alice present as Alicia's companion during confrontation, confirming Group H pairing active.
 
 ## Clique Summary (UPDATED 3/24)
 1. **Ada / Mia / Lou** + **Ada / Mia / Natalia** — Two overlapping triads (NOT a single Core Five; Olivia N peripheral)

@@ -121,6 +121,42 @@
       "ada_theory": "Madeline may have come over because she either (1) saw the fight firsthand (Johnson's class may have come out to recess first) — 'me tapping Alicia's head, me yelling at Alicia, me arguing,' or (2) saw Alicia looking sad and went to check on her, and Alicia spilled what happened.",
       "analytical_note": "Madeline with Anyeshka and Navya on the monkey bars is a cross-group signal — Madeline (Johnson) linking up with Indian girls (Babu). Maperi was also there but 'just swinging on the monkey bars and having fun' — not part of the alliance.",
       "source": "Ada remarks (latest)"
+    },
+    {
+      "type": "incident",
+      "name": "Direct confrontation with Alicia (3/25)",
+      "parties": {
+        "side_a": ["Ada", "Mia"],
+        "side_b": ["Alicia", "Alice"]
+      },
+      "sequence": [
+        "Extra recess after PE. Alicia is with Alice.",
+        "Ada and Mia approach to tell Alicia to quit talking behind their back.",
+        "Alicia: 'No, I'm having a private talk.'",
+        "Alicia and Alice go have their private talk (about Ada/Mia — 'Duh!').",
+        "Alicia returns: 'What do you want?'",
+        "Ada/Mia: 'Can you stop talking behind our back?'",
+        "Alicia goes into 'full yelling mode': 'I can express my feelings with my friends!'",
+        "Ada/Mia: 'Yeah, but can you just not talk about us behind our back?'",
+        "Alicia: 'Well, why can't I express my feelings with my friends?' and 'Why do you guys talk behind my back?'",
+        "Alicia starts walking away.",
+        "Ada yells back: 'Well, why do you talk behind ours?' and 'We're just expressing our feelings!'"
+      ],
+      "context": "FIRST direct confrontation in the data. Ada has previously avoided face-to-face conflict (proxy relay, quiet disengagement). Here she initiates direct engagement. Alicia's defense is rights-based: 'I can express my feelings.' Ada throws Alicia's exact language back at her. Alice is present throughout as Alicia's companion, reinforcing the Alice-Alicia pairing.",
+      "source": "Ada 3/25 update"
+    },
+    {
+      "type": "intelligence_leak",
+      "name": "Madeline gossips to Devon (3/25)",
+      "parties": {
+        "gossiper": "Madeline H",
+        "recipient": "Devon",
+        "reported_to": "Ada"
+      },
+      "content": "Madeline told Devon at recess: 'Ada bullies me and she also talks behind my back and glares at me.'",
+      "how_discovered": "Devon told Ada directly.",
+      "analytical_note": "Madeline's narrative campaign has expanded beyond Alicia's inner circle to Devon, a Johnson classmate whose top friends (Olivia, Julia) are outside the conflict. But the intelligence backfired — Devon reported it to Ada. Devon is either neutral or Ada-leaning. This is the first confirmed instance of Madeline's gossip reaching Ada through an unintended channel.",
+      "source": "Ada 3/25 update"
     }
   ],
   "bridge_roles": [

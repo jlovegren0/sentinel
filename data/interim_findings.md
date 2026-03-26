@@ -1,5 +1,5 @@
 # Interim Findings — Fourth Grade Girls' Social Network
-**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks + Ada 3/23 update + Ada 3/24 update
+**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks + Ada 3/23 update + Ada 3/24 update + Ada 3/25 update
 
 **Sourcing note:** Ada's latest remarks are provided under confidentiality — she does not want the other girls to know she has been talking. Assertions from these remarks should be treated as single-source intelligence (Ada's perspective) rather than confirmed facts. We will not be seeking corroboration via additional interviewees for this round.
 
@@ -11,14 +11,14 @@
 
 ## 1. The Map So Far
 
-We have identified **28 girls** across **six homerooms** and obtained best-friend rankings from **10** of them. The social landscape is organized around a few overlapping cliques, with ethnic identity and homeroom placement as the two main sorting variables.
+We have identified **29 girls** across **six homerooms** and obtained best-friend rankings from **10** of them. The social landscape is organized around a few overlapping cliques, with ethnic identity and homeroom placement as the two main sorting variables.
 
 ### Homeroom breakdown
 
 | Homeroom | Teacher character | Known students |
 |---|---|---|
 | **Bell** | "Nicest teacher" | Ada, Mia, Olivia N, Alicia, Natalia, Annie, Julia, Alice, Lyla |
-| **Johnson** | — | Ashley, Madeline H, Jane, Margaret, Abby |
+| **Johnson** | — | Ashley, Madeline H, Jane, Margaret, Abby, Devon |
 | **Babu** | — | Anyeshka, Anjolie, Navya, Mallorie, Kaisha |
 | **Clendenon** | — | Kiara, Sanvi, Leela, Lou (new, from UK) |
 | **Gryser** | Strictest; boys and girls talk here | Milan, Ellie |
@@ -135,6 +135,23 @@ The elaborate covert methods (especially #4, with its "payment" framing) reveal 
 Alicia was expelled from the Core Four but retains ties to Natalia and Olivia N (both still rank her or are ranked by her at tier 2). She has rebuilt across three different groups: Navya/Anyeshka, Madeline/Sanvi, and her residual Bell friendships. Alice is also now in Alicia's orbit (see Group H). Alicia is the most structurally interesting girl in the network — a bridge across homerooms and ethnic lines who keeps accumulating displaced friends. A recurring pattern is emerging: girl gets expelled/alienated from a group → bonds with Alicia.
 
 **Alicia as welcomer of newcomers (Ada's report review):** Ada reports that when Lou first arrived and "had no one," Ada saw Alicia walk over and say "Sup, Lou?" This is consistent with the accumulation pattern — Alicia proactively befriends isolated and new girls. Lou's eventual best-friendship with Alicia (before the shift to the Core Five) may have started from this moment.
+
+#### 3.1e The Direct Confrontation (3/25)
+
+**New (Ada 3/25 update).** For the first time in the data, Ada directly confronted Alicia face-to-face — breaking her established pattern of proxy communication, quiet disengagement, and relay chains.
+
+**The sequence:** Extra recess after PE. Ada and Mia approach Alicia (who is with Alice) to tell her to quit talking behind their back. Alicia: "No, I'm having a private talk." Alicia and Alice walk away to have their private talk — about Ada and Mia, per Ada ("Duh!"). Alicia returns: "What do you want?" Ada and Mia: "Can you stop talking behind our back?" Alicia goes into "full yelling mode": "I can express my feelings with my friends!" The exchange escalates:
+
+- Ada/Mia: "Yeah, but can you just not talk about us behind our back?"
+- Alicia: "Well, why can't I express my feelings with my friends?" and "Why do you guys talk behind my back?"
+- Alicia starts walking away.
+- Ada yells back: "Well, why do you talk behind ours?" and "We're just expressing our feelings!"
+
+**Analytical notes:**
+- **Ada initiates.** This is the first time Ada has approached Alicia with a direct demand rather than using proxies (Lou for recon, Madeline relay for the breakup, Kaisha as social shield). What changed? Possibly the 3/24 breakup with Madeline freed Ada from managing that front, giving her bandwidth — or confidence — to confront Alicia directly.
+- **Alicia's rights-based defense.** "I can express my feelings with my friends" is a principled argument, not a denial. Alicia doesn't say she wasn't talking about them — she asserts the right to do so. This is qualitatively different from the earlier "Fine, I'm fine with that" (flat, closed) or the raw-onion deflection (avoidant). Alicia is holding her ground verbally.
+- **Mirror accusation.** Both sides accuse the other of the same thing. Ada's parting shot — "We're just expressing our feelings!" — is Alicia's own phrase thrown back at her. The conflict has reached a point where both sides' grievances are formally identical: each accuses the other of talking behind their back.
+- **Alice as companion, not combatant.** Alice is present throughout but doesn't speak. She's Alicia's anchor — someone to have the "private talk" with, someone standing beside her — but she doesn't enter the argument. The Alice-Alicia pairing (Group H) is confirmed as active and supportive.
 
 ### The Lou Migration — and Intelligence Role
 **New (Ada debrief).** Lou (Clendenon, new from UK) was initially part of the Indian girls group with Kaisha, Navya, et al. Per Ada, the Indian girls "discluded her a little" — not outright meanness, more gradual exclusion. The migration was organic rather than dramatic: "Mia and I mostly, like when we were bored, we ran around and said hi to [Lou] and eventually we just formed a group somehow." This is the second data point (after Alicia) of a girl drifting from one group and landing in another, but the mechanism is softer than Alicia's expulsion — more drift than rupture. It also complicates the ethnic partition story — Lou (white, British) was *in* the Indian girls group, meaning that group isn't purely ethnic.
@@ -269,10 +286,15 @@ Ada also reports that "Alicia lies a lot and she tells those lies to Madeline" a
 
 **Ada's threat assessment:** "They might have more allies and friends, but at least we have more brains."
 
+**3/25 update: Madeline's narrative campaign reaches Devon — and backfires.** Madeline told Devon (Johnson homeroom) at recess: "Ada bullies me and she also talks behind my back and glares at me." Devon then told Ada directly. This is significant in two ways: (1) Madeline's campaign has expanded beyond Alicia's inner circle to a Johnson classmate whose top friends (Olivia, Julia) are outside the conflict, and (2) it backfired — Devon reported the gossip to its target. Devon is either neutral or Ada-leaning, and her act of reporting effectively turns Madeline's intelligence operation into intelligence for Ada. Ada now knows Madeline's specific narrative: not "friend-stealing" (the Steam Day/3/23 accusation) but "bullying" and "glaring" — a reframing of the conflict that positions Ada as the aggressor.
+
+**Devon (new name, 3/25):** Johnson homeroom. Top friends are Olivia and Julia. Not previously placed in any clique or conflict. Her willingness to report Madeline's gossip to Ada suggests she doesn't see herself as part of Madeline's social world despite being in the same homeroom.
+
 **Analytical notes:**
 - **The pattern is sustained, not one-off.** Madeline sought Alicia out, talked to her the entire recess, then confronted Ada — the same sequence as Steam Day, 10 days later. This is an established routine, not a reactive incident.
 - **Madeline on monkey bars with Anyeshka and Navya** (Steam Day) remains the most significant cross-group alliance signal — Alicia's proxy (Johnson) together with Indian girls (Babu).
 - **Ada's "more brains" comment** is revealing — she sees this as a strategic contest, not just a social rift.
+- **Madeline's gossip to Devon** shows the narrative campaign expanding but also its limits. Not every Johnson girl is in Madeline's orbit — Devon functioned as an unwitting intelligence conduit back to Ada.
 
 ### Lunchtime Seating Map
 **New (Ada remarks), updated 3/23.** Lunchtime tables are assigned by homeroom class. Table order (approximate): Bell → Babu → Johnson → Bareres → Clendenon → Gryser.
@@ -330,8 +352,8 @@ The girls maintain a boys' popularity ladder: Wade (#1, teacher's pet), Ari (#2)
 
 ## 4. What We Don't Know
 
-### Unranked girls (18 of ~28)
-We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane, Margaret, Abby (Johnson); Mallorie, Kaisha (Babu); Kiara, Sanvi, Leela, Lou (Clendenon); Milan, Ellie (Gryser); Olivia Q (Bareres); Ruby (unknown homeroom). Ashley gave rankings (now resolved). Ada provided a debrief and additional remarks on several girls but formal rankings are still needed from the girls themselves.
+### Unranked girls (19 of ~29)
+We have no friendship rankings from: Annie, Julia, Alice, Lyla (Bell); Jane, Margaret, Abby, Devon (Johnson); Mallorie, Kaisha (Babu); Kiara, Sanvi, Leela, Lou (Clendenon); Milan, Ellie (Gryser); Olivia Q (Bareres); Ruby (unknown homeroom). Ashley gave rankings (now resolved). Ada provided a debrief and additional remarks on several girls but formal rankings are still needed from the girls themselves.
 
 **Note:** Per Ada's confidentiality request, we will not be conducting additional interviews in this round. Ada's assertions should be taken as her perspective rather than corroborated fact.
 
@@ -364,7 +386,7 @@ Ada's accounts of Lyla's friendships contradict across sessions. The earlier deb
 - **Gryser homeroom** is the only one where boys and girls reportedly talk to each other. Does this affect the girls' social dynamics? Milan and Ellie are here — do they interact with boys more than girls in other homerooms?
 - ~~**Bareres homeroom** — Olivia Q is the only student we've placed there. Are there others?~~ **DEPRIORITIZED:** Per Ada, the Bareres girls "aren't really involved" — "just people who are at recess."
 - **Clendenon** — Four girls (Kiara, Sanvi, Leela, Lou). Lou is now the key figure (Core Five member and Alicia-conflict intelligence-gatherer). Kiara and Olivia N hang out every day at recess (confirmed by Ada); Natalia and Mallorie likewise. These out-of-clique #1 picks are real, observed friendships.
-- **Johnson homeroom now at 5** — Margaret and Abby are new names from Ada's lunchtime description. Their social roles are unknown.
+- **Johnson homeroom now at 6** — Margaret and Abby from Ada's lunchtime description; Devon from 3/25 update (top friends: Olivia, Julia). Devon reported Madeline's gossip back to Ada, suggesting she's not in Madeline's orbit despite sharing a homeroom.
 - **Two-bloc structure confirmed (3/23–3/24).** Bloc 1: Ada's triads. Bloc 2: Alicia's coalition (recess: Madeline/Anyeshka/Navya; lunch: Annie/Julia/Lyla). No longer "emerging" — sustained over multiple observations. Kaisha is the critical swing figure (see Section 3 and Section 5.8). On 3/24, Ada formally broke up with Madeline via relay chain — the Madeline-Alicia side of Bloc 2 is now the only alliance Madeline has left.
 
 ---
@@ -418,6 +440,8 @@ A striking pattern across the data: almost nobody in this network confronts dire
 **Contextual deflection.** When cornered by Ada's approach-via-Kaisha on Steam Day, Alicia doesn't confront or flee. She walks away, returns with raw onions, and yells "Who wants raw onions?" — creating a social event that resets the space. She redirects attention, breaks the tactical frame Ada has set up, and regains control of the social situation without addressing the underlying conflict.
 
 **Innocence framing and self-editing.** Ada narrates her own strategic behavior while insisting on its innocence. "Just minding our own business." "Just playing tag." "Just chatted about random stuff." Across three separate tellings of Steam Day (initial debrief, later disclosure, chronological reconstruction), she consistently minimizes her role as initiator. The verbal provocation ("you're not our friend") and the head-top attempt — the two moments where she was the aggressor — were disclosed late, omitted from the reconstruction, and never volunteered unprompted. Ada is aware of the strategy but needs it to be unintentional.
+
+**3/25: The first direct confrontation.** Ada broke the pattern. She and Mia approached Alicia directly to demand she "stop talking behind our back." Alicia defended herself with a rights-based argument ("I can express my feelings with my friends!") rather than deflecting. The exchange escalated to mutual accusations — both sides claiming the other talks behind their back — and ended with Ada throwing Alicia's own phrase back at her: "We're just expressing our feelings!" This is qualitatively different from every previous conflict mode: no proxies, no games, no avoidance, no relay. Whether it represents a permanent shift or a one-off escalation remains to be seen. Notably, Ada still narrated the encounter to us in a way that positions her as the reasonable party ("we wanted to tell Alicia something, which is to quit talking behind our back"), but Alicia's "full yelling mode" is Ada's framing — we don't have Alicia's version.
 
 ### 5.4 Mediation and Brokerage
 
@@ -490,6 +514,10 @@ Resources: Madeline as proxy confronter, Alicia's structural bridging and active
 
 **Ada's framing.** "They might have more allies and friends, but at least we have more brains." She sees this as a strategic contest and concedes the numerical disadvantage — which is growing. She compensates with intelligence operations (Lou's recon, the Ada-Mia debriefing pipeline) rather than recruitment. The 3/24 breakup with Madeline further narrows her alliance while Alicia's coalition continues to absorb new members.
 
+**3/25 developments.**
+- **Direct confrontation.** Ada and Mia confronted Alicia face-to-face for the first time (see Section 3.1e). This breaks the proxy/avoidance pattern that has defined the conflict. Whether it represents a permanent escalation or a one-off remains unclear.
+- **Madeline's narrative leaks.** Madeline told Devon (Johnson) that "Ada bullies me and she also talks behind my back and glares at me." Devon reported this to Ada. Two implications: (1) Madeline is now framing the conflict as "bullying" rather than "friend-stealing" — a rhetorical escalation that invokes more serious social categories; (2) not all Johnson girls are in Madeline's camp. Devon's top friends are Olivia and Julia, placing her outside the conflict's core; her act of reporting to Ada makes her a de facto intelligence asset for Bloc 1.
+
 **What this means for boys.** Boys remain peripheral. The girls classify and rank them (Wade #1, Ari #2, Ethan #3; Barack and Sid as "weird boys"; Wade, Ari, and Lincoln labeled as dyslexic) but don't integrate them into their social structures. Mia's "way with boys" is valued as an intelligence-gathering skill, not a social bridge — she brings information back to the girls' world, she doesn't pull boys into it. The social economy is almost entirely girl-to-girl.
 
 ---
@@ -512,6 +540,9 @@ For consultants conducting round 2 interviews (when authorized):
 10. **For Ada:** "What is FCC exactly? What does Mia do as a communication buddy? How long is she out of recess for it?" (FCC pulls Mia out of recess and creates the debriefing protocol — understanding the program clarifies a key structural driver.)
 11. **For Ada:** "You said you told Mia to tell Jane to tell Madeline. How did Madeline react when she got the message? Did Jane say anything about it?" (Probe the relay breakup's aftermath and Jane's role as cross-homeroom messenger.)
 12. **For Madeline (round 2):** "Ada says she doesn't want to be your friend anymore. What happened from your side? What did Jane tell you exactly?" (Get Madeline's version of the relay breakup — contrast with Ada's.)
+
+13. **For Devon (round 2):** "Who are your friends? You're in Johnson's class — do you hang out with Madeline, or more with other girls?" (Devon's top friends are Olivia and Julia. Clarify which Olivia — N or Q? — and which Julia — Bell or another? Devon reported Madeline's gossip to Ada, suggesting she's not allied with Madeline. Get her perspective on the Johnson homeroom social dynamics.)
+14. **For Ada:** "You said you told Alicia to stop talking behind your back. What did you expect to happen? Did anything change after that?" (Probe the aftermath of the 3/25 direct confrontation — did it change the dynamic or was it a one-off?)
 
 **Note:** The Steam Day reconstruction question (previously listed here) has been asked and answered — see "Steam Day — Reconstructed Chronology" in Section 3 for the result.
 
