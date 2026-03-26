@@ -1,5 +1,5 @@
 # Interim Findings — Fourth Grade Girls' Social Network
-**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks + Ada 3/23 update
+**Draft for consultant review** | March 2026 | Based on first-round interviews (10 of ~25 girls) + Ada debrief + Ada remarks + Ada 3/23 update + Ada 3/24 update
 
 **Sourcing note:** Ada's latest remarks are provided under confidentiality — she does not want the other girls to know she has been talking. Assertions from these remarks should be treated as single-source intelligence (Ada's perspective) rather than confirmed facts. We will not be seeking corroboration via additional interviewees for this round.
 
@@ -365,7 +365,7 @@ Ada's accounts of Lyla's friendships contradict across sessions. The earlier deb
 - ~~**Bareres homeroom** — Olivia Q is the only student we've placed there. Are there others?~~ **DEPRIORITIZED:** Per Ada, the Bareres girls "aren't really involved" — "just people who are at recess."
 - **Clendenon** — Four girls (Kiara, Sanvi, Leela, Lou). Lou is now the key figure (Core Five member and Alicia-conflict intelligence-gatherer). Kiara and Olivia N hang out every day at recess (confirmed by Ada); Natalia and Mallorie likewise. These out-of-clique #1 picks are real, observed friendships.
 - **Johnson homeroom now at 5** — Margaret and Abby are new names from Ada's lunchtime description. Their social roles are unknown.
-- **Two-bloc structure emerging?** — Core Five vs. Alicia/Madeline/Anyeshka/Navya. If this solidifies, Kaisha is the critical swing figure (see "Kaisha: Mediator Under Pressure" in Section 3).
+- **Two-bloc structure confirmed (3/23–3/24).** Bloc 1: Ada's triads. Bloc 2: Alicia's coalition (recess: Madeline/Anyeshka/Navya; lunch: Annie/Julia/Lyla). No longer "emerging" — sustained over multiple observations. Kaisha is the critical swing figure (see Section 3 and Section 5.8). On 3/24, Ada formally broke up with Madeline via relay chain — the Madeline-Alicia side of Bloc 2 is now the only alliance Madeline has left.
 
 ---
 
@@ -483,7 +483,12 @@ Resources: Madeline as proxy confronter, Alicia's structural bridging and active
 
 **The swing figure.** Kaisha. Friends with both sides. Valued as a neutral mediator. Being instrumentalized by Ada (social shield on Steam Day; regular recess companion during FCC) while her Indian girls group members (Anyeshka, Navya) are aligning with Alicia's coalition. If forced to choose, which way does she go?
 
-**Ada's framing.** "They might have more allies and friends, but at least we have more brains." She sees this as a strategic contest and concedes the numerical disadvantage — which is growing. She compensates with intelligence operations (Lou's recon, the Ada-Mia debriefing pipeline) rather than recruitment.
+**3/24 developments.** Three events on a single day accelerate the consolidation:
+- **Sanvi provocation.** Ada and Natalia say hi to Sanvi "about 50 times." Whether intended as harassment or boredom, the target is Madeline's #1 friend — a direct probe at Bloc 2's interior. Madeline responds with the first adult-authority threat in the data ("I'm going to tell the teacher"), and Ada backs down. The peer social system has a boundary, and Madeline found it.
+- **Game appropriation.** Ada observes Alicia playing "the disruptive kids game" — a school role-play Ada and Mia invented — with "all the Indian kids." Like the dumb babies game, social artifacts created in one friendship are being repurposed by the other side. Ada calls it "stupid," but the irritation is visible. The game puts Alicia in an activity with the full Indian contingent, not just her three-pack — strengthening Bloc 2's recess component.
+- **Formal breakup with Madeline.** Ada delivers the message via relay chain (Ada → Mia → Jane → Madeline: "I don't want to be her friend anymore"). Madeline replies: "You're mean." This severs the last thread between Ada and Madeline, pushing Madeline fully into Bloc 2 with no residual loyalty to Ada. The relay chain — three intermediaries to avoid face-to-face contact — is quintessential Ada: she breaks up but never witnesses the reaction.
+
+**Ada's framing.** "They might have more allies and friends, but at least we have more brains." She sees this as a strategic contest and concedes the numerical disadvantage — which is growing. She compensates with intelligence operations (Lou's recon, the Ada-Mia debriefing pipeline) rather than recruitment. The 3/24 breakup with Madeline further narrows her alliance while Alicia's coalition continues to absorb new members.
 
 **What this means for boys.** Boys remain peripheral. The girls classify and rank them (Wade #1, Ari #2, Ethan #3; Barack and Sid as "weird boys"; Wade, Ari, and Lincoln labeled as dyslexic) but don't integrate them into their social structures. Mia's "way with boys" is valued as an intelligence-gathering skill, not a social bridge — she brings information back to the girls' world, she doesn't pull boys into it. The social economy is almost entirely girl-to-girl.
 
@@ -504,7 +509,11 @@ For consultants conducting round 2 interviews (when authorized):
 7. **For Navya or Anjolie:** "When you say 'the Indian girls,' who do you mean exactly? What happened with Lou?"
 8. **For any Gryser girl:** "Is it true that boys and girls talk more in your class? What do you think about that?"
 9. **For Jane:** "We heard something about Barack reading Babysitter's Club. What's the story there?"
-10. **For Ada (Steam Day reconstruction):** "You told us about the recess stuff on Steam Day — Madeline coming over, the tag near Alicia, hanging out with Kaisha. And then separately you mentioned the head-top thing with Alicia. Can you walk us through the whole day from the beginning? What happened first, what happened next, all the way through?" (Framed as timeline clarification, not credibility check. Ada disclosed the head-top confrontation only in a later session, after initially presenting the Steam Day recess narrative starting from "just minding our own business" under the playscape. The head-topping — where Ada told Alicia "you're not our friend" and then attempted to head-top her — is the one moment where Ada initiated physical escalation rather than reacting. Her delayed disclosure and consistent innocence framing throughout the first account suggest she edited the sequence to begin after her own provocative act. A full chronological walk-through may surface the connective tissue between these events and any additional details she initially chose to omit.)
+10. **For Ada:** "What is FCC exactly? What does Mia do as a communication buddy? How long is she out of recess for it?" (FCC pulls Mia out of recess and creates the debriefing protocol — understanding the program clarifies a key structural driver.)
+11. **For Ada:** "You said you told Mia to tell Jane to tell Madeline. How did Madeline react when she got the message? Did Jane say anything about it?" (Probe the relay breakup's aftermath and Jane's role as cross-homeroom messenger.)
+12. **For Madeline (round 2):** "Ada says she doesn't want to be your friend anymore. What happened from your side? What did Jane tell you exactly?" (Get Madeline's version of the relay breakup — contrast with Ada's.)
+
+**Note:** The Steam Day reconstruction question (previously listed here) has been asked and answered — see "Steam Day — Reconstructed Chronology" in Section 3 for the result.
 
 ---
 
