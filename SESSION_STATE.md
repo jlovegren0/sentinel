@@ -34,8 +34,9 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 11. **Steam Day timeline unified** — Head-top confrontation + Steam Day recess merged into single reconstructed chronology from Ada's three tellings. Key finding: Ada consistently omits the verbal provocation ("you're not our friend") and her own head-top attempt across tellings. Madeline came over 4 times, not 2.
 12. **Ada's 3/23 update integrated** — (a) Madeline-Alicia alliance confirmed ongoing (same recess pattern 10 days after Steam Day); (b) FCC program: Mia is a communication buddy, pulled out of recess; (c) Ada-Mia debriefing protocol: Ada gathers intel at recess with Kaisha/Navya, briefs Mia before recess ends + at lunch; (d) Alicia now sits with Annie/Julia/Lyla at lunch (Group G absorbing Alicia); (e) Alicia's "disinformation" (Ada's framing) — "lies a lot, tells those lies to Madeline"; (f) two-bloc structure confirmed, not just emerging.
 13. **Ada's 3/24 update integrated** — (a) Ada harassed Sanvi (said hi ~50 times with Natalia); Madeline threatened to tell teacher (first adult authority invocation); (b) Ada formally broke up with Madeline via relay chain: Ada→Mia→Jane→Madeline ("I don't want to be her friend anymore"); Madeline replied "You're mean"; (c) Jane now in active social role as cross-homeroom messenger.
+14. **Findings rewrite (3/26)** — Header updated with 3/24 source. Section 4: two-bloc structure upgraded from "emerging?" to "confirmed (3/23–3/24)." Section 5.8: new "3/24 developments" subsection (Sanvi provocation, game appropriation, formal Madeline breakup). Section 6: replaced answered Steam Day Q with FCC, relay breakup aftermath, and Madeline round-2 Qs.
 
-## Clique Summary (UPDATED 3/23)
+## Clique Summary (UPDATED 3/24)
 1. **Ada / Mia / Lou** + **Ada / Mia / Natalia** — Two overlapping triads (NOT a single Core Five; Olivia N peripheral)
 2. **Mia / Ashley / Olivia Q / Milan / Ellie** — Chinese girls / Clover Cats (confirmed by Ada)
 3. **Alicia / Navya / Anyeshka** — Alicia's recess network (three-pack only; Alice is separate)
@@ -62,7 +63,7 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 - Margin notes corrections from page 32
 - Who is Ruby? Which homeroom?
 - Who is "Nia" (from Ada's STT transcript)? Real person or verbal fumble?
-- Is the Madeline-Alicia alliance solidifying or was Steam Day a one-off?
+- ~~Is the Madeline-Alicia alliance solidifying or was Steam Day a one-off?~~ **RESOLVED**: Confirmed ongoing 3/13–3/24. Now formalized by Ada's breakup with Madeline.
 - Is Kaisha aware she's being instrumentalized by both sides?
 - How does Alicia now rank Alice vs. Navya/Anyeshka?
 - Is Lou's peripheral position in the Indian girls group still active, or has it fully lapsed?
