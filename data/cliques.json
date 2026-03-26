@@ -155,7 +155,44 @@
       },
       "content": "Madeline told Devon at recess: 'Ada bullies me and she also talks behind my back and glares at me.'",
       "how_discovered": "Devon told Ada directly.",
-      "analytical_note": "Madeline's narrative campaign has expanded beyond Alicia's inner circle to Devon, a Johnson classmate whose top friends (Olivia, Julia) are outside the conflict. But the intelligence backfired — Devon reported it to Ada. Devon is either neutral or Ada-leaning. This is the first confirmed instance of Madeline's gossip reaching Ada through an unintended channel.",
+      "analytical_note": "Madeline's narrative campaign has expanded beyond Alicia's inner circle to Devon, a Johnson classmate whose top friends (Olivia N, Julia — both Bell) are outside the conflict. But the intelligence backfired — Devon reported it to Ada. Devon is either neutral or Ada-leaning. This is the first confirmed instance of Madeline's gossip reaching Ada through an unintended channel.",
+      "source": "Ada 3/25 update"
+    },
+    {
+      "type": "intelligence_operation",
+      "name": "Anyeshka bathroom confession (3/25)",
+      "parties": {
+        "interrogator": "Ada",
+        "source": "Anyeshka",
+        "subject": "Alicia"
+      },
+      "sequence": [
+        "In the bathroom, Ada asks Anyeshka: 'Does Alicia talk about me?'",
+        "Anyeshka: 'Why should I tell you?'",
+        "Ada: 'Please, I won't tell anyone!'",
+        "Anyeshka: 'Fine, but you have to promise because then Alicia will get really mad at me.'",
+        "Anyeshka reveals: Alicia 'always says that you are stealing her friends and making her feel discluded even though you guys are not friends.'",
+        "Ada asks how often. Anyeshka: 'Every two recesses.'"
+      ],
+      "analytical_note": "Ada has turned one of Alicia's core three-pack allies into an intelligence source. Anyeshka's fear ('Alicia will get really mad at me') shows she knows she's betraying a confidence. Ada promised not to tell — but she told us. The content confirms Alicia's complaints are regular ('every two recesses') and consistent ('stealing friends, making her feel discluded'). This is Ada's most successful intelligence coup: direct from inside Alicia's inner circle.",
+      "source": "Ada 3/25 update"
+    },
+    {
+      "type": "information_spread",
+      "name": "Alice spreads narrative to Lyla (3/25)",
+      "parties": {
+        "spreader": "Alice",
+        "recipient": "Lyla",
+        "original_source": "Alicia"
+      },
+      "sequence": [
+        "Alice was with Alicia 'to talk with her about stuff and also she helped spread it to Lyla.'",
+        "Before Alice could finish talking with Lyla, Ada and Mia approached: 'Alice, are you talking about us?'",
+        "Alice: 'No.'",
+        "Ada to Lyla: 'Seriously, what did she tell you?'",
+        "Lyla: 'Why are you guys stealing Alicia's friends?'"
+      ],
+      "analytical_note": "Alice's role expands from companion (Group H) to active propagandist — she's spreading Alicia's 'stealing friends' narrative to the Annie/Julia/Lyla trio (Group G). Lyla's parroting of the accusation confirms the message was received. This connects Alicia's lunch group (Annie/Julia/Lyla) to the broader narrative campaign. The information chain: Alicia → Alice → Lyla. Ada caught it mid-transfer.",
       "source": "Ada 3/25 update"
     }
   ],
