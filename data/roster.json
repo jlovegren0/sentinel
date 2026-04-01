@@ -64,6 +64,9 @@
     {"name": "Margaret", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."},
     {"name": "Abby", "abbrev": null, "homeroom": "Johnson", "notes": "NEW (Ada remarks). Sits near Madeline and Jane at Johnson lunch table. Homeroom inferred from seating."}
   ],
+  "staff": [
+    {"name": "Miss Kentop", "role": "school counselor", "notes": "NEW (Ada 3/31). Natalia and Olivia reported the Alicia/Ada situation to her. First non-teacher adult authority figure in the data."}
+  ],
   "unplaced_names_from_diagram": [
     "Nazza (= Navya, misread)"
   ],

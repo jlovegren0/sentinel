@@ -35,8 +35,9 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 12. **Ada's 3/23 update integrated** — (a) Madeline-Alicia alliance confirmed ongoing (same recess pattern 10 days after Steam Day); (b) FCC program: Mia is a communication buddy, pulled out of recess; (c) Ada-Mia debriefing protocol: Ada gathers intel at recess with Kaisha/Navya, briefs Mia before recess ends + at lunch; (d) Alicia now sits with Annie/Julia/Lyla at lunch (Group G absorbing Alicia); (e) Alicia's "disinformation" (Ada's framing) — "lies a lot, tells those lies to Madeline"; (f) two-bloc structure confirmed, not just emerging.
 13. **Ada's 3/24 update integrated** — (a) Ada harassed Sanvi (said hi ~50 times with Natalia); Madeline threatened to tell teacher (first adult authority invocation); (b) Ada formally broke up with Madeline via relay chain: Ada→Mia→Jane→Madeline ("I don't want to be her friend anymore"); Madeline replied "You're mean"; (c) Jane now in active social role as cross-homeroom messenger.
 14. **Findings rewrite (3/26)** — Header updated with 3/24 source. Section 4: two-bloc structure upgraded from "emerging?" to "confirmed (3/23–3/24)." Section 5.8: new "3/24 developments" subsection (Sanvi provocation, game appropriation, formal Madeline breakup). Section 6: replaced answered Steam Day Q with FCC, relay breakup aftermath, and Madeline round-2 Qs.
+15. **Ada's 3/31 voice notes integrated** — Three direct voice notes from Ada (first time she recorded herself rather than relaying through father). (a) Alicia initiated reconciliation talk at recess; Ada agreed ("fighting is getting old") but Madeline was present; (b) Madeline physically grabbed Ada's arm to prevent her escaping — first physical restraint in data — Anyeshka intervened on Ada's behalf (fracture signal within Bloc 2); (c) Ada counter-offered talk with Alicia excluding Madeline ("she helps escalate the situation, not fix it"); (d) Ada and Mia escaped together; (e) Natalia and Olivia reported situation to school counselor Miss Kentop — first adult-authority involvement initiated by Bloc 1; Ada frustrated no feedback came back. New staff: Miss Kentop (counselor). Transcription pipeline: Telegram voice → Gemini 3.1 Pro Preview → structured JSON.
 
-## Clique Summary (UPDATED 3/24)
+## Clique Summary (UPDATED 3/31)
 1. **Ada / Mia / Lou** + **Ada / Mia / Natalia** — Two overlapping triads (NOT a single Core Five; Olivia N peripheral)
 2. **Mia / Ashley / Olivia Q / Milan / Ellie** — Chinese girls / Clover Cats (confirmed by Ada)
 3. **Alicia / Navya / Anyeshka** — Alicia's recess network (three-pack only; Alice is separate)
@@ -52,9 +53,11 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 3. **Complete Indian girls roster** — Confirmed core: Kaisha, Navya, Anyeshka. Group is cross-homeroom. Maperi embedded. Others TBD.
 4. **Margin notes on page 32** — corrections still needed
 5. **Identify remaining Gryser and Bareres students**
-6. **Monitor two-bloc development** — Confirmed structure as of 3/23. Bloc 1: Ada's triads. Bloc 2: Alicia's coalition (recess: Madeline/Anyeshka/Navya; lunch: Annie/Julia/Lyla). Contested: Navya, Kaisha, Natalia. Kaisha is the swing figure.
+6. **Monitor two-bloc development** — Confirmed structure as of 3/23, still active 3/31. Bloc 1: Ada's triads. Bloc 2: Alicia's coalition (recess: Madeline/Anyeshka/Navya; lunch: Annie/Julia/Lyla). Contested: Navya, Kaisha, Natalia. Kaisha is the swing figure. NEW 3/31: Alicia attempted reconciliation; Anyeshka defended Ada against Madeline (possible intra-Bloc 2 fracture). Both blocs have now invoked adult authority (Bloc 2: teacher threat 3/24; Bloc 1: counselor report 3/31).
 7. **Identify Ruby's homeroom** — she bridges Lou and possibly Lyla, unknown placement.
 8. **FCC program details** — What is FCC exactly? When does it occur (during recess or separate)? Who else participates?
+9. **Miss Kentop's response** — What did Natalia and Olivia tell the counselor? What (if anything) did Miss Kentop do? Why haven't they relayed the counselor's response to Ada?
+10. **Reconciliation outcome** — Did Ada and Alicia ever have the one-on-one talk (without Madeline)? If so, what happened?
 
 ## Open Questions
 - **LYLA DISCREPANCY** — Was Lyla ever friends with Alice? With Anjolie? Ada contradicts herself across sessions. Priority for round 2.
@@ -67,6 +70,9 @@ Data source: handwritten notes on London Review of Books pages (5 March 2026).
 - Is Kaisha aware she's being instrumentalized by both sides?
 - How does Alicia now rank Alice vs. Navya/Anyeshka?
 - Is Lou's peripheral position in the Indian girls group still active, or has it fully lapsed?
+- What did Miss Kentop do/say after Natalia and Olivia reported the situation? (3/31 — Ada has no visibility into this)
+- Is Anyeshka's defense of Ada (3/31 arm-grab incident) a one-off or a sign of genuine discomfort with Madeline's role?
+- Did the Ada-Alicia one-on-one talk (without Madeline) ever happen?
 
 ## Resolved Questions
 - Ashley's #1 "Chinese girls" = Olivia Q, Milan, Ellie (confirmed per Ada)
